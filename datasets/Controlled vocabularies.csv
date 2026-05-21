@@ -1,134 +1,63 @@
-﻿Element,Thesuarus / Authority,,,
-Bronze,http://vocab.getty.edu/aat/300010957,,,
-Sandstone,http://vocab.getty.edu/aat/300011376,,,
-Ceramic,http://vocab.getty.edu/aat/300235507,,,
-Crystal,http://vocab.getty.edu/aat/300011152,,,
-Stone,http://vocab.getty.edu/aat/300011176,,,
-Ivory,http://vocab.getty.edu/aat/300011857,,,
-Shell,http://vocab.getty.edu/aat/300310135,,,
-Lead,http://vocab.getty.edu/aat/300011022,,,
-Tin,http://vocab.getty.edu/aat/300133748,,,
-Gold,http://vocab.getty.edu/aat/300011021,,,
-Gilded,http://vocab.getty.edu/aat/300343596,,,
-Brick,https://vocab.getty.edu/aat/300010463,,,
-Laterite,https://vocab.getty.edu/aat/300014334,,,
-Earth,https://vocab.getty.edu/aat/300404382,,,
-Stucco,http://vocab.getty.edu/aat/300014966,,,
-Cambodia,https://sws.geonames.org/1831722/,,,
-France,https://sws.geonames.org/3017382/,,,
-Australia,https://sws.geonames.org/2077456/,,,
-United States of America,https://sws.geonames.org/6252001/,,,
-United Kingdom,https://sws.geonames.org/2635167/,,,
-New Zealand,https://sws.geonames.org/2186224/,,,
-Germany,https://sws.geonames.org/2921044/,,,
-Canada,https://sws.geonames.org/6251999/,,,
-Thailand,https://sws.geonames.org/1605651/,,,
-China,https://sws.geonames.org/1814991/,,,
-Greece,https://sws.geonames.org/390903/,,,
-Italy,https://sws.geonames.org/3175395/,,,
-Japan,https://sws.geonames.org/1861060/,,,
-Taiwan,https://sws.geonames.org/1668284/,,,
-Fiji,https://sws.geonames.org/2205218/,,,
-India,https://sws.geonames.org/1269750/,,,
-South Korea,https://sws.geonames.org/1835841/,,,
-Saudi Arabia,https://sws.geonames.org/102358/,,,
-Malaysia,https://sws.geonames.org/1733045/,,,
-Netherlands,https://sws.geonames.org/2750405/,,,
-Poland,https://sws.geonames.org/798544/,,,
-Sweden,https://sws.geonames.org/2661886/,,,
-Mexico,https://sws.geonames.org/3996063/,,,
-Vietnam,https://sws.geonames.org/1562822/,,,
-Indonesia,https://sws.geonames.org/1643084/,,,
-Finland,https://sws.geonames.org/660013/,,,
-Denmark,https://sws.geonames.org/2623032/,,,
-Israel,https://sws.geonames.org/294640/,,,
-Singapore,https://sws.geonames.org/1880252/,,,
-Switzerland,https://sws.geonames.org/2658434/,,,
-Siem Reap Province,https://sws.geonames.org/1822213/,,,
-Preah Vihear Province,https://sws.geonames.org/1822676/,,,
-Kampong Thom Province,https://sws.geonames.org/1831124/,,,
-Angkor Thom,https://sws.geonames.org/8541392/,,,
-Banteay Srei,https://sws.geonames.org/9253801/,,,
-Choam Khsant,https://sws.geonames.org/9253788/,,,
-Krong Siem Reap,https://sws.geonames.org/7647224/,,,
-Kulen,https://sws.geonames.org/8403984/,,,
-Prasat Bakong,https://sws.geonames.org/8403891/,,,
-Prasat Sambor,https://sws.geonames.org/8541396/,,,
-Puok,https://sws.geonames.org/1822579/,,,
-Bakong,https://sws.geonames.org/12206527/,,,
-Doun Kaev,https://sws.geonames.org/12205733/,,,
-Kandaek,https://sws.geonames.org/12205737/,,,
-Kantuot,https://sws.geonames.org/12205481/,,,
-Khnar Sanday,https://sws.geonames.org/12206203/,,,
-Khnat,https://sws.geonames.org/12206280/,,,
-Kok Chak,https://sws.geonames.org/12206279/,,,
-Leang Dai,https://sws.geonames.org/12206245/,,,
-Nokor Thom,https://sws.geonames.org/12206268/,,,
-Preah Dak,https://sws.geonames.org/12206255/,,,
-Sambor,https://sws.geonames.org/12206434/,,,
-Srayang,https://sws.geonames.org/12205842/,,,
-Choam Khsant District,https://sws.geonames.org/12205286/,,,
-Toek Vil,https://sws.geonames.org/12205680/,,,
-New York,https://sws.geonames.org/5128581/,,,
-Cleveland,https://sws.geonames.org/5150529/,,,
-Paris,https://sws.geonames.org/2988507/,,,
-London,https://sws.geonames.org/2643743/,,,
-Cosne-Cours-sur-Loire,https://sws.geonames.org/3023475/,,,
-Berlin,https://sws.geonames.org/2950159/,,,
-Phnom Pehn,https://sws.geonames.org/1821306/,,,
-Temple,http://vocab.getty.edu/aat/300007595,,,
-Arogyasala,http://vocab.getty.edu/aat/300343474,,,
-Terrace,http://vocab.getty.edu/aat/300004182,,,
-Water Canal,http://vocab.getty.edu/aat/300133792,,,
-Temple Complex,http://vocab.getty.edu/aat/300007596,,,
-Spean (Bridge),https://vocab.getty.edu/aat/300007836,,,
-Cerimonial Gate,https://vocab.getty.edu/aat/300419358,,,
-Dharmasala,https://vocab.getty.edu/aat/300005626,,,
-Mound,http://vocab.getty.edu/aat/300008024,,,
-Baray (Ancient Reservoir),https://vocab.getty.edu/aat/300006191,,,
-Gopura,http://vocab.getty.edu/aat/300266134,,,
-Staircase,http://vocab.getty.edu/aat/300451352,,,
-Rock Carvings,http://vocab.getty.edu/aat/300080131,,,
-Buddhism,http://vocabularies.unesco.org/thesaurus/concept2344,,,
-Hinduism,http://vocabularies.unesco.org/thesaurus/concept2347,,,
-Bhavavarman I,http://www.wikidata.org/entity/Q379239,,,
-Isanavarman I,http://www.wikidata.org/entity/Q4205535,,,
-Bhavavarman II,http://www.wikidata.org/entity/Q2900662,,,
-Jayavarman I,http://www.wikidata.org/entity/Q281151,,,
-Queen Jayadevi,http://www.wikidata.org/entity/Q3163284,,,
-Jayavarman II,http://www.wikidata.org/entity/Q379239,,,
-Jayavarman III,http://www.wikidata.org/entity/Q887990,,,
-Indravarman I,http://www.wikidata.org/entity/Q562153,,,
-Yasovarman I,http://www.wikidata.org/entity/Q559810,,,
-Harshavarman I,http://www.wikidata.org/entity/Q130772,,,
-Isanavarman II,http://www.wikidata.org/entity/Q130771,,,
-Jayavarman IV,http://www.wikidata.org/entity/Q130708,,,
-Harshavarman II,http://www.wikidata.org/entity/Q130218,,,
-Rajendravarman II,http://www.wikidata.org/entity/Q130383,,,
-Jayavarman V,http://www.wikidata.org/entity/Q888762,,,
-Jayaviravarman,http://www.wikidata.org/entity/Q3163290,,,
-Udayadityavarman I,http://www.wikidata.org/entity/Q130264,,,
-Suryavarman I,http://www.wikidata.org/entity/Q501356,,,
-Udayadityavarman II,http://www.wikidata.org/entity/Q130806,,,
-Harshavarman III,http://www.wikidata.org/entity/Q136184,,,
-Jayavarman VI,http://www.wikidata.org/entity/Q135688,,,
-Dharanindravarman I,http://www.wikidata.org/entity/Q135690,,,
-Suryavarman II,http://www.wikidata.org/entity/Q313298,,,
-Dharanindravarman II,http://www.wikidata.org/entity/Q888319,,,
-Yasovarman II,http://www.wikidata.org/entity/Q888887,,,
-Tribhuvanadityavarman,http://www.wikidata.org/entity/Q4462960,,,
-Jayavarman VII,http://www.wikidata.org/entity/Q335273,,,
-Indravarman II,http://www.wikidata.org/entity/Q880886,,,
-Jayavarman VIII,http://www.wikidata.org/entity/Q879224,,,
-Indravarman III,http://www.wikidata.org/entity/Q7495118,,,
-Jewelry,http://vocab.getty.edu/aat/300211639,,,
-Metalwork,http://vocab.getty.edu/aat/300015336,,,
-Pottery,http://vocab.getty.edu/aat/300010666,,,
-Sculpture,http://vocab.getty.edu/aat/300047090,,,
-Ornamental,http://vocab.getty.edu/aat/300266794,,,
-Architectural,http://vocab.getty.edu/aat/300000885,,,
-Devotional,http://vocab.getty.edu/aat/300234144,,,
-Ritual,http://vocab.getty.edu/aat/300312158,,,
-Tool,http://vocab.getty.edu/aat/300024841,,,
-Storage,http://vocab.getty.edu/aat/300164528,,,
-Transport,http://vocab.getty.edu/aat/300055244,,,
+﻿Concept,ContVocab,IDK,Kings,Wikidata,Places,Geonames
+Bronze,300010957,KING_BHAV_I,Bhavavarman I,http://www.wikidata.org/entity/Q379239,Cambodia,https://sws.geonames.org/1831722/
+Ceramic,300235507,KING_BHAV_II,Bhavavarman II,http://www.wikidata.org/entity/Q2900662,Australia,https://sws.geonames.org/2077456/
+Mound,300008024,KING_DHAR_I,Dharanindravarman I,http://www.wikidata.org/entity/Q135690,Sweden,https://sws.geonames.org/2661886/
+Gold,300011021,KING_DHAR_II,Dharanindravarman II,http://www.wikidata.org/entity/Q888319,Vietnam,https://sws.geonames.org/1562822/
+Laterite,300014334,KING_HARS_I,Harshavarman I,http://www.wikidata.org/entity/Q130772,China,https://sws.geonames.org/1814991/
+Lead,300011022,KING_HARS_II,Harshavarman II,http://www.wikidata.org/entity/Q130218,Japan,https://sws.geonames.org/1861060/
+Sandstone,300011376,KING_HARS_II,Harshavarman III,http://www.wikidata.org/entity/Q136184,Netherlands,https://sws.geonames.org/2750405/
+Gilded,300343596,KING_INDR_I,Indravarman I,http://www.wikidata.org/entity/Q562153,Canada,https://sws.geonames.org/6251999/
+Crystal,300011152,KING_INDR_II,Indravarman II,http://www.wikidata.org/entity/Q880886,Israel,https://sws.geonames.org/294640/
+Ivory,300011857,KING_INDR_III,Indravarman III,http://www.wikidata.org/entity/Q7495118,Switzerland,https://sws.geonames.org/2658434/
+Shell,300310135,KING_ISAN_II,Isanavarman I,http://www.wikidata.org/entity/Q4205535,France,https://sws.geonames.org/3017382/
+Brick,300010463,KING_ISAN_I,Isanavarman II,http://www.wikidata.org/entity/Q130771,Greece,https://sws.geonames.org/390903/
+Stucco,300014966,KING_JAYA_I,Jayavarman I,http://www.wikidata.org/entity/Q281151,United States of America,https://sws.geonames.org/6252001/
+Stone,300011176,KING_JAYA_II,Jayavarman II,http://www.wikidata.org/entity/Q379239,New Zealand,https://sws.geonames.org/2186224/
+Earth,300404382,KING_JAYA_III,Jayavarman III,http://www.wikidata.org/entity/Q887990,Germany,https://sws.geonames.org/2921044/
+Terrace,300004182,KING_JAYA_IV,Jayavarman IV,http://www.wikidata.org/entity/Q130708,Italy,https://sws.geonames.org/3175395/
+Dharmasala,300005626,KING_JAYA_V,Jayavarman V,http://www.wikidata.org/entity/Q888762,Fiji,https://sws.geonames.org/2205218/
+Gopura,300266134,KING_JAYA_VI,Jayavarman VI,http://www.wikidata.org/entity/Q135688,Poland,https://sws.geonames.org/798544/
+Arogyasala,300343474,KING_JAYA_VII,Jayavarman VII,http://www.wikidata.org/entity/Q335273,Denmark,https://sws.geonames.org/2623032/
+Water Canal,300133792,KING_JAYA_IX,Jayavarman IX,http://www.wikidata.org/entity/Q3163289,Singapore,https://sws.geonames.org/1880252/
+Tin,300133748,KING_JAYA_VIII,Jayavarman VIII,http://www.wikidata.org/entity/Q879225,India,https://sws.geonames.org/1269750/
+Baray (Ancient Reservoir),300006191,KING_JAYAVIRA,Jayaviravarman,http://www.wikidata.org/entity/Q3163290,United Kingdom,https://sws.geonames.org/2635167/
+Hinduism,http://vocabularies.unesco.org/thesaurus/concept2347,QUEEN_JAYA,Queen Jayadevi,http://www.wikidata.org/entity/Q3163284,Taiwan,https://sws.geonames.org/1668284/
+Buddhism,http://vocabularies.unesco.org/thesaurus/concept2344,KING_RAJE_II,Rajendravarman II,http://www.wikidata.org/entity/Q130383,Saudi Arabia,https://sws.geonames.org/102358/
+Cerimonial Gate,300419358,KING_SURY_II,Suryavarman I,http://www.wikidata.org/entity/Q501356,Mexico,https://sws.geonames.org/3996063/
+Temple,300007595,KING_SURY_I,Suryavarman II,http://www.wikidata.org/entity/Q313298,Finland,https://sws.geonames.org/660013/
+Spean (Bridge),300007836,KING_TRIB,Tribhuvanadityavarman,http://www.wikidata.org/entity/Q4462960,South Korea,https://sws.geonames.org/1835841/
+Temple Complex,300007596,KING_UDAY_Ii,Udayadityavarman I,http://www.wikidata.org/entity/Q130264,Malaysia,https://sws.geonames.org/1733045/
+Rock Carvings,300080131,KING_UDAY_I,Udayadityavarman II,http://www.wikidata.org/entity/Q130806,Thailand,https://sws.geonames.org/1605651/
+Staircase,300451352,KING_YASO_I,Yasovarman I,http://www.wikidata.org/entity/Q559810,Indonesia,https://sws.geonames.org/1643084/
+Jewelry,300211639,KING_YASO_II,Yasovarman II,http://www.wikidata.org/entity/Q888887,Siem Reap Province,https://sws.geonames.org/1822213/
+Metalwork,300015336,,,,Preah Vihear Province,https://sws.geonames.org/1822676/
+Pottery,300010666,,,,Kampong Thom Province,https://sws.geonames.org/1831124/
+Sculpture,300047090,,,,Angkor Thom,https://sws.geonames.org/8541392/
+,,,,,Banteay Srei,https://sws.geonames.org/9253801/
+,,,,,Choam Khsant,https://sws.geonames.org/9253788/
+,,,,,Krong Siem Reap,https://sws.geonames.org/7647224/
+,,,,,Kulen,https://sws.geonames.org/8403984/
+,,,,,Prasat Bakong,https://sws.geonames.org/8403891/
+,,,,,Prasat Sambor,https://sws.geonames.org/8541396/
+,,,,,Puok,https://sws.geonames.org/1822579/
+,,,,,Bakong,https://sws.geonames.org/12206527/
+,,,,,Doun Kaev,https://sws.geonames.org/12205733/
+,,,,,Kandaek,https://sws.geonames.org/12205737/
+,,,,,Kantuot,https://sws.geonames.org/12205481/
+,,,,,Khnar Sanday,https://sws.geonames.org/12206203/
+,,,,,Khnat,https://sws.geonames.org/12206280/
+,,,,,Kok Chak,https://sws.geonames.org/12206279/
+,,,,,Leang Dai,https://sws.geonames.org/12206245/
+,,,,,Nokor Thom,https://sws.geonames.org/12206268/
+,,,,,Preah Dak,https://sws.geonames.org/12206255/
+,,,,,Sambor,https://sws.geonames.org/12206434/
+,,,,,Srayang,https://sws.geonames.org/12205842/
+,,,,,Choam Khsant District,https://sws.geonames.org/12205286/
+,,,,,Toek Vil,https://sws.geonames.org/12205680/
+,,,,,New York,https://sws.geonames.org/5128581/
+,,,,,Cleveland,https://sws.geonames.org/5150529/
+,,,,,Paris,https://sws.geonames.org/2988507/
+,,,,,London,https://sws.geonames.org/2643743/
+,,,,,Cosne-Cours-sur-Loire,https://sws.geonames.org/3023475/
+,,,,,Berlin,https://sws.geonames.org/2950159/
+,,,,,Phnom Penh,https://sws.geonames.org/1821306/
