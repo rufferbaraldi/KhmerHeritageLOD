@@ -433,6 +433,15 @@ bibo:Proceedings rdf:type owl:Class ;
                  rdfs:subClassOf dcterms:BibliographicResource .
 
 
+###  http://purl.org/ontology/bibo/Report
+bibo:Report rdf:type owl:Class ;
+            rdfs:subClassOf dcterms:BibliographicResource ,
+                            [ rdf:type owl:Restriction ;
+                              owl:onProperty dcterms:isPartOf ;
+                              owl:someValuesFrom bibo:Issue
+                            ] .
+
+
 ###  http://purl.org/ontology/bibo/Thesis
 bibo:Thesis rdf:type owl:Class ;
             rdfs:subClassOf dcterms:BibliographicResource .
@@ -491,15 +500,6 @@ crm:E57_Material rdf:type owl:Class .
 
 ###  http://www.cidoc-crm.org/cidoc-crm/E7_Activity
 crm:E7_Activity rdf:type owl:Class .
-
-
-###  http://www.semanticweb.org/ontologies/2026/khmerLOD/Report
-khmer:Report rdf:type owl:Class ;
-             rdfs:subClassOf dcterms:BibliographicResource ,
-                             [ rdf:type owl:Restriction ;
-                               owl:onProperty dcterms:isPartOf ;
-                               owl:someValuesFrom bibo:Issue
-                             ] .
 
 
 ###  http://www.w3.org/2004/02/skos/core#Concept
@@ -17168,7 +17168,7 @@ khmer:PUB_00074 rdf:type owl:NamedIndividual ,
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/PUB_00075
 khmer:PUB_00075 rdf:type owl:NamedIndividual ,
-                         khmer:Report ;
+                         bibo:Report ;
                 dcterms:accessRights <http://purl.org/coar/access_right/c_abf2> ;
                 dcterms:creator khmer:AUTH_DAKRAUSE ,
                                 khmer:AUTH_ESVPLEHWELEISEN ,
@@ -29378,6 +29378,11 @@ khmer:Vietnam rdf:type owl:NamedIndividual ,
 
 
 ###  https://sws.geonames.org/1562822/
+
+###  http://www.semanticweb.org/ontologies/2026/khmerLOD/a
+khmer:a rdf:type owl:NamedIndividual ,
+                 crm:E7_Activity .
+
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/new
 khmer:new rdf:type owl:NamedIndividual ,
