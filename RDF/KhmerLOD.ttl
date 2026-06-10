@@ -792,10 +792,10 @@ foaf:Person rdf:type owl:Class .
 
 ###  http://orcid.org/0000-0001-8625-4092
 <http://orcid.org/0000-0001-8625-4092> rdf:type owl:NamedIndividual ;
-                                       owl:sameAs kh:AUTH_TANAKA .
+                                       owl:sameAs kh:AUTH_TANAKA2 .
 
 
-###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_TANAKA
+###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_TANAKA2
 
 ###  http://orcid.org/0000-0001-8654-3038
 <http://orcid.org/0000-0001-8654-3038> rdf:type owl:NamedIndividual ;
@@ -2090,10 +2090,10 @@ foaf:Person rdf:type owl:Class .
 
 ###  http://orcid.org/0009-0006-2757-0865
 <http://orcid.org/0009-0006-2757-0865> rdf:type owl:NamedIndividual ;
-                                       owl:sameAs kh:AUTH_MAGUEN .
+                                       owl:sameAs kh:AUTH_MAGUER .
 
 
-###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_MAGUEN
+###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_MAGUER
 
 ###  http://orcid.org/0009-0006-4670-8399
 <http://orcid.org/0009-0006-4670-8399> rdf:type owl:NamedIndividual ;
@@ -3126,7 +3126,7 @@ kh:ACTV_00001 rdf:type owl:NamedIndividual ,
                           <http://vocab.getty.edu/aat/300379510> ,
                           <http://vocab.getty.edu/aat/300379880> ;
               schema:actionStatus schema:ActiveActionStatus ;
-              schema:funder kh:ORG_00152 ; 
+              schema:funder kh:ORG_00152 ;
               schema:maintainer kh:NATB_00001 ;
               crm:P125_used_object_of_type <http://vocab.getty.edu/aat/300011376> ,
                                            <http://vocab.getty.edu/aat/300014966> ;
@@ -3355,9 +3355,9 @@ kh:AUTH_ASSHAM rdf:type owl:NamedIndividual ,
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_ATBANN
 kh:AUTH_ATBANN rdf:type owl:NamedIndividual ,
-                         foaf:Person ;
-                foaf:member kh:ORG_00137 ;
-                foaf:name "Atsuhiko Banno" .
+                        foaf:Person ;
+               foaf:member kh:ORG_00137 ;
+               foaf:name "Atsuhiko Banno" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_BEPORT
@@ -4305,18 +4305,18 @@ kh:AUTH_LAMAYS rdf:type owl:NamedIndividual ,
                foaf:name "Larry W. Mays" .
 
 
-###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_LENAM
-kh:AUTH_LENAM rdf:type owl:NamedIndividual ,
-                        foaf:Person ;
-               foaf:member kh:ORG_00015 ;
-               foaf:name "Le Canh Nam" .
-
-
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_LEKONG
 kh:AUTH_LEKONG rdf:type owl:NamedIndividual ,
                         foaf:Person ;
                foaf:member kh:ORG_00031 ;
                foaf:name "Leaksmy Kong" .
+
+
+###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_LENAM
+kh:AUTH_LENAM rdf:type owl:NamedIndividual ,
+                       foaf:Person ;
+              foaf:member kh:ORG_00015 ;
+              foaf:name "Le Canh Nam" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_LIGAO
@@ -4388,8 +4388,8 @@ kh:AUTH_MADENG rdf:type owl:NamedIndividual ,
                foaf:name "Maocheng Deng" .
 
 
-###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_MAGUEN
-kh:AUTH_MAGUEN rdf:type owl:NamedIndividual ,
+###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_MAGUER
+kh:AUTH_MAGUER rdf:type owl:NamedIndividual ,
                         foaf:Person ;
                foaf:name "Mathieu Guérin" .
 
@@ -4571,107 +4571,107 @@ kh:AUTH_NAMAO rdf:type owl:NamedIndividual ,
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_NANAGU
 kh:AUTH_NANAGU rdf:type owl:NamedIndividual ,
-                          foaf:Person ;
-                 foaf:member kh:ORG_00137 ,
-                             kh:ORG_00147 ;
-                 foaf:name "Naoko Nagumo" .
+                        foaf:Person ;
+               foaf:member kh:ORG_00137 ,
+                           kh:ORG_00147 ;
+               foaf:name "Naoko Nagumo" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_NAWALE
 kh:AUTH_NAWALE rdf:type owl:NamedIndividual ,
-                         foaf:Person ;
-                foaf:name "Nathan Wales" .
+                        foaf:Person ;
+               foaf:name "Nathan Wales" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_NAYAMA
 kh:AUTH_NAYAMA rdf:type owl:NamedIndividual ,
-                          foaf:Person ;
-                 foaf:member kh:ORG_00137 ;
-                 foaf:name "Naoyuki Yamada" .
+                        foaf:Person ;
+               foaf:member kh:ORG_00137 ;
+               foaf:name "Naoyuki Yamada" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_NGRICH
 kh:AUTH_NGRICH rdf:type owl:NamedIndividual ,
-                            foaf:Person ;
-                   foaf:member kh:ORG_00136 ;
-                   foaf:name "Ngaire Richards" .
+                        foaf:Person ;
+               foaf:member kh:ORG_00136 ;
+               foaf:name "Ngaire Richards" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_NIHOFE
 kh:AUTH_NIHOFE rdf:type owl:NamedIndividual ,
-                         foaf:Person ;
-                foaf:member kh:ORG_00031 ;
-                foaf:name "Nina Hofer" .
+                        foaf:Person ;
+               foaf:member kh:ORG_00031 ;
+               foaf:name "Nina Hofer" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_NIMASI
 kh:AUTH_NIMASI rdf:type owl:NamedIndividual ,
-                          foaf:Person ;
-                 foaf:member kh:ORG_00026 ;
-                 foaf:name "Nicola Masini" .
+                        foaf:Person ;
+               foaf:member kh:ORG_00026 ;
+               foaf:name "Nicola Masini" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_NIREVI
 kh:AUTH_NIREVI rdf:type owl:NamedIndividual ,
-                          foaf:Person ;
-                 foaf:member kh:ORG_00086 ;
-                 foaf:name "Nicolas Revire" .
-
-
-###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_NOTAN
-kh:AUTH_NOTAN rdf:type owl:NamedIndividual ,
                         foaf:Person ;
-               foaf:member kh:ORG_00012 ;
-               foaf:name "Noel Hidalgo Tan" .
+               foaf:member kh:ORG_00086 ;
+               foaf:name "Nicolas Revire" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_NOSHIM
 kh:AUTH_NOSHIM rdf:type owl:NamedIndividual ,
-                           foaf:Person ;
-                  foaf:member kh:ORG_00147 ;
-                  foaf:name "Nobumasa Shimizu" .
+                        foaf:Person ;
+               foaf:member kh:ORG_00147 ;
+               foaf:name "Nobumasa Shimizu" .
+
+
+###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_NOTAN
+kh:AUTH_NOTAN rdf:type owl:NamedIndividual ,
+                       foaf:Person ;
+              foaf:member kh:ORG_00012 ;
+              foaf:name "Noel Hidalgo Tan" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_OLCUNI
 kh:AUTH_OLCUNI rdf:type owl:NamedIndividual ,
-                         foaf:Person ;
-                foaf:member kh:ORG_00147 ;
-                foaf:name "Olivier Cunin" .
+                        foaf:Person ;
+               foaf:member kh:ORG_00147 ;
+               foaf:name "Olivier Cunin" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_OLVOLD
 kh:AUTH_OLVOLD rdf:type owl:NamedIndividual ,
-                            foaf:Person ;
-                   foaf:member kh:ORG_00016 ;
-                   foaf:name "Olivier Voldoire" .
+                        foaf:Person ;
+               foaf:member kh:ORG_00016 ;
+               foaf:name "Olivier Voldoire" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_ORSALV
 kh:AUTH_ORSALV rdf:type owl:NamedIndividual ,
-                             foaf:Person ;
-                    foaf:member kh:ORG_00094 ;
-                    foaf:name "Ornella Salvadori" .
+                        foaf:Person ;
+               foaf:member kh:ORG_00094 ;
+               foaf:name "Ornella Salvadori" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_PABISH
 kh:AUTH_PABISH rdf:type owl:NamedIndividual ,
-                          foaf:Person ;
-                 foaf:member kh:ORG_00116 ;
-                 foaf:name "Paul Bishop" .
+                        foaf:Person ;
+               foaf:member kh:ORG_00116 ;
+               foaf:name "Paul Bishop" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_PANGER
 kh:AUTH_PANGER rdf:type owl:NamedIndividual ,
-                             foaf:Person ;
-                    foaf:member kh:ORG_00092 ;
-                    foaf:name "Patcharaporn Ngernkerd" .
+                        foaf:Person ;
+               foaf:member kh:ORG_00092 ;
+               foaf:name "Patcharaporn Ngernkerd" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_PAROBE
 kh:AUTH_PAROBE rdf:type owl:NamedIndividual ,
-                           foaf:Person ;
-                  foaf:member kh:ORG_00058 ;
-                  foaf:name "Patrick Roberts" .
+                        foaf:Person ;
+               foaf:member kh:ORG_00058 ;
+               foaf:name "Patrick Roberts" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_PATANG
@@ -4683,23 +4683,16 @@ kh:AUTH_PATANG rdf:type owl:NamedIndividual ,
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_PECUAS
 kh:AUTH_PECUAS rdf:type owl:NamedIndividual ,
-                          foaf:Person ;
-                 foaf:member kh:ORG_00140 ;
-                 foaf:name "Peter Cuasay" .
-
-
-###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_PESHAR
-kh:AUTH_PESHAR rdf:type owl:NamedIndividual ,
-                             foaf:Person ;
-                    foaf:member kh:ORG_00123 ;
-                    foaf:name "Peter D. Sharrock" .
+                        foaf:Person ;
+               foaf:member kh:ORG_00140 ;
+               foaf:name "Peter Cuasay" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_PEGRAV
 kh:AUTH_PEGRAV rdf:type owl:NamedIndividual ,
-                         foaf:Person ;
-                foaf:member kh:ORG_00127 ;
-                foaf:name "Peter Grave" .
+                        foaf:Person ;
+               foaf:member kh:ORG_00127 ;
+               foaf:name "Peter Grave" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_PEHU
@@ -4709,18 +4702,25 @@ kh:AUTH_PEHU rdf:type owl:NamedIndividual ,
              foaf:name "Pengfei Hu" .
 
 
+###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_PESHAR
+kh:AUTH_PESHAR rdf:type owl:NamedIndividual ,
+                        foaf:Person ;
+               foaf:member kh:ORG_00123 ;
+               foaf:name "Peter D. Sharrock" .
+
+
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_PHDILL
 kh:AUTH_PHDILL rdf:type owl:NamedIndividual ,
-                            foaf:Person ;
-                   foaf:member kh:ORG_00081 ;
-                   foaf:name "Philippe Dillmann" .
+                        foaf:Person ;
+               foaf:member kh:ORG_00081 ;
+               foaf:name "Philippe Dillmann" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_PHKASE
 kh:AUTH_PHKASE rdf:type owl:NamedIndividual ,
-                          foaf:Person ;
-                 foaf:member kh:ORG_00085 ;
-                 foaf:name "Phon Kaseka" .
+                        foaf:Person ;
+               foaf:member kh:ORG_00085 ;
+               foaf:name "Phon Kaseka" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_PHPHAL
@@ -4745,18 +4745,18 @@ kh:AUTH_PIHENG rdf:type owl:NamedIndividual ,
                foaf:name "Piphal Heng" .
 
 
-###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_PRTHAK
-kh:AUTH_PRTHAK rdf:type owl:NamedIndividual ,
-                           foaf:Person ;
-                  foaf:member kh:ORG_00048 ;
-                  foaf:name "Praveen K. Thakur" .
-
-
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_PRSING
 kh:AUTH_PRSING rdf:type owl:NamedIndividual ,
-                         foaf:Person ;
-                foaf:member kh:ORG_00080 ;
-                foaf:name "Prabhakar Singh" .
+                        foaf:Person ;
+               foaf:member kh:ORG_00080 ;
+               foaf:name "Prabhakar Singh" .
+
+
+###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_PRTHAK
+kh:AUTH_PRTHAK rdf:type owl:NamedIndividual ,
+                        foaf:Person ;
+               foaf:member kh:ORG_00048 ;
+               foaf:name "Praveen K. Thakur" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_QIGE
@@ -4775,135 +4775,135 @@ kh:AUTH_QUHUA rdf:type owl:NamedIndividual ,
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_RABAST
 kh:AUTH_RABAST rdf:type owl:NamedIndividual ,
-                              foaf:Person ;
-                     foaf:member kh:ORG_00009 ;
-                     foaf:name "Ram C. Bastakoti" .
+                        foaf:Person ;
+               foaf:member kh:ORG_00009 ;
+               foaf:name "Ram C. Bastakoti" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_RACHHA
 kh:AUTH_RACHHA rdf:type owl:NamedIndividual ,
-                         foaf:Person ;
-                foaf:member kh:ORG_00001 ;
-                foaf:name "Rachna Chhay" .
+                        foaf:Person ;
+               foaf:member kh:ORG_00001 ;
+               foaf:name "Rachna Chhay" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_RACHHE
 kh:AUTH_RACHHE rdf:type owl:NamedIndividual ,
-                          foaf:Person ;
-                 foaf:member kh:ORG_00001 ;
-                 foaf:name "Ratha Chhean" .
+                        foaf:Person ;
+               foaf:member kh:ORG_00001 ;
+               foaf:name "Ratha Chhean" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_RAKLEI
 kh:AUTH_RAKLEI rdf:type owl:NamedIndividual ,
-                                foaf:Person ;
-                       foaf:member kh:ORG_00109 ;
-                       foaf:name "Rainer Kleinschrodt" .
+                        foaf:Person ;
+               foaf:member kh:ORG_00109 ;
+               foaf:name "Rainer Kleinschrodt" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_RASHOO
 kh:AUTH_RASHOO rdf:type owl:NamedIndividual ,
-                               foaf:Person ;
-                      foaf:member kh:ORG_00092 ;
-                      foaf:name "Rasmi Shoocongdej" .
+                        foaf:Person ;
+               foaf:member kh:ORG_00092 ;
+               foaf:name "Rasmi Shoocongdej" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_RATHOS
 kh:AUTH_RATHOS rdf:type owl:NamedIndividual ,
-                            foaf:Person ;
-                   foaf:member kh:ORG_00130 ;
-                   foaf:name "Rachanie Thosarat" .
+                        foaf:Person ;
+               foaf:member kh:ORG_00130 ;
+               foaf:name "Rachanie Thosarat" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_REHAMI
 kh:AUTH_REHAMI rdf:type owl:NamedIndividual ,
-                            foaf:Person ;
-                   foaf:member kh:ORG_00012 ;
-                   foaf:name "Rebecca Hamilton" .
+                        foaf:Person ;
+               foaf:member kh:ORG_00012 ;
+               foaf:name "Rebecca Hamilton" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_RIMURP
 kh:AUTH_RIMURP rdf:type owl:NamedIndividual ,
-                           foaf:Person ;
-                  foaf:member kh:ORG_00136 ;
-                  foaf:name "Richard J. Murphy" .
-
-
-###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_ROFREN
-kh:AUTH_ROFREN rdf:type owl:NamedIndividual ,
-                          foaf:Person ;
-                 foaf:member kh:ORG_00047 ;
-                 foaf:name "Robert French" .
-
-
-###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_ROFUCH
-kh:AUTH_ROFUCH rdf:type owl:NamedIndividual ,
-                         foaf:Person ;
-                foaf:member kh:ORG_00109 ;
-                foaf:name "Robert Fuchs" .
+                        foaf:Person ;
+               foaf:member kh:ORG_00136 ;
+               foaf:name "Richard J. Murphy" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_ROFLET
 kh:AUTH_ROFLET rdf:type owl:NamedIndividual ,
-                             foaf:Person ;
-                    foaf:member kh:ORG_00136 ;
-                    foaf:name "Roland J. Fletcher" .
+                        foaf:Person ;
+               foaf:member kh:ORG_00136 ;
+               foaf:name "Roland J. Fletcher" .
+
+
+###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_ROFREN
+kh:AUTH_ROFREN rdf:type owl:NamedIndividual ,
+                        foaf:Person ;
+               foaf:member kh:ORG_00047 ;
+               foaf:name "Robert French" .
+
+
+###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_ROFUCH
+kh:AUTH_ROFUCH rdf:type owl:NamedIndividual ,
+                        foaf:Person ;
+               foaf:member kh:ORG_00109 ;
+               foaf:name "Robert Fuchs" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_ROKOES
 kh:AUTH_ROKOES rdf:type owl:NamedIndividual ,
-                             foaf:Person ;
-                    foaf:member kh:ORG_00093 ;
-                    foaf:name "Robert J. Koestler" .
+                        foaf:Person ;
+               foaf:member kh:ORG_00093 ;
+               foaf:name "Robert J. Koestler" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_ROKUSZ
 kh:AUTH_ROKUSZ rdf:type owl:NamedIndividual ,
-                             foaf:Person ;
-                    foaf:member kh:ORG_00046 ;
-                    foaf:name "Robert Kuszinger" .
+                        foaf:Person ;
+               foaf:member kh:ORG_00046 ;
+               foaf:name "Robert Kuszinger" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_ROLASA
 kh:AUTH_ROLASA rdf:type owl:NamedIndividual ,
-                              foaf:Person ;
-                     foaf:member kh:ORG_00026 ;
-                     foaf:name "Rosa Lasaponara" .
+                        foaf:Person ;
+               foaf:member kh:ORG_00026 ;
+               foaf:name "Rosa Lasaponara" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_ROREUC
 kh:AUTH_ROREUC rdf:type owl:NamedIndividual ,
-                           foaf:Person ;
-                  foaf:member kh:ORG_00109 ;
-                  foaf:name "Robin Reucher" .
+                        foaf:Person ;
+               foaf:member kh:ORG_00109 ;
+               foaf:name "Robin Reucher" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_RUHAYH
 kh:AUTH_RUHAYH rdf:type owl:NamedIndividual ,
-                          foaf:Person ;
-                 foaf:member kh:ORG_00138 ;
-                 foaf:name "Ruth Hayhoe" .
+                        foaf:Person ;
+               foaf:member kh:ORG_00138 ;
+               foaf:name "Ruth Hayhoe" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_RYWATA
 kh:AUTH_RYWATA rdf:type owl:NamedIndividual ,
-                            foaf:Person ;
-                   foaf:member kh:ORG_00147 ;
-                   foaf:name "Ryota Watanabe" .
+                        foaf:Person ;
+               foaf:member kh:ORG_00147 ;
+               foaf:name "Ryota Watanabe" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_SAETIE
 kh:AUTH_SAETIE rdf:type owl:NamedIndividual ,
-                           foaf:Person ;
-                  foaf:member kh:ORG_00016 ;
-                  foaf:name "Samuel Etienne" .
+                        foaf:Person ;
+               foaf:member kh:ORG_00016 ;
+               foaf:name "Samuel Etienne" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_SAKHUN
 kh:AUTH_SAKHUN rdf:type owl:NamedIndividual ,
-                            foaf:Person ;
-                   foaf:member kh:ORG_00092 ;
-                   foaf:name "Saritpong Khunsong" .
+                        foaf:Person ;
+               foaf:member kh:ORG_00092 ;
+               foaf:name "Saritpong Khunsong" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_SAKIM
@@ -4915,19 +4915,19 @@ kh:AUTH_SAKIM rdf:type owl:NamedIndividual ,
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_SAKLAS
 kh:AUTH_SAKLAS rdf:type owl:NamedIndividual ,
-                           foaf:Person ;
-                  foaf:member kh:ORG_00007 ,
-                              kh:ORG_00056 ,
-                              kh:ORG_00107 ,
-                              kh:ORG_00138 ;
-                  foaf:name "Sarah Klassen" .
+                        foaf:Person ;
+               foaf:member kh:ORG_00007 ,
+                           kh:ORG_00056 ,
+                           kh:ORG_00107 ,
+                           kh:ORG_00138 ;
+               foaf:name "Sarah Klassen" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_SALEE
 kh:AUTH_SALEE rdf:type owl:NamedIndividual ,
-                        foaf:Person ;
-               foaf:member kh:ORG_00150 ;
-               foaf:name "Sang Kook Lee" .
+                       foaf:Person ;
+              foaf:member kh:ORG_00150 ;
+              foaf:name "Sang Kook Lee" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_SAPHOU
@@ -4939,51 +4939,51 @@ kh:AUTH_SAPHOU rdf:type owl:NamedIndividual ,
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_SASAKH
 kh:AUTH_SASAKH rdf:type owl:NamedIndividual ,
-                            foaf:Person ;
-                   foaf:member kh:ORG_00006 ;
-                   foaf:name "Sakada Sakhoeun" .
+                        foaf:Person ;
+               foaf:member kh:ORG_00006 ;
+               foaf:name "Sakada Sakhoeun" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_SASARU
 kh:AUTH_SASARU rdf:type owl:NamedIndividual ,
-                         foaf:Person ;
-                foaf:member kh:ORG_00063 ;
-                foaf:name "Sambath Sarun" .
+                        foaf:Person ;
+               foaf:member kh:ORG_00063 ;
+               foaf:name "Sambath Sarun" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_SASHIM
 kh:AUTH_SASHIM rdf:type owl:NamedIndividual ,
-                             foaf:Person ;
-                    foaf:member kh:ORG_00147 ;
-                    foaf:name "Sae Shimamoto" .
+                        foaf:Person ;
+               foaf:member kh:ORG_00147 ;
+               foaf:name "Sae Shimamoto" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_SATACH
 kh:AUTH_SATACH rdf:type owl:NamedIndividual ,
-                           foaf:Person ;
-                  foaf:member kh:ORG_00147 ;
-                  foaf:name "Saori Tachino" .
-
-
-###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_SCORTM
-kh:AUTH_SCORTM rdf:type owl:NamedIndividual ,
-                           foaf:Person ;
-                  foaf:member kh:ORG_00110 ;
-                  foaf:name "Scott G. Ortman" .
+                        foaf:Person ;
+               foaf:member kh:ORG_00147 ;
+               foaf:name "Saori Tachino" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_SCHENS
 kh:AUTH_SCHENS rdf:type owl:NamedIndividual ,
-                           foaf:Person ;
-                  foaf:member kh:ORG_00067 ;
-                  foaf:name "Scott Hensley" .
+                        foaf:Person ;
+               foaf:member kh:ORG_00067 ;
+               foaf:name "Scott Hensley" .
+
+
+###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_SCORTM
+kh:AUTH_SCORTM rdf:type owl:NamedIndividual ,
+                        foaf:Person ;
+               foaf:member kh:ORG_00110 ;
+               foaf:name "Scott G. Ortman" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_SESAMA
 kh:AUTH_SESAMA rdf:type owl:NamedIndividual ,
-                          foaf:Person ;
-                 foaf:member kh:ORG_00008 ;
-                 foaf:name "Sela Samath" .
+                        foaf:Person ;
+               foaf:member kh:ORG_00008 ;
+               foaf:name "Sela Samath" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_SESOK
@@ -4995,16 +4995,16 @@ kh:AUTH_SESOK rdf:type owl:NamedIndividual ,
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_SHAGRA
 kh:AUTH_SHAGRA rdf:type owl:NamedIndividual ,
-                           foaf:Person ;
-                  foaf:member kh:ORG_00048 ;
-                  foaf:name "Shefali Agrawal" .
+                        foaf:Person ;
+               foaf:member kh:ORG_00048 ;
+               foaf:name "Shefali Agrawal" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_SHALVA
 kh:AUTH_SHALVA rdf:type owl:NamedIndividual ,
-                           foaf:Person ;
-                  foaf:member kh:ORG_00031 ;
-                  foaf:name "Sharon Alvares" .
+                        foaf:Person ;
+               foaf:member kh:ORG_00031 ;
+               foaf:name "Sharon Alvares" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_SHCHEN
@@ -5016,87 +5016,80 @@ kh:AUTH_SHCHEN rdf:type owl:NamedIndividual ,
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_SHKUMA
 kh:AUTH_SHKUMA rdf:type owl:NamedIndividual ,
-                         foaf:Person ;
-                foaf:member kh:ORG_00048 ;
-                foaf:name "Shashi Kumar" .
+                        foaf:Person ;
+               foaf:member kh:ORG_00048 ;
+               foaf:name "Shashi Kumar" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_SHSAKU
 kh:AUTH_SHSAKU rdf:type owl:NamedIndividual ,
-                           foaf:Person ;
-                  foaf:member kh:ORG_00147 ;
-                  foaf:name "Shigeyoshi Sakurai" .
+                        foaf:Person ;
+               foaf:member kh:ORG_00147 ;
+               foaf:name "Shigeyoshi Sakurai" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_SHSTRA
 kh:AUTH_SHSTRA rdf:type owl:NamedIndividual ,
-                          foaf:Person ;
-                 foaf:member kh:ORG_00148 ;
-                 foaf:name "Shane Strate" .
+                        foaf:Person ;
+               foaf:member kh:ORG_00148 ;
+               foaf:name "Shane Strate" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_SHWANG
 kh:AUTH_SHWANG rdf:type owl:NamedIndividual ,
-                         foaf:Person ;
-                foaf:member kh:ORG_00145 ;
-                foaf:name "Shi-Yu Simon Wang" .
+                        foaf:Person ;
+               foaf:member kh:ORG_00145 ;
+               foaf:name "Shi-Yu Simon Wang" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_SHYAMA
 kh:AUTH_SHYAMA rdf:type owl:NamedIndividual ,
-                          foaf:Person ;
-                 foaf:member kh:ORG_00147 ;
-                 foaf:name "Shunsuke Yamada" .
+                        foaf:Person ;
+               foaf:member kh:ORG_00147 ;
+               foaf:name "Shunsuke Yamada" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_SIBERN
 kh:AUTH_SIBERN rdf:type owl:NamedIndividual ,
-                              foaf:Person ;
-                     foaf:member kh:ORG_00084 ;
-                     foaf:name "Simone Bernardini" .
+                        foaf:Person ;
+               foaf:member kh:ORG_00084 ;
+               foaf:name "Simone Bernardini" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_SICESC
 kh:AUTH_SICESC rdf:type owl:NamedIndividual ,
-                           foaf:Person ;
-                  foaf:member kh:ORG_00084 ;
-                  foaf:name "Simona Ceschin" .
+                        foaf:Person ;
+               foaf:member kh:ORG_00084 ;
+               foaf:name "Simona Ceschin" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_SICHES
 kh:AUTH_SICHES rdf:type owl:NamedIndividual ,
-                              foaf:Person ;
-                     foaf:member kh:ORG_00135 ;
-                     foaf:name "Simon Chesterman" .
+                        foaf:Person ;
+               foaf:member kh:ORG_00135 ;
+               foaf:name "Simon Chesterman" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_SIMACK
 kh:AUTH_SIMACK rdf:type owl:NamedIndividual ,
-                             foaf:Person ;
-                    foaf:member kh:ORG_00116 ,
-                                kh:ORG_00146 ;
-                    foaf:name "Simon Mackenzie" .
+                        foaf:Person ;
+               foaf:member kh:ORG_00116 ,
+                           kh:ORG_00146 ;
+               foaf:name "Simon Mackenzie" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_SISIEG
 kh:AUTH_SISIEG rdf:type owl:NamedIndividual ,
-                              foaf:Person ;
-                     foaf:member kh:ORG_00118 ;
-                     foaf:name "Siegfried Siegesmund" .
+                        foaf:Person ;
+               foaf:member kh:ORG_00118 ;
+               foaf:name "Siegfried Siegesmund" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_SIWARR
 kh:AUTH_SIWARR rdf:type owl:NamedIndividual ,
-                           foaf:Person ;
-                  foaf:member kh:ORG_00156 ;
-                  foaf:name "Simon Warrack" .
-
-
-###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_SVIGN
-kh:AUTH_SVIGN rdf:type owl:NamedIndividual ,
-                           foaf:Person ;
-                  foaf:member kh:ORG_00048 ;
-                  foaf:name "S. Kandasamy Vignesh" .
+                        foaf:Person ;
+               foaf:member kh:ORG_00156 ;
+               foaf:name "Simon Warrack" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_SOBAI
@@ -5108,9 +5101,9 @@ kh:AUTH_SOBAI rdf:type owl:NamedIndividual ,
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_SOBUCK
 kh:AUTH_SOBUCK rdf:type owl:NamedIndividual ,
-                           foaf:Person ;
-                  foaf:member kh:ORG_00143 ;
-                  foaf:name "Solomon Buckman" .
+                        foaf:Person ;
+               foaf:member kh:ORG_00143 ;
+               foaf:name "Solomon Buckman" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_SOCHAN
@@ -5150,38 +5143,38 @@ kh:AUTH_SOTHAU rdf:type owl:NamedIndividual ,
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_STGREE
 kh:AUTH_STGREE rdf:type owl:NamedIndividual ,
-                          foaf:Person ;
-                 foaf:member kh:ORG_00006 ;
-                 foaf:name "Stéphane De Greef" .
-
-
-###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_STWHIT
-kh:AUTH_STWHIT rdf:type owl:NamedIndividual ,
-                             foaf:Person ;
-                    foaf:member kh:ORG_00123 ;
-                    foaf:name "Stephen H. Whiteman" .
+                        foaf:Person ;
+               foaf:member kh:ORG_00006 ;
+               foaf:name "Stéphane De Greef" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_STLERO
 kh:AUTH_STLERO rdf:type owl:NamedIndividual ,
-                         foaf:Person ;
-                foaf:member kh:ORG_00018 ,
-                            kh:ORG_00081 ;
-                foaf:name "Stéphanie Leroy" .
+                        foaf:Person ;
+               foaf:member kh:ORG_00018 ,
+                           kh:ORG_00081 ;
+               foaf:name "Stéphanie Leroy" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_STPFEF
 kh:AUTH_STPFEF rdf:type owl:NamedIndividual ,
-                               foaf:Person ;
-                      foaf:member kh:ORG_00112 ;
-                      foaf:name "Stephan Pfefferkorn" .
+                        foaf:Person ;
+               foaf:member kh:ORG_00112 ;
+               foaf:name "Stephan Pfefferkorn" .
+
+
+###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_STWHIT
+kh:AUTH_STWHIT rdf:type owl:NamedIndividual ,
+                        foaf:Person ;
+               foaf:member kh:ORG_00123 ;
+               foaf:name "Stephen H. Whiteman" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_SUCHAU
 kh:AUTH_SUCHAU rdf:type owl:NamedIndividual ,
-                             foaf:Person ;
-                    foaf:member kh:ORG_00040 ;
-                    foaf:name "Sushank Chaudhary" .
+                        foaf:Person ;
+               foaf:member kh:ORG_00040 ;
+               foaf:name "Sushank Chaudhary" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_SUKUBO
@@ -5193,9 +5186,9 @@ kh:AUTH_SUKUBO rdf:type owl:NamedIndividual ,
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_SURUNK
 kh:AUTH_SURUNK rdf:type owl:NamedIndividual ,
-                          foaf:Person ;
-                 foaf:member kh:ORG_00109 ;
-                 foaf:name "Susanne Runkel" .
+                        foaf:Person ;
+               foaf:member kh:ORG_00109 ;
+               foaf:name "Susanne Runkel" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_SUYEN
@@ -5205,76 +5198,82 @@ kh:AUTH_SUYEN rdf:type owl:NamedIndividual ,
               foaf:name "Sufen Yen" .
 
 
+###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_SVIGN
+kh:AUTH_SVIGN rdf:type owl:NamedIndividual ,
+                       foaf:Person ;
+              foaf:member kh:ORG_00048 ;
+              foaf:name "S. Kandasamy Vignesh" .
+
+
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_SWCHEM
 kh:AUTH_SWCHEM rdf:type owl:NamedIndividual ,
-                              foaf:Person ;
-                     foaf:member kh:ORG_00014 ;
-                     foaf:name "Swati Chemburkar" .
+                        foaf:Person ;
+               foaf:member kh:ORG_00014 ;
+               foaf:name "Swati Chemburkar" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_SYBAUV
 kh:AUTH_SYBAUV rdf:type owl:NamedIndividual ,
-                           foaf:Person ;
-                  foaf:member kh:ORG_00081 ;
-                  foaf:name "Sylvain Bauvais" .
-
-
-###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_TASUY
-kh:AUTH_TASUY rdf:type owl:NamedIndividual ,
                         foaf:Person ;
-               foaf:member kh:ORG_00001 ;
-               foaf:name "Tan Boun Suy" .
-
-
-###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_TAMASU
-kh:AUTH_TAMASU rdf:type owl:NamedIndividual ,
-                          foaf:Person ;
-                 foaf:member kh:ORG_00137 ;
-                 foaf:name "Takatsugu Masuda" .
+               foaf:member kh:ORG_00081 ;
+               foaf:name "Sylvain Bauvais" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_TAEASU
 kh:AUTH_TAEASU rdf:type owl:NamedIndividual ,
-                          foaf:Person ;
-                 foaf:member kh:ORG_00142 ;
-                 foaf:name "Taylor M. Easum" .
+                        foaf:Person ;
+               foaf:member kh:ORG_00142 ;
+               foaf:name "Taylor M. Easum" .
+
+
+###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_TAMASU
+kh:AUTH_TAMASU rdf:type owl:NamedIndividual ,
+                        foaf:Person ;
+               foaf:member kh:ORG_00137 ;
+               foaf:name "Takatsugu Masuda" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_TANAKA
 kh:AUTH_TANAKA rdf:type owl:NamedIndividual ,
-                            foaf:Person ;
-                   foaf:member kh:ORG_00137 ,
-                               kh:ORG_00147 ;
-                   foaf:name "Takeshi Nakagawa" .
+                        foaf:Person ;
+               foaf:member kh:ORG_00147 ;
+               foaf:name "Takeshi Nakagawa" .
 
 
-###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_TANAKA
-kh:AUTH_TANAKA rdf:type owl:NamedIndividual ,
-                            foaf:Person ;
-                   foaf:member kh:ORG_00147 ;
-                   foaf:name "Tamaki Nakamura" .
+###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_TANAKA2
+kh:AUTH_TANAKA2 rdf:type owl:NamedIndividual ,
+                         foaf:Person ;
+                foaf:member kh:ORG_00137 ;
+                foaf:name "Tamaki Nakamura" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_TAOISH
 kh:AUTH_TAOISH rdf:type owl:NamedIndividual ,
-                         foaf:Person ;
-                foaf:member kh:ORG_00137 ;
-                foaf:name "Takeshi Oishi" .
+                        foaf:Person ;
+               foaf:member kh:ORG_00137 ;
+               foaf:name "Takeshi Oishi" .
+
+
+###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_TASUY
+kh:AUTH_TASUY rdf:type owl:NamedIndividual ,
+                       foaf:Person ;
+              foaf:member kh:ORG_00001 ;
+              foaf:name "Tan Boun Suy" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_TEDAVI
 kh:AUTH_TEDAVI rdf:type owl:NamedIndividual ,
-                         foaf:Person ;
-                foaf:member kh:ORG_00097 ,
-                            kh:ORG_00116 ;
-                foaf:name "Tess Davis" .
+                        foaf:Person ;
+               foaf:member kh:ORG_00097 ,
+                           kh:ORG_00116 ;
+               foaf:name "Tess Davis" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_TEDELA
 kh:AUTH_TEDELA rdf:type owl:NamedIndividual ,
-                          foaf:Person ;
-                 foaf:member kh:ORG_00146 ;
-                 foaf:name "Terry DeLacy" .
+                        foaf:Person ;
+               foaf:member kh:ORG_00146 ;
+               foaf:name "Terry DeLacy" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_TEHALL
@@ -5286,74 +5285,74 @@ kh:AUTH_TEHALL rdf:type owl:NamedIndividual ,
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_TELUST
 kh:AUTH_TELUST rdf:type owl:NamedIndividual ,
-                          foaf:Person ;
-                 foaf:member kh:ORG_00047 ,
-                             kh:ORG_00136 ;
-                 foaf:name "Terry Lustig" .
+                        foaf:Person ;
+               foaf:member kh:ORG_00047 ,
+                           kh:ORG_00136 ;
+               foaf:name "Terry Lustig" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_TEWARA
 kh:AUTH_TEWARA rdf:type owl:NamedIndividual ,
-                           foaf:Person ;
-                  foaf:member kh:ORG_00076 ;
-                  foaf:name "Tetsuya Waragai" .
+                        foaf:Person ;
+               foaf:member kh:ORG_00076 ;
+               foaf:name "Tetsuya Waragai" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_THBLAN
 kh:AUTH_THBLAN rdf:type owl:NamedIndividual ,
-                            foaf:Person ;
-                   foaf:member kh:ORG_00081 ;
-                   foaf:name "Thomas Blanchet" .
-
-
-###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_THPRYC
-kh:AUTH_THPRYC rdf:type owl:NamedIndividual ,
-                          foaf:Person ;
-                 foaf:member kh:ORG_00018 ,
-                             kh:ORG_00065 ;
-                 foaf:name "Thomas Oliver Pryce" .
+                        foaf:Person ;
+               foaf:member kh:ORG_00081 ;
+               foaf:name "Thomas Blanchet" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_THPONG
 kh:AUTH_THPONG rdf:type owl:NamedIndividual ,
-                                foaf:Person ;
-                       foaf:member kh:ORG_00022 ;
-                       foaf:name "Thitinan Pongsudhirak" .
+                        foaf:Person ;
+               foaf:member kh:ORG_00022 ;
+               foaf:name "Thitinan Pongsudhirak" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_THPRAB
 kh:AUTH_THPRAB rdf:type owl:NamedIndividual ,
-                            foaf:Person ;
-                   foaf:member kh:ORG_00103 ;
-                   foaf:name "Thoriq Tri Prabowo" .
+                        foaf:Person ;
+               foaf:member kh:ORG_00103 ;
+               foaf:name "Thoriq Tri Prabowo" .
+
+
+###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_THPRYC
+kh:AUTH_THPRYC rdf:type owl:NamedIndividual ,
+                        foaf:Person ;
+               foaf:member kh:ORG_00018 ,
+                           kh:ORG_00065 ;
+               foaf:name "Thomas Oliver Pryce" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_THWARS
 kh:AUTH_THWARS rdf:type owl:NamedIndividual ,
-                             foaf:Person ;
-                    foaf:member kh:ORG_00121 ;
-                    foaf:name "Thomas Warscheid" .
+                        foaf:Person ;
+               foaf:member kh:ORG_00121 ;
+               foaf:name "Thomas Warscheid" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_THWISA
 kh:AUTH_THWISA rdf:type owl:NamedIndividual ,
-                             foaf:Person ;
-                    foaf:member kh:ORG_00101 ;
-                    foaf:name "Thanachate Wisaijorn" .
+                        foaf:Person ;
+               foaf:member kh:ORG_00101 ;
+               foaf:name "Thanachate Wisaijorn" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_TIATTO
 kh:AUTH_TIATTO rdf:type owl:NamedIndividual ,
-                           foaf:Person ;
-                  foaf:member kh:ORG_00037 ;
-                  foaf:name "Tiago Attorre" .
+                        foaf:Person ;
+               foaf:member kh:ORG_00037 ;
+               foaf:name "Tiago Attorre" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_TISONN
 kh:AUTH_TISONN rdf:type owl:NamedIndividual ,
-                              foaf:Person ;
-                     foaf:member kh:ORG_00056 ;
-                     foaf:name "Till Frieder Sonnemann" .
+                        foaf:Person ;
+               foaf:member kh:ORG_00056 ;
+               foaf:name "Till Frieder Sonnemann" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_TITIN
@@ -5365,52 +5364,52 @@ kh:AUTH_TITIN rdf:type owl:NamedIndividual ,
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_TIWINT
 kh:AUTH_TIWINT rdf:type owl:NamedIndividual ,
-                          foaf:Person ;
-                 foaf:member kh:ORG_00136 ;
-                 foaf:name "Tim Winter" .
+                        foaf:Person ;
+               foaf:member kh:ORG_00136 ;
+               foaf:name "Tim Winter" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_TOHIRA
 kh:AUTH_TOHIRA rdf:type owl:NamedIndividual ,
-                         foaf:Person ;
-                foaf:member kh:ORG_00147 ;
-                foaf:name "Tomonari Hirai" .
+                        foaf:Person ;
+               foaf:member kh:ORG_00147 ;
+               foaf:name "Tomonari Hirai" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_TOMAED
 kh:AUTH_TOMAED rdf:type owl:NamedIndividual ,
-                         foaf:Person ;
-                foaf:member kh:ORG_00147 ;
-                foaf:name "Toshiro Maeda" .
-
-
-###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_TOSUGA
-kh:AUTH_TOSUGA rdf:type owl:NamedIndividual ,
-                         foaf:Person ;
-                foaf:member kh:ORG_00137 ,
-                            kh:ORG_00147 ;
-                foaf:name "Toshihiko Sugai" .
+                        foaf:Person ;
+               foaf:member kh:ORG_00147 ;
+               foaf:name "Toshiro Maeda" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_TOMINH
 kh:AUTH_TOMINH rdf:type owl:NamedIndividual ,
-                         foaf:Person ;
-                foaf:member kh:ORG_00015 ;
-                foaf:name "Ton That Minh" .
+                        foaf:Person ;
+               foaf:member kh:ORG_00015 ;
+               foaf:name "Ton That Minh" .
+
+
+###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_TOSUGA
+kh:AUTH_TOSUGA rdf:type owl:NamedIndividual ,
+                        foaf:Person ;
+               foaf:member kh:ORG_00137 ,
+                           kh:ORG_00147 ;
+               foaf:name "Toshihiko Sugai" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_TOTOKU
 kh:AUTH_TOTOKU rdf:type owl:NamedIndividual ,
-                            foaf:Person ;
-                   foaf:member kh:ORG_00137 ;
-                   foaf:name "Tomochika Tokunaga" .
+                        foaf:Person ;
+               foaf:member kh:ORG_00137 ;
+               foaf:name "Tomochika Tokunaga" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_TRHONG
 kh:AUTH_TRHONG rdf:type owl:NamedIndividual ,
-                         foaf:Person ;
-                foaf:member kh:ORG_00078 ;
-                foaf:name "Truong Mai Hong" .
+                        foaf:Person ;
+               foaf:member kh:ORG_00078 ;
+               foaf:name "Truong Mai Hong" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_VASAVO
@@ -5436,23 +5435,23 @@ kh:AUTH_VICHAN rdf:type owl:NamedIndividual ,
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_VIGOUL
 kh:AUTH_VIGOUL rdf:type owl:NamedIndividual ,
-                             foaf:Person ;
-                    foaf:member kh:ORG_00031 ;
-                    foaf:name "Victor Gouloubew" .
+                        foaf:Person ;
+               foaf:member kh:ORG_00031 ;
+               foaf:name "Victor Gouloubew" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_VIKATT
 kh:AUTH_VIKATT rdf:type owl:NamedIndividual ,
-                          foaf:Person ;
-                 foaf:member kh:ORG_00135 ;
-                 foaf:name "Victor Kattan" .
+                        foaf:Person ;
+               foaf:member kh:ORG_00135 ;
+               foaf:name "Victor Kattan" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_VILIEB
 kh:AUTH_VILIEB rdf:type owl:NamedIndividual ,
-                             foaf:Person ;
-                    foaf:member kh:ORG_00125 ;
-                    foaf:name "Victor Lieberman" .
+                        foaf:Person ;
+               foaf:member kh:ORG_00125 ;
+               foaf:name "Victor Lieberman" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_VIPEUO
@@ -5464,23 +5463,23 @@ kh:AUTH_VIPEUO rdf:type owl:NamedIndividual ,
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_WASAST
 kh:AUTH_WASAST rdf:type owl:NamedIndividual ,
-                              foaf:Person ;
-                     foaf:member kh:ORG_00031 ;
-                     foaf:name "Wayan Jarrah Sastrawan" .
+                        foaf:Person ;
+               foaf:member kh:ORG_00031 ;
+               foaf:name "Wayan Jarrah Sastrawan" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_WAWEDE
 kh:AUTH_WAWEDE rdf:type owl:NamedIndividual ,
-                            foaf:Person ;
-                   foaf:member kh:ORG_00118 ;
-                   foaf:name "Wanja Wedekind" .
+                        foaf:Person ;
+               foaf:member kh:ORG_00118 ;
+               foaf:name "Wanja Wedekind" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_WCARL
 kh:AUTH_WCARL rdf:type owl:NamedIndividual ,
-                            foaf:Person ;
-                   foaf:member kh:ORG_00058 ;
-                   foaf:name "W. Christopher Carleton" .
+                       foaf:Person ;
+              foaf:member kh:ORG_00058 ;
+              foaf:name "W. Christopher Carleton" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_WELAN
@@ -5500,9 +5499,9 @@ kh:AUTH_WEWANG rdf:type owl:NamedIndividual ,
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_WEZHEN
 kh:AUTH_WEZHEN rdf:type owl:NamedIndividual ,
-                         foaf:Person ;
-                foaf:member kh:ORG_00044 ;
-                foaf:name "Wenwu Zheng" .
+                        foaf:Person ;
+               foaf:member kh:ORG_00044 ;
+               foaf:name "Wenwu Zheng" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_WEZHOU
@@ -5529,17 +5528,17 @@ kh:AUTH_XILIU rdf:type owl:NamedIndividual ,
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_XUTAY
 kh:AUTH_XUTAY rdf:type owl:NamedIndividual ,
-                        foaf:Person ;
-               foaf:member kh:ORG_00075 ;
-               foaf:name "Xuan W. Tay" .
+                       foaf:Person ;
+              foaf:member kh:ORG_00075 ;
+              foaf:name "Xuan W. Tay" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_YAAKAZ
 kh:AUTH_YAAKAZ rdf:type owl:NamedIndividual ,
-                           foaf:Person ;
-                  foaf:member kh:ORG_00137 ,
-                              kh:ORG_00147 ;
-                  foaf:name "Yasushi Akazawa" .
+                        foaf:Person ;
+               foaf:member kh:ORG_00137 ,
+                           kh:ORG_00147 ;
+               foaf:name "Yasushi Akazawa" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_YAKATO
@@ -5572,48 +5571,48 @@ kh:AUTH_YILI rdf:type owl:NamedIndividual ,
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_YIZHUA
 kh:AUTH_YIZHUA rdf:type owl:NamedIndividual ,
-                          foaf:Person ;
-                 foaf:member kh:ORG_00105 ;
-                 foaf:name "Yijie Zhuang" .
+                        foaf:Person ;
+               foaf:member kh:ORG_00105 ;
+               foaf:name "Yijie Zhuang" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_YOFUTA
 kh:AUTH_YOFUTA rdf:type owl:NamedIndividual ,
-                            foaf:Person ;
-                   foaf:member kh:ORG_00073 ;
-                   foaf:name "Yoko Futagami" .
+                        foaf:Person ;
+               foaf:member kh:ORG_00073 ;
+               foaf:name "Yoko Futagami" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_YOIWAS
 kh:AUTH_YOIWAS rdf:type owl:NamedIndividual ,
-                           foaf:Person ;
-                  foaf:member kh:ORG_00029 ,
-                              kh:ORG_00137 ,
-                              kh:ORG_00147 ;
-                  foaf:name "Yoshinori Iwasaki" .
+                        foaf:Person ;
+               foaf:member kh:ORG_00029 ,
+                           kh:ORG_00137 ,
+                           kh:ORG_00147 ;
+               foaf:name "Yoshinori Iwasaki" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_YOKATA
 kh:AUTH_YOKATA rdf:type owl:NamedIndividual ,
-                            foaf:Person ;
-                   foaf:member kh:ORG_00073 ,
-                               kh:ORG_00098 ,
-                               kh:ORG_00137 ;
-                   foaf:name "Yoko Katayama" .
+                        foaf:Person ;
+               foaf:member kh:ORG_00073 ,
+                           kh:ORG_00098 ,
+                           kh:ORG_00137 ;
+               foaf:name "Yoko Katayama" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_YOKOBA
 kh:AUTH_YOKOBA rdf:type owl:NamedIndividual ,
-                             foaf:Person ;
-                    foaf:member kh:ORG_00147 ;
-                    foaf:name "Yoshimitsu Kobayashi" .
+                        foaf:Person ;
+               foaf:member kh:ORG_00147 ;
+               foaf:name "Yoshimitsu Kobayashi" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_YOKOJI
 kh:AUTH_YOKOJI rdf:type owl:NamedIndividual ,
-                          foaf:Person ;
-                 foaf:member kh:ORG_00076 ;
-                 foaf:name "Yoko Kojima" .
+                        foaf:Person ;
+               foaf:member kh:ORG_00076 ;
+               foaf:name "Yoko Kojima" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_YOQIAN
@@ -5632,23 +5631,18 @@ kh:AUTH_YOSATO rdf:type owl:NamedIndividual ,
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_YOSUGI
 kh:AUTH_YOSUGI rdf:type owl:NamedIndividual ,
-                            foaf:Person ;
-                   foaf:member kh:ORG_00137 ;
-                   foaf:name "Yoshihiro Sugimoto" .
-
-
-###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_YOSUGI
-kh:AUTH_YOSUGI rdf:type owl:NamedIndividual ,
-                           foaf:Person ;
-                  foaf:member kh:ORG_00147 ;
-                  foaf:name "Yoshikazu Sugiura" .
+                        foaf:Person ;
+               foaf:member kh:ORG_00137 ,
+                           kh:ORG_00147 ;
+               foaf:name "Yoshihiro Sugimoto" ,
+                         "Yoshikazu Sugiura" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_YOTANA
 kh:AUTH_YOTANA rdf:type owl:NamedIndividual ,
-                          foaf:Person ;
-                 foaf:member kh:ORG_00111 ;
-                 foaf:name "Yoshifumi Tanaka" .
+                        foaf:Person ;
+               foaf:member kh:ORG_00111 ;
+               foaf:name "Yoshifumi Tanaka" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_YUDENG
@@ -5667,16 +5661,16 @@ kh:AUTH_YULU rdf:type owl:NamedIndividual ,
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_YUSHIG
 kh:AUTH_YUSHIG rdf:type owl:NamedIndividual ,
-                            foaf:Person ;
-                   foaf:member kh:ORG_00076 ;
-                   foaf:name "Yutaka Shigeeda" .
+                        foaf:Person ;
+               foaf:member kh:ORG_00076 ;
+               foaf:name "Yutaka Shigeeda" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_YUTAKU
 kh:AUTH_YUTAKU rdf:type owl:NamedIndividual ,
-                          foaf:Person ;
-                 foaf:member kh:ORG_00147 ;
-                 foaf:name "Yukinori Takubo" .
+                        foaf:Person ;
+               foaf:member kh:ORG_00147 ;
+               foaf:name "Yukinori Takubo" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AngkorThom
@@ -7260,6 +7254,39 @@ kh:FOUN_00169 rdf:type owl:NamedIndividual ,
               crm:P8_took_place_on_or_within kh:SITE_00169 .
 
 
+###  http://www.semanticweb.org/ontologies/2026/khmerLOD/FOUN_00170
+kh:FOUN_00170 rdf:type owl:NamedIndividual ,
+                       crm:E12_Production ;
+              crm:P14_carried_out_by kh:KING_YASO_I ;
+              crm:P4_has_time-span kh:TSSI_00170 ;
+              crm:P8_took_place_on_or_within kh:SITE_00170 .
+
+
+###  http://www.semanticweb.org/ontologies/2026/khmerLOD/FOUN_00171
+kh:FOUN_00171 rdf:type owl:NamedIndividual ,
+                       crm:E12_Production ;
+              crm:P14_carried_out_by kh:KING_SURY_II ,
+                                     kh:KING_UDAY_II ;
+              crm:P4_has_time-span kh:TSSI_00171 ;
+              crm:P8_took_place_on_or_within kh:SITE_00171 .
+
+
+###  http://www.semanticweb.org/ontologies/2026/khmerLOD/FOUN_00172
+kh:FOUN_00172 rdf:type owl:NamedIndividual ,
+                       crm:E12_Production ;
+              crm:P14_carried_out_by kh:KING_JAYA_VII ;
+              crm:P4_has_time-span kh:TSSI_00172 ;
+              crm:P8_took_place_on_or_within kh:SITE_00172 .
+
+
+###  http://www.semanticweb.org/ontologies/2026/khmerLOD/FOUN_00173
+kh:FOUN_00173 rdf:type owl:NamedIndividual ,
+                       crm:E12_Production ;
+              crm:P14_carried_out_by kh:KING_INDR_I ;
+              crm:P4_has_time-span kh:TSSI_00173 ;
+              crm:P8_took_place_on_or_within kh:SITE_00173 .
+
+
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/Fair
 kh:Fair rdf:type owl:NamedIndividual ,
                  skos:Concept ;
@@ -7340,426 +7367,426 @@ kh:Italy rdf:type owl:NamedIndividual ,
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/J10_V22_I2
 kh:J10_V22_I2 rdf:type owl:NamedIndividual ,
-                         bibo:Issue ;
-                dct:isPartOf kh:JNL_00010 ;
-                bibo:issue 2 ;
-                bibo:volume 22 .
+                       bibo:Issue ;
+              dct:isPartOf kh:JNL_00010 ;
+              bibo:issue 2 ;
+              bibo:volume 22 .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/J10_V22_I3
 kh:J10_V22_I3 rdf:type owl:NamedIndividual ,
-                         bibo:Issue ;
-                dct:isPartOf kh:JNL_00010 ;
-                bibo:issue 3 ;
-                bibo:volume 22 .
+                       bibo:Issue ;
+              dct:isPartOf kh:JNL_00010 ;
+              bibo:issue 3 ;
+              bibo:volume 22 .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/J10_V25_I1
 kh:J10_V25_I1 rdf:type owl:NamedIndividual ,
-                         bibo:Issue ;
-                dct:isPartOf kh:JNL_00010 ;
-                bibo:issue 1 ;
-                bibo:volume 25 .
+                       bibo:Issue ;
+              dct:isPartOf kh:JNL_00010 ;
+              bibo:issue 1 ;
+              bibo:volume 25 .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/J10_V28_I1
 kh:J10_V28_I1 rdf:type owl:NamedIndividual ,
-                         bibo:Issue ;
-                dct:isPartOf kh:JNL_00010 ;
-                bibo:issue 1 ;
-                bibo:volume 28 .
+                       bibo:Issue ;
+              dct:isPartOf kh:JNL_00010 ;
+              bibo:issue 1 ;
+              bibo:volume 28 .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/J11_V31
 kh:J11_V31 rdf:type owl:NamedIndividual ,
-                      bibo:Issue ;
-             dct:isPartOf kh:JNL_00011 ;
-             bibo:volume 31 .
+                    bibo:Issue ;
+           dct:isPartOf kh:JNL_00011 ;
+           bibo:volume 31 .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/J11_V32
 kh:J11_V32 rdf:type owl:NamedIndividual ,
-                      bibo:Issue ;
-             dct:isPartOf kh:JNL_00011 ;
-             bibo:volume 32 .
+                    bibo:Issue ;
+           dct:isPartOf kh:JNL_00011 ;
+           bibo:volume 32 .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/J11_V34
 kh:J11_V34 rdf:type owl:NamedIndividual ,
-                      bibo:Issue ;
-             dct:isPartOf kh:JNL_00011 ;
-             bibo:volume 34 .
+                    bibo:Issue ;
+           dct:isPartOf kh:JNL_00011 ;
+           bibo:volume 34 .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/J12_V20
 kh:J12_V20 rdf:type owl:NamedIndividual ,
-                      bibo:Issue ;
-             dct:isPartOf kh:JNL_00012 ;
-             bibo:volume 20 .
+                    bibo:Issue ;
+           dct:isPartOf kh:JNL_00012 ;
+           bibo:volume 20 .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/J13_V52
 kh:J13_V52 rdf:type owl:NamedIndividual ,
-                      bibo:Issue ;
-             dct:isPartOf kh:JNL_00013 ;
-             bibo:volume 52 .
+                    bibo:Issue ;
+           dct:isPartOf kh:JNL_00013 ;
+           bibo:volume 52 .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/J13_V52_I4
 kh:J13_V52_I4 rdf:type owl:NamedIndividual ,
-                         bibo:Issue ;
-                dct:isPartOf kh:JNL_00013 ;
-                bibo:issue 4 ;
-                bibo:volume 52 .
+                       bibo:Issue ;
+              dct:isPartOf kh:JNL_00013 ;
+              bibo:issue 4 ;
+              bibo:volume 52 .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/J14_V53_I11
 kh:J14_V53_I11 rdf:type owl:NamedIndividual ,
-                          bibo:Issue ;
-                 dct:isPartOf kh:JNL_00014 ;
-                 bibo:issue 11 ;
-                 bibo:volume 53 .
+                        bibo:Issue ;
+               dct:isPartOf kh:JNL_00014 ;
+               bibo:issue 11 ;
+               bibo:volume 53 .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/J15_V33
 kh:J15_V33 rdf:type owl:NamedIndividual ,
-                      bibo:Issue ;
-             dct:isPartOf kh:JNL_00015 ;
-             bibo:volume 33 .
+                    bibo:Issue ;
+           dct:isPartOf kh:JNL_00015 ;
+           bibo:volume 33 .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/J15_V59
 kh:J15_V59 rdf:type owl:NamedIndividual ,
-                      bibo:Issue ;
-             dct:isPartOf kh:JNL_00015 ;
-             bibo:volume 59 .
+                    bibo:Issue ;
+           dct:isPartOf kh:JNL_00015 ;
+           bibo:volume 59 .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/J15_V63
 kh:J15_V63 rdf:type owl:NamedIndividual ,
-                      bibo:Issue ;
-             dct:isPartOf kh:JNL_00015 ;
-             bibo:volume 63 .
+                    bibo:Issue ;
+           dct:isPartOf kh:JNL_00015 ;
+           bibo:volume 63 .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/J16_V30
 kh:J16_V30 rdf:type owl:NamedIndividual ,
-                      bibo:Issue ;
-             dct:isPartOf kh:JNL_00016 ;
-             bibo:volume 30 .
+                    bibo:Issue ;
+           dct:isPartOf kh:JNL_00016 ;
+           bibo:volume 30 .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/J16_V31
 kh:J16_V31 rdf:type owl:NamedIndividual ,
-                      bibo:Issue ;
-             dct:isPartOf kh:JNL_00016 ;
-             bibo:volume 31 .
+                    bibo:Issue ;
+           dct:isPartOf kh:JNL_00016 ;
+           bibo:volume 31 .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/J17_V39_I2
 kh:J17_V39_I2 rdf:type owl:NamedIndividual ,
-                         bibo:Issue ;
-                dct:isPartOf kh:JNL_00017 ;
-                bibo:issue 2 ;
-                bibo:volume 39 .
+                       bibo:Issue ;
+              dct:isPartOf kh:JNL_00017 ;
+              bibo:issue 2 ;
+              bibo:volume 39 .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/J18_V5_I1
 kh:J18_V5_I1 rdf:type owl:NamedIndividual ,
-                        bibo:Issue ;
-               dct:isPartOf kh:JNL_00018 ;
-               bibo:issue 1 ;
-               bibo:volume 5 .
+                      bibo:Issue ;
+             dct:isPartOf kh:JNL_00018 ;
+             bibo:issue 1 ;
+             bibo:volume 5 .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/J18_V6_I2
 kh:J18_V6_I2 rdf:type owl:NamedIndividual ,
-                        bibo:Issue ;
-               dct:isPartOf kh:JNL_00018 ;
-               bibo:issue 2 ;
-               bibo:volume 6 .
+                      bibo:Issue ;
+             dct:isPartOf kh:JNL_00018 ;
+             bibo:issue 2 ;
+             bibo:volume 6 .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/J18_V9_I1
 kh:J18_V9_I1 rdf:type owl:NamedIndividual ,
-                        bibo:Issue ;
-               dct:isPartOf kh:JNL_00018 ;
-               bibo:issue 1 ;
-               bibo:volume 9 .
+                      bibo:Issue ;
+             dct:isPartOf kh:JNL_00018 ;
+             bibo:issue 1 ;
+             bibo:volume 9 .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/J19_V42_I2
 kh:J19_V42_I2 rdf:type owl:NamedIndividual ,
-                         bibo:Issue ;
-                dct:isPartOf kh:JNL_00019 ;
-                bibo:issue 2 ;
-                bibo:volume 42 .
+                       bibo:Issue ;
+              dct:isPartOf kh:JNL_00019 ;
+              bibo:issue 2 ;
+              bibo:volume 42 .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/J1_V133
 kh:J1_V133 rdf:type owl:NamedIndividual ,
-                      bibo:Issue ;
-             dct:isPartOf kh:JNL_00001 ;
-             bibo:volume 133 .
+                    bibo:Issue ;
+           dct:isPartOf kh:JNL_00001 ;
+           bibo:volume 133 .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/J20_V31
 kh:J20_V31 rdf:type owl:NamedIndividual ,
-                      bibo:Issue ;
-             dct:isPartOf kh:JNL_00020 ;
-             bibo:volume 31 .
+                    bibo:Issue ;
+           dct:isPartOf kh:JNL_00020 ;
+           bibo:volume 31 .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/J20_V43
 kh:J20_V43 rdf:type owl:NamedIndividual ,
-                      bibo:Issue ;
-             dct:isPartOf kh:JNL_00020 ;
-             bibo:volume 43 .
+                    bibo:Issue ;
+           dct:isPartOf kh:JNL_00020 ;
+           bibo:volume 43 .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/J20_V53
 kh:J20_V53 rdf:type owl:NamedIndividual ,
-                      bibo:Issue ;
-             dct:isPartOf kh:JNL_00020 ;
-             bibo:volume 53 .
+                    bibo:Issue ;
+           dct:isPartOf kh:JNL_00020 ;
+           bibo:volume 53 .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/J20_V90
 kh:J20_V90 rdf:type owl:NamedIndividual ,
-                      bibo:Issue ;
-             dct:isPartOf kh:JNL_00020 ;
-             bibo:volume 90 .
+                    bibo:Issue ;
+           dct:isPartOf kh:JNL_00020 ;
+           bibo:volume 90 .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/J20_V97
 kh:J20_V97 rdf:type owl:NamedIndividual ,
-                      bibo:Issue ;
-             dct:isPartOf kh:JNL_00020 ;
-             bibo:volume 97 .
+                    bibo:Issue ;
+           dct:isPartOf kh:JNL_00020 ;
+           bibo:volume 97 .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/J21_V26
 kh:J21_V26 rdf:type owl:NamedIndividual ,
-                      bibo:Issue ;
-             dct:isPartOf kh:JNL_00021 ;
-             bibo:volume 26 .
+                    bibo:Issue ;
+           dct:isPartOf kh:JNL_00021 ;
+           bibo:volume 26 .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/J22_V22_I2
 kh:J22_V22_I2 rdf:type owl:NamedIndividual ,
-                         bibo:Issue ;
-                dct:isPartOf kh:JNL_00022 ;
-                bibo:issue 2 ;
-                bibo:volume 22 .
+                       bibo:Issue ;
+              dct:isPartOf kh:JNL_00022 ;
+              bibo:issue 2 ;
+              bibo:volume 22 .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/J23_V11_I1
 kh:J23_V11_I1 rdf:type owl:NamedIndividual ,
-                         bibo:Issue ;
-                dct:isPartOf kh:JNL_00023 ;
-                bibo:issue 1 ;
-                bibo:volume 11 .
+                       bibo:Issue ;
+              dct:isPartOf kh:JNL_00023 ;
+              bibo:issue 1 ;
+              bibo:volume 11 .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/J23_V9_I1
 kh:J23_V9_I1 rdf:type owl:NamedIndividual ,
-                        bibo:Issue ;
-               dct:isPartOf kh:JNL_00023 ;
-               bibo:issue 1 ;
-               bibo:volume 9 .
+                      bibo:Issue ;
+             dct:isPartOf kh:JNL_00023 ;
+             bibo:issue 1 ;
+             bibo:volume 9 .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/J24_V155_I3
 kh:J24_V155_I3 rdf:type owl:NamedIndividual ,
-                          bibo:Issue ;
-                 dct:isPartOf kh:JNL_00024 ;
-                 bibo:issue 3 ;
-                 bibo:volume 155 .
+                        bibo:Issue ;
+               dct:isPartOf kh:JNL_00024 ;
+               bibo:issue 3 ;
+               bibo:volume 155 .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/J24_V74_I2
 kh:J24_V74_I2 rdf:type owl:NamedIndividual ,
-                         bibo:Issue ;
-                dct:isPartOf kh:JNL_00024 ;
-                bibo:issue 2 ;
-                bibo:volume 74 .
+                       bibo:Issue ;
+              dct:isPartOf kh:JNL_00024 ;
+              bibo:issue 2 ;
+              bibo:volume 74 .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/J25_V57_NUMB1
 kh:J25_V57_NUMB1 rdf:type owl:NamedIndividual ,
-                            bibo:Issue ;
-                   dct:isPartOf kh:JNL_00025 ;
-                   bibo:number 1 ;
-                   bibo:volume 57 .
+                          bibo:Issue ;
+                 dct:isPartOf kh:JNL_00025 ;
+                 bibo:number 1 ;
+                 bibo:volume 57 .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/J26_V37
 kh:J26_V37 rdf:type owl:NamedIndividual ,
-                      bibo:Issue ;
-             dct:isPartOf kh:JNL_00026 ;
-             bibo:volume 37 .
+                    bibo:Issue ;
+           dct:isPartOf kh:JNL_00026 ;
+           bibo:volume 37 .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/J27_V115
 kh:J27_V115 rdf:type owl:NamedIndividual ,
-                       bibo:Issue ;
-              dct:isPartOf kh:JNL_00027 ;
-              bibo:volume 115 .
+                     bibo:Issue ;
+            dct:isPartOf kh:JNL_00027 ;
+            bibo:volume 115 .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/J27_V207
 kh:J27_V207 rdf:type owl:NamedIndividual ,
-                       bibo:Issue ;
-              dct:isPartOf kh:JNL_00027 ;
-              bibo:volume 207 .
+                     bibo:Issue ;
+            dct:isPartOf kh:JNL_00027 ;
+            bibo:volume 207 .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/J28_V39
 kh:J28_V39 rdf:type owl:NamedIndividual ,
-                      bibo:Issue ;
-             dct:isPartOf kh:JNL_00028 ;
-             bibo:volume 39 .
+                    bibo:Issue ;
+           dct:isPartOf kh:JNL_00028 ;
+           bibo:volume 39 .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/J29_V77
 kh:J29_V77 rdf:type owl:NamedIndividual ,
-                      bibo:Issue ;
-             dct:isPartOf kh:JNL_00029 ;
-             bibo:volume 77 .
+                    bibo:Issue ;
+           dct:isPartOf kh:JNL_00029 ;
+           bibo:volume 77 .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/J2_V39_I4
 kh:J2_V39_I4 rdf:type owl:NamedIndividual ,
-                        bibo:Issue ;
-               dct:isPartOf kh:JNL_00002 ;
-               bibo:issue 4 ;
-               bibo:volume 39 .
+                      bibo:Issue ;
+             dct:isPartOf kh:JNL_00002 ;
+             bibo:issue 4 ;
+             bibo:volume 39 .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/J30_V53
 kh:J30_V53 rdf:type owl:NamedIndividual ,
-                      bibo:Issue ;
-             dct:isPartOf kh:JNL_00030 ;
-             bibo:volume 53 .
+                    bibo:Issue ;
+           dct:isPartOf kh:JNL_00030 ;
+           bibo:volume 53 .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/J31_V23_I4
 kh:J31_V23_I4 rdf:type owl:NamedIndividual ,
-                         bibo:Issue ;
-                dct:isPartOf kh:JNL_00031 ;
-                bibo:issue 4 ;
-                bibo:volume 23 .
+                       bibo:Issue ;
+              dct:isPartOf kh:JNL_00031 ;
+              bibo:issue 4 ;
+              bibo:volume 23 .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/J32_V45_I3
 kh:J32_V45_I3 rdf:type owl:NamedIndividual ,
-                         bibo:Issue ;
-                dct:isPartOf kh:JNL_00032 ;
-                bibo:issue 3 ;
-                bibo:volume 45 .
+                       bibo:Issue ;
+              dct:isPartOf kh:JNL_00032 ;
+              bibo:issue 3 ;
+              bibo:volume 45 .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/J33_V35
 kh:J33_V35 rdf:type owl:NamedIndividual ,
-                      bibo:Issue ;
-             dct:isPartOf kh:JNL_00033 ;
-             bibo:volume 35 .
+                    bibo:Issue ;
+           dct:isPartOf kh:JNL_00033 ;
+           bibo:volume 35 .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/J33_V40_I6
 kh:J33_V40_I6 rdf:type owl:NamedIndividual ,
-                         bibo:Issue ;
-                dct:isPartOf kh:JNL_00033 ;
-                bibo:issue 6 ;
-                bibo:volume 40 .
+                       bibo:Issue ;
+              dct:isPartOf kh:JNL_00033 ;
+              bibo:issue 6 ;
+              bibo:volume 40 .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/J34_V23_I5
 kh:J34_V23_I5 rdf:type owl:NamedIndividual ,
-                         bibo:Issue ;
-                dct:isPartOf kh:JNL_00034 ;
-                bibo:issue 5 ;
-                bibo:volume 23 .
+                       bibo:Issue ;
+              dct:isPartOf kh:JNL_00034 ;
+              bibo:issue 5 ;
+              bibo:volume 23 .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/J35_V136_I1
 kh:J35_V136_I1 rdf:type owl:NamedIndividual ,
-                          bibo:Issue ;
-                 dct:isPartOf kh:JNL_00035 ;
-                 bibo:issue 1 ;
-                 bibo:volume 136 .
+                        bibo:Issue ;
+               dct:isPartOf kh:JNL_00035 ;
+               bibo:issue 1 ;
+               bibo:volume 136 .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/J36_V58_I2
 kh:J36_V58_I2 rdf:type owl:NamedIndividual ,
-                         bibo:Issue ;
-                dct:isPartOf kh:JNL_00036 ;
-                bibo:issue 2 ;
-                bibo:volume 58 .
+                       bibo:Issue ;
+              dct:isPartOf kh:JNL_00036 ;
+              bibo:issue 2 ;
+              bibo:volume 58 .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/J37_V9_I5
 kh:J37_V9_I5 rdf:type owl:NamedIndividual ,
-                        bibo:Issue ;
-               dct:isPartOf kh:JNL_00037 ;
-               bibo:issue 5 ;
-               bibo:volume 9 .
+                      bibo:Issue ;
+             dct:isPartOf kh:JNL_00037 ;
+             bibo:issue 5 ;
+             bibo:volume 9 .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/J38_V2_I3
 kh:J38_V2_I3 rdf:type owl:NamedIndividual ,
-                        bibo:Issue ;
-               dct:isPartOf kh:JNL_00038 ;
-               bibo:issue 3 ;
-               bibo:volume 2 .
+                      bibo:Issue ;
+             dct:isPartOf kh:JNL_00038 ;
+             bibo:issue 3 ;
+             bibo:volume 2 .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/J38_V8_I7
 kh:J38_V8_I7 rdf:type owl:NamedIndividual ,
-                        bibo:Issue ;
-               dct:isPartOf kh:JNL_00038 ;
-               bibo:issue 7 ;
-               bibo:volume 8 .
+                      bibo:Issue ;
+             dct:isPartOf kh:JNL_00038 ;
+             bibo:issue 7 ;
+             bibo:volume 8 .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/J39_V13_NUMB15
 kh:J39_V13_NUMB15 rdf:type owl:NamedIndividual ,
-                             bibo:Issue ;
-                    dct:isPartOf kh:JNL_00039 ;
-                    bibo:number 15 ;
-                    bibo:volume 13 .
+                           bibo:Issue ;
+                  dct:isPartOf kh:JNL_00039 ;
+                  bibo:number 15 ;
+                  bibo:volume 13 .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/J39_V13_NUMB567
 kh:J39_V13_NUMB567 rdf:type owl:NamedIndividual ,
-                              bibo:Issue ;
-                     dct:isPartOf kh:JNL_00039 ;
-                     bibo:number 567 ;
-                     bibo:volume 13 .
+                            bibo:Issue ;
+                   dct:isPartOf kh:JNL_00039 ;
+                   bibo:number 567 ;
+                   bibo:volume 13 .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/J39_V2_NUMB10
 kh:J39_V2_NUMB10 rdf:type owl:NamedIndividual ,
-                            bibo:Issue ;
-                   dct:isPartOf kh:JNL_00039 ;
-                   bibo:number 10 ;
-                   bibo:volume 2 .
+                          bibo:Issue ;
+                 dct:isPartOf kh:JNL_00039 ;
+                 bibo:number 10 ;
+                 bibo:volume 2 .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/J39_V5_NUMB42
 kh:J39_V5_NUMB42 rdf:type owl:NamedIndividual ,
-                            bibo:Issue ;
-                   dct:isPartOf kh:JNL_00039 ;
-                   bibo:number 42 ;
-                   bibo:volume 5 .
+                          bibo:Issue ;
+                 dct:isPartOf kh:JNL_00039 ;
+                 bibo:number 42 ;
+                 bibo:volume 5 .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/J3_V108_I2
 kh:J3_V108_I2 rdf:type owl:NamedIndividual ,
-                         bibo:Issue ;
-                dct:isPartOf kh:JNL_00003 ;
-                bibo:issue 2 ;
-                bibo:volume 108 .
+                       bibo:Issue ;
+              dct:isPartOf kh:JNL_00003 ;
+              bibo:issue 2 ;
+              bibo:volume 108 .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/J40_NUMB40_41
@@ -7771,513 +7798,513 @@ kh:J40_NUMB40_41 rdf:type owl:NamedIndividual ,
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/J41_V96
 kh:J41_V96 rdf:type owl:NamedIndividual ,
-                      bibo:Issue ;
-             dct:isPartOf kh:JNL_00041 ;
-             bibo:volume 96 .
+                    bibo:Issue ;
+           dct:isPartOf kh:JNL_00041 ;
+           bibo:volume 96 .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/J42_V16_I9
 kh:J42_V16_I9 rdf:type owl:NamedIndividual ,
-                         bibo:Issue ;
-                dct:isPartOf kh:JNL_00042 ;
-                bibo:issue 9 ;
-                bibo:volume 16 .
+                       bibo:Issue ;
+              dct:isPartOf kh:JNL_00042 ;
+              bibo:issue 9 ;
+              bibo:volume 16 .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/J43_V78
 kh:J43_V78 rdf:type owl:NamedIndividual ,
-                      bibo:Issue ;
-             dct:isPartOf kh:JNL_00043 ;
-             bibo:volume 78 .
+                    bibo:Issue ;
+           dct:isPartOf kh:JNL_00043 ;
+           bibo:volume 78 .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/J44_V29_I4
 kh:J44_V29_I4 rdf:type owl:NamedIndividual ,
-                         bibo:Issue ;
-                dct:isPartOf kh:JNL_00044 ;
-                bibo:issue 4 ;
-                bibo:volume 29 .
+                       bibo:Issue ;
+              dct:isPartOf kh:JNL_00044 ;
+              bibo:issue 4 ;
+              bibo:volume 29 .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/J45_V14_I6
 kh:J45_V14_I6 rdf:type owl:NamedIndividual ,
-                         bibo:Issue ;
-                dct:isPartOf kh:JNL_00045 ;
-                bibo:issue 6 ;
-                bibo:volume 14 .
+                       bibo:Issue ;
+              dct:isPartOf kh:JNL_00045 ;
+              bibo:issue 6 ;
+              bibo:volume 14 .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/J45_V15_I4
 kh:J45_V15_I4 rdf:type owl:NamedIndividual ,
-                         bibo:Issue ;
-                dct:isPartOf kh:JNL_00045 ;
-                bibo:issue 4 ;
-                bibo:volume 15 .
+                       bibo:Issue ;
+              dct:isPartOf kh:JNL_00045 ;
+              bibo:issue 4 ;
+              bibo:volume 15 .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/J45_V17_I1
 kh:J45_V17_I1 rdf:type owl:NamedIndividual ,
-                         bibo:Issue ;
-                dct:isPartOf kh:JNL_00045 ;
-                bibo:issue 1 ;
-                bibo:volume 17 .
+                       bibo:Issue ;
+              dct:isPartOf kh:JNL_00045 ;
+              bibo:issue 1 ;
+              bibo:volume 17 .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/J45_V18_I2
 kh:J45_V18_I2 rdf:type owl:NamedIndividual ,
-                         bibo:Issue ;
-                dct:isPartOf kh:JNL_00045 ;
-                bibo:issue 2 ;
-                bibo:volume 18 .
+                       bibo:Issue ;
+              dct:isPartOf kh:JNL_00045 ;
+              bibo:issue 2 ;
+              bibo:volume 18 .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/J45_V20_I7
 kh:J45_V20_I7 rdf:type owl:NamedIndividual ,
-                         bibo:Issue ;
-                dct:isPartOf kh:JNL_00045 ;
-                bibo:issue 7 ;
-                bibo:volume 20 .
+                       bibo:Issue ;
+              dct:isPartOf kh:JNL_00045 ;
+              bibo:issue 7 ;
+              bibo:volume 20 .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/J45_V32_I5
 kh:J45_V32_I5 rdf:type owl:NamedIndividual ,
-                         bibo:Issue ;
-                dct:isPartOf kh:JNL_00045 ;
-                bibo:issue 5 ;
-                bibo:volume 32 .
+                       bibo:Issue ;
+              dct:isPartOf kh:JNL_00045 ;
+              bibo:issue 5 ;
+              bibo:volume 32 .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/J46_V30
 kh:J46_V30 rdf:type owl:NamedIndividual ,
-                      bibo:Issue ;
-             dct:isPartOf kh:JNL_00046 ;
-             bibo:volume 30 .
+                    bibo:Issue ;
+           dct:isPartOf kh:JNL_00046 ;
+           bibo:volume 30 .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/J46_V32
 kh:J46_V32 rdf:type owl:NamedIndividual ,
-                      bibo:Issue ;
-             dct:isPartOf kh:JNL_00046 ;
-             bibo:volume 32 .
+                    bibo:Issue ;
+           dct:isPartOf kh:JNL_00046 ;
+           bibo:volume 32 .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/J47_V42_I2
 kh:J47_V42_I2 rdf:type owl:NamedIndividual ,
-                         bibo:Issue ;
-                dct:isPartOf kh:JNL_00047 ;
-                bibo:issue 2 ;
-                bibo:volume 42 .
+                       bibo:Issue ;
+              dct:isPartOf kh:JNL_00047 ;
+              bibo:issue 2 ;
+              bibo:volume 42 .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/J48_V18_I6
 kh:J48_V18_I6 rdf:type owl:NamedIndividual ,
-                         bibo:Issue ;
-                dct:isPartOf kh:JNL_00048 ;
-                bibo:issue 6 ;
-                bibo:volume 18 .
+                       bibo:Issue ;
+              dct:isPartOf kh:JNL_00048 ;
+              bibo:issue 6 ;
+              bibo:volume 18 .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/J49_V2_I1
 kh:J49_V2_I1 rdf:type owl:NamedIndividual ,
-                        bibo:Issue ;
-               dct:isPartOf kh:JNL_00049 ;
-               bibo:issue 1 ;
-               bibo:volume 2 .
+                      bibo:Issue ;
+             dct:isPartOf kh:JNL_00049 ;
+             bibo:issue 1 ;
+             bibo:volume 2 .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/J49_V2_I2
 kh:J49_V2_I2 rdf:type owl:NamedIndividual ,
-                        bibo:Issue ;
-               dct:isPartOf kh:JNL_00049 ;
-               bibo:issue 2 ;
-               bibo:volume 2 .
+                      bibo:Issue ;
+             dct:isPartOf kh:JNL_00049 ;
+             bibo:issue 2 ;
+             bibo:volume 2 .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/J4_V34_I1
 kh:J4_V34_I1 rdf:type owl:NamedIndividual ,
-                        bibo:Issue ;
-               dct:isPartOf kh:JNL_00004 ;
-               bibo:issue 1 ;
-               bibo:volume 34 .
+                      bibo:Issue ;
+             dct:isPartOf kh:JNL_00004 ;
+             bibo:issue 1 ;
+             bibo:volume 34 .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/J50_V29
 kh:J50_V29 rdf:type owl:NamedIndividual ,
-                      bibo:Issue ;
-             dct:isPartOf kh:JNL_00050 ;
-             bibo:volume 29 .
+                    bibo:Issue ;
+           dct:isPartOf kh:JNL_00050 ;
+           bibo:volume 29 .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/J50_V33
 kh:J50_V33 rdf:type owl:NamedIndividual ,
-                      bibo:Issue ;
-             dct:isPartOf kh:JNL_00050 ;
-             bibo:volume 33 .
+                    bibo:Issue ;
+           dct:isPartOf kh:JNL_00050 ;
+           bibo:volume 33 .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/J51_V32
 kh:J51_V32 rdf:type owl:NamedIndividual ,
-                      bibo:Issue ;
-             dct:isPartOf kh:JNL_00051 ;
-             bibo:volume 32 .
+                    bibo:Issue ;
+           dct:isPartOf kh:JNL_00051 ;
+           bibo:volume 32 .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/J52_V17
 kh:J52_V17 rdf:type owl:NamedIndividual ,
-                      bibo:Issue ;
-             dct:isPartOf kh:JNL_00052 ;
-             bibo:volume 17 .
+                    bibo:Issue ;
+           dct:isPartOf kh:JNL_00052 ;
+           bibo:volume 17 .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/J52_V39_I5
 kh:J52_V39_I5 rdf:type owl:NamedIndividual ,
-                         bibo:Issue ;
-                dct:isPartOf kh:JNL_00052 ;
-                bibo:issue 5 ;
-                bibo:volume 39 .
+                       bibo:Issue ;
+              dct:isPartOf kh:JNL_00052 ;
+              bibo:issue 5 ;
+              bibo:volume 39 .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/J52_V47
 kh:J52_V47 rdf:type owl:NamedIndividual ,
-                      bibo:Issue ;
-             dct:isPartOf kh:JNL_00052 ;
-             bibo:volume 47 .
+                    bibo:Issue ;
+           dct:isPartOf kh:JNL_00052 ;
+           bibo:volume 47 .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/J53_V71_I603
 kh:J53_V71_I603 rdf:type owl:NamedIndividual ,
-                           bibo:Issue ;
-                  dct:isPartOf kh:JNL_00053 ;
-                  bibo:issue 603 ;
-                  bibo:volume 71 .
+                         bibo:Issue ;
+                dct:isPartOf kh:JNL_00053 ;
+                bibo:issue 603 ;
+                bibo:volume 71 .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/J53_V73_I628
 kh:J53_V73_I628 rdf:type owl:NamedIndividual ,
-                           bibo:Issue ;
-                  dct:isPartOf kh:JNL_00053 ;
-                  bibo:issue 628 ;
-                  bibo:volume 73 .
+                         bibo:Issue ;
+                dct:isPartOf kh:JNL_00053 ;
+                bibo:issue 628 ;
+                bibo:volume 73 .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/J53_V75_I657
 kh:J53_V75_I657 rdf:type owl:NamedIndividual ,
-                           bibo:Issue ;
-                  dct:isPartOf kh:JNL_00053 ;
-                  bibo:issue 657 ;
-                  bibo:volume 75 .
+                         bibo:Issue ;
+                dct:isPartOf kh:JNL_00053 ;
+                bibo:issue 657 ;
+                bibo:volume 75 .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/J53_V84_I760
 kh:J53_V84_I760 rdf:type owl:NamedIndividual ,
-                           bibo:Issue ;
-                  dct:isPartOf kh:JNL_00053 ;
-                  bibo:issue 760 ;
-                  bibo:volume 84 .
+                         bibo:Issue ;
+                dct:isPartOf kh:JNL_00053 ;
+                bibo:issue 760 ;
+                bibo:volume 84 .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/J54_V16_I5
 kh:J54_V16_I5 rdf:type owl:NamedIndividual ,
-                         bibo:Issue ;
-                dct:isPartOf kh:JNL_00054 ;
-                bibo:issue 5 ;
-                bibo:volume 16 .
+                       bibo:Issue ;
+              dct:isPartOf kh:JNL_00054 ;
+              bibo:issue 5 ;
+              bibo:volume 16 .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/J54_V47
 kh:J54_V47 rdf:type owl:NamedIndividual ,
-                      bibo:Issue ;
-             dct:isPartOf kh:JNL_00054 ;
-             bibo:volume 47 .
+                    bibo:Issue ;
+           dct:isPartOf kh:JNL_00054 ;
+           bibo:volume 47 .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/J55_V0
 kh:J55_V0 rdf:type owl:NamedIndividual ,
-                     bibo:Issue ;
-            dct:isPartOf kh:JNL_00055 ;
-            bibo:volume 0 .
+                   bibo:Issue ;
+          dct:isPartOf kh:JNL_00055 ;
+          bibo:volume 0 .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/J56_V56_I2
 kh:J56_V56_I2 rdf:type owl:NamedIndividual ,
-                         bibo:Issue ;
-                dct:isPartOf kh:JNL_00056 ;
-                bibo:issue 2 ;
-                bibo:volume 56 .
+                       bibo:Issue ;
+              dct:isPartOf kh:JNL_00056 ;
+              bibo:issue 2 ;
+              bibo:volume 56 .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/J57_V126_I3
 kh:J57_V126_I3 rdf:type owl:NamedIndividual ,
-                          bibo:Issue ;
-                 dct:isPartOf kh:JNL_00057 ;
-                 bibo:issue 3 ;
-                 bibo:volume 126 .
+                        bibo:Issue ;
+               dct:isPartOf kh:JNL_00057 ;
+               bibo:issue 3 ;
+               bibo:volume 126 .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/J58_V19_I2
 kh:J58_V19_I2 rdf:type owl:NamedIndividual ,
-                         bibo:Issue ;
-                dct:isPartOf kh:JNL_00058 ;
-                bibo:issue 2 ;
-                bibo:volume 19 .
+                       bibo:Issue ;
+              dct:isPartOf kh:JNL_00058 ;
+              bibo:issue 2 ;
+              bibo:volume 19 .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/J59_V11_I3
 kh:J59_V11_I3 rdf:type owl:NamedIndividual ,
-                         bibo:Issue ;
-                dct:isPartOf kh:JNL_00059 ;
-                bibo:issue 3 ;
-                bibo:volume 11 .
+                       bibo:Issue ;
+              dct:isPartOf kh:JNL_00059 ;
+              bibo:issue 3 ;
+              bibo:volume 11 .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/J5_V74_I283
 kh:J5_V74_I283 rdf:type owl:NamedIndividual ,
-                          bibo:Issue ;
-                 dct:isPartOf kh:JNL_00005 ;
-                 bibo:issue 283 ;
-                 bibo:volume 74 .
+                        bibo:Issue ;
+               dct:isPartOf kh:JNL_00005 ;
+               bibo:issue 283 ;
+               bibo:volume 74 .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/J5_V80_I309
 kh:J5_V80_I309 rdf:type owl:NamedIndividual ,
-                          bibo:Issue ;
-                 dct:isPartOf kh:JNL_00005 ;
-                 bibo:issue 309 ;
-                 bibo:volume 80 .
+                        bibo:Issue ;
+               dct:isPartOf kh:JNL_00005 ;
+               bibo:issue 309 ;
+               bibo:volume 80 .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/J5_V82_I317
 kh:J5_V82_I317 rdf:type owl:NamedIndividual ,
-                          bibo:Issue ;
-                 dct:isPartOf kh:JNL_00005 ;
-                 bibo:issue 317 ;
-                 bibo:volume 82 .
+                        bibo:Issue ;
+               dct:isPartOf kh:JNL_00005 ;
+               bibo:issue 317 ;
+               bibo:volume 82 .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/J5_V84_I324
 kh:J5_V84_I324 rdf:type owl:NamedIndividual ,
-                          bibo:Issue ;
-                 dct:isPartOf kh:JNL_00005 ;
-                 bibo:issue 324 ;
-                 bibo:volume 84 .
+                        bibo:Issue ;
+               dct:isPartOf kh:JNL_00005 ;
+               bibo:issue 324 ;
+               bibo:volume 84 .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/J5_V85_I328
 kh:J5_V85_I328 rdf:type owl:NamedIndividual ,
-                          bibo:Issue ;
-                 dct:isPartOf kh:JNL_00005 ;
-                 bibo:issue 328 ;
-                 bibo:volume 85 .
+                        bibo:Issue ;
+               dct:isPartOf kh:JNL_00005 ;
+               bibo:issue 328 ;
+               bibo:volume 85 .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/J5_V88_I340
 kh:J5_V88_I340 rdf:type owl:NamedIndividual ,
-                          bibo:Issue ;
-                 dct:isPartOf kh:JNL_00005 ;
-                 bibo:issue 340 ;
-                 bibo:volume 88 .
+                        bibo:Issue ;
+               dct:isPartOf kh:JNL_00005 ;
+               bibo:issue 340 ;
+               bibo:volume 88 .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/J5_V88_I341
 kh:J5_V88_I341 rdf:type owl:NamedIndividual ,
-                          bibo:Issue ;
-                 dct:isPartOf kh:JNL_00005 ;
-                 bibo:issue 341 ;
-                 bibo:volume 88 .
+                        bibo:Issue ;
+               dct:isPartOf kh:JNL_00005 ;
+               bibo:issue 341 ;
+               bibo:volume 88 .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/J5_V93_I371
 kh:J5_V93_I371 rdf:type owl:NamedIndividual ,
-                          bibo:Issue ;
-                 dct:isPartOf kh:JNL_00005 ;
-                 bibo:issue 371 ;
-                 bibo:volume 93 .
+                        bibo:Issue ;
+               dct:isPartOf kh:JNL_00005 ;
+               bibo:issue 371 ;
+               bibo:volume 93 .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/J60_V47
 kh:J60_V47 rdf:type owl:NamedIndividual ,
-                      bibo:Issue ;
-             dct:isPartOf kh:JNL_00060 ;
-             bibo:volume 47 .
+                    bibo:Issue ;
+           dct:isPartOf kh:JNL_00060 ;
+           bibo:volume 47 .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/J61_V16_I2
 kh:J61_V16_I2 rdf:type owl:NamedIndividual ,
-                         bibo:Issue ;
-                dct:isPartOf kh:JNL_00061 ;
-                bibo:issue 2 ;
-                bibo:volume 16 .
+                       bibo:Issue ;
+              dct:isPartOf kh:JNL_00061 ;
+              bibo:issue 2 ;
+              bibo:volume 16 .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/J61_V27_I2
 kh:J61_V27_I2 rdf:type owl:NamedIndividual ,
-                         bibo:Issue ;
-                dct:isPartOf kh:JNL_00061 ;
-                bibo:issue 2 ;
-                bibo:volume 27 .
+                       bibo:Issue ;
+              dct:isPartOf kh:JNL_00061 ;
+              bibo:issue 2 ;
+              bibo:volume 27 .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/J61_V32_I1
 kh:J61_V32_I1 rdf:type owl:NamedIndividual ,
-                         bibo:Issue ;
-                dct:isPartOf kh:JNL_00061 ;
-                bibo:issue 1 ;
-                bibo:volume 32 .
+                       bibo:Issue ;
+              dct:isPartOf kh:JNL_00061 ;
+              bibo:issue 1 ;
+              bibo:volume 32 .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/J61_V38_I1
 kh:J61_V38_I1 rdf:type owl:NamedIndividual ,
-                         bibo:Issue ;
-                dct:isPartOf kh:JNL_00061 ;
-                bibo:issue 1 ;
-                bibo:volume 38 .
+                       bibo:Issue ;
+              dct:isPartOf kh:JNL_00061 ;
+              bibo:issue 1 ;
+              bibo:volume 38 .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/J61_V40_I1
 kh:J61_V40_I1 rdf:type owl:NamedIndividual ,
-                         bibo:Issue ;
-                dct:isPartOf kh:JNL_00061 ;
-                bibo:issue 1 ;
-                bibo:volume 40 .
+                       bibo:Issue ;
+              dct:isPartOf kh:JNL_00061 ;
+              bibo:issue 1 ;
+              bibo:volume 40 .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/J61_V41_I3
 kh:J61_V41_I3 rdf:type owl:NamedIndividual ,
-                         bibo:Issue ;
-                dct:isPartOf kh:JNL_00061 ;
-                bibo:issue 3 ;
-                bibo:volume 41 .
+                       bibo:Issue ;
+              dct:isPartOf kh:JNL_00061 ;
+              bibo:issue 3 ;
+              bibo:volume 41 .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/J61_V46_I3
 kh:J61_V46_I3 rdf:type owl:NamedIndividual ,
-                         bibo:Issue ;
-                dct:isPartOf kh:JNL_00061 ;
-                bibo:issue 3 ;
-                bibo:volume 46 .
+                       bibo:Issue ;
+              dct:isPartOf kh:JNL_00061 ;
+              bibo:issue 3 ;
+              bibo:volume 46 .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/J61_V47_I2
 kh:J61_V47_I2 rdf:type owl:NamedIndividual ,
-                         bibo:Issue ;
-                dct:isPartOf kh:JNL_00061 ;
-                bibo:issue 2 ;
-                bibo:volume 47 .
+                       bibo:Issue ;
+              dct:isPartOf kh:JNL_00061 ;
+              bibo:issue 2 ;
+              bibo:volume 47 .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/J61_V47_I3
 kh:J61_V47_I3 rdf:type owl:NamedIndividual ,
-                         bibo:Issue ;
-                dct:isPartOf kh:JNL_00061 ;
-                bibo:issue 3 ;
-                bibo:volume 47 .
+                       bibo:Issue ;
+              dct:isPartOf kh:JNL_00061 ;
+              bibo:issue 3 ;
+              bibo:volume 47 .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/J61_V50_I3
 kh:J61_V50_I3 rdf:type owl:NamedIndividual ,
-                         bibo:Issue ;
-                dct:isPartOf kh:JNL_00061 ;
-                bibo:issue 3 ;
-                bibo:volume 50 .
+                       bibo:Issue ;
+              dct:isPartOf kh:JNL_00061 ;
+              bibo:issue 3 ;
+              bibo:volume 50 .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/J62_V50_I4
 kh:J62_V50_I4 rdf:type owl:NamedIndividual ,
-                         bibo:Issue ;
-                dct:isPartOf kh:JNL_00062 ;
-                bibo:issue 4 ;
-                bibo:volume 50 .
+                       bibo:Issue ;
+              dct:isPartOf kh:JNL_00062 ;
+              bibo:issue 4 ;
+              bibo:volume 50 .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/J63_V49
 kh:J63_V49 rdf:type owl:NamedIndividual ,
-                      bibo:Issue ;
-             dct:isPartOf kh:JNL_00063 ;
-             bibo:volume 49 .
+                    bibo:Issue ;
+           dct:isPartOf kh:JNL_00063 ;
+           bibo:volume 49 .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/J64_V34_I4
 kh:J64_V34_I4 rdf:type owl:NamedIndividual ,
-                         bibo:Issue ;
-                dct:isPartOf kh:JNL_00064 ;
-                bibo:issue 4 ;
-                bibo:volume 34 .
+                       bibo:Issue ;
+              dct:isPartOf kh:JNL_00064 ;
+              bibo:issue 4 ;
+              bibo:volume 34 .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/J65_V34
 kh:J65_V34 rdf:type owl:NamedIndividual ,
-                      bibo:Issue ;
-             dct:isPartOf kh:JNL_00065 ;
-             bibo:volume 34 .
+                    bibo:Issue ;
+           dct:isPartOf kh:JNL_00065 ;
+           bibo:volume 34 .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/J66_V28_I1
 kh:J66_V28_I1 rdf:type owl:NamedIndividual ,
-                         bibo:Issue ;
-                dct:isPartOf kh:JNL_00066 ;
-                bibo:issue 1 ;
-                bibo:volume 28 .
+                       bibo:Issue ;
+              dct:isPartOf kh:JNL_00066 ;
+              bibo:issue 1 ;
+              bibo:volume 28 .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/J66_V37_I1
 kh:J66_V37_I1 rdf:type owl:NamedIndividual ,
-                         bibo:Issue ;
-                dct:isPartOf kh:JNL_00066 ;
-                bibo:issue 1 ;
-                bibo:volume 37 .
+                       bibo:Issue ;
+              dct:isPartOf kh:JNL_00066 ;
+              bibo:issue 1 ;
+              bibo:volume 37 .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/J67_V60
 kh:J67_V60 rdf:type owl:NamedIndividual ,
-                      bibo:Issue ;
-             dct:isPartOf kh:JNL_00067 ;
-             bibo:volume 60 .
+                    bibo:Issue ;
+           dct:isPartOf kh:JNL_00067 ;
+           bibo:volume 60 .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/J68_V32_I4
 kh:J68_V32_I4 rdf:type owl:NamedIndividual ,
-                         bibo:Issue ;
-                dct:isPartOf kh:JNL_00068 ;
-                bibo:issue 4 ;
-                bibo:volume 32 .
+                       bibo:Issue ;
+              dct:isPartOf kh:JNL_00068 ;
+              bibo:issue 4 ;
+              bibo:volume 32 .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/J68_V46_I5
 kh:J68_V46_I5 rdf:type owl:NamedIndividual ,
-                         bibo:Issue ;
-                dct:isPartOf kh:JNL_00068 ;
-                bibo:issue 5 ;
-                bibo:volume 46 .
+                       bibo:Issue ;
+              dct:isPartOf kh:JNL_00068 ;
+              bibo:issue 5 ;
+              bibo:volume 46 .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/J69_V36
 kh:J69_V36 rdf:type owl:NamedIndividual ,
-                      bibo:Issue ;
-             dct:isPartOf kh:JNL_00069 ;
-             bibo:volume 36 .
+                    bibo:Issue ;
+           dct:isPartOf kh:JNL_00069 ;
+           bibo:volume 36 .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/J6_V29_I2
 kh:J6_V29_I2 rdf:type owl:NamedIndividual ,
-                        bibo:Issue ;
-               dct:isPartOf kh:JNL_00006 ;
-               bibo:issue 2 ;
-               bibo:volume 29 .
+                      bibo:Issue ;
+             dct:isPartOf kh:JNL_00006 ;
+             bibo:issue 2 ;
+             bibo:volume 29 .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/J6_V29_I3
 kh:J6_V29_I3 rdf:type owl:NamedIndividual ,
-                        bibo:Issue ;
-               dct:isPartOf kh:JNL_00006 ;
-               bibo:issue 3 ;
-               bibo:volume 29 .
+                      bibo:Issue ;
+             dct:isPartOf kh:JNL_00006 ;
+             bibo:issue 3 ;
+             bibo:volume 29 .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/J70_V3
 kh:J70_V3 rdf:type owl:NamedIndividual ,
-                     bibo:Issue ;
-            dct:isPartOf kh:JNL_00070 ;
-            bibo:volume 3 .
+                   bibo:Issue ;
+          dct:isPartOf kh:JNL_00070 ;
+          bibo:volume 3 .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/J71_NUMB87
@@ -8289,260 +8316,260 @@ kh:J71_NUMB87 rdf:type owl:NamedIndividual ,
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/J72_J1_V10_I11
 kh:J72_J1_V10_I11 rdf:type owl:NamedIndividual ,
-                             bibo:Issue ;
-                    dct:isPartOf kh:JNL_00072 ;
-                    bibo:issue 11 ;
-                    bibo:volume 10 .
+                           bibo:Issue ;
+                  dct:isPartOf kh:JNL_00072 ;
+                  bibo:issue 11 ;
+                  bibo:volume 10 .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/J72_V13_I10
 kh:J72_V13_I10 rdf:type owl:NamedIndividual ,
-                          bibo:Issue ;
-                 dct:isPartOf kh:JNL_00072 ;
-                 bibo:issue 10 ;
-                 bibo:volume 13 .
+                        bibo:Issue ;
+               dct:isPartOf kh:JNL_00072 ;
+               bibo:issue 10 ;
+               bibo:volume 13 .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/J72_V9_I1
 kh:J72_V9_I1 rdf:type owl:NamedIndividual ,
-                        bibo:Issue ;
-               dct:isPartOf kh:JNL_00072 ;
-               bibo:issue 1 ;
-               bibo:volume 9 .
+                      bibo:Issue ;
+             dct:isPartOf kh:JNL_00072 ;
+             bibo:issue 1 ;
+             bibo:volume 9 .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/J73_V41_I2
 kh:J73_V41_I2 rdf:type owl:NamedIndividual ,
-                         bibo:Issue ;
-                dct:isPartOf kh:JNL_00073 ;
-                bibo:issue 2 ;
-                bibo:volume 41 .
+                       bibo:Issue ;
+              dct:isPartOf kh:JNL_00073 ;
+              bibo:issue 2 ;
+              bibo:volume 41 .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/J74_J1_V104
 kh:J74_J1_V104 rdf:type owl:NamedIndividual ,
-                          bibo:Issue ;
-                 dct:isPartOf kh:JNL_00074 ;
-                 bibo:volume 104 .
+                        bibo:Issue ;
+               dct:isPartOf kh:JNL_00074 ;
+               bibo:volume 104 .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/J74_V107
 kh:J74_V107 rdf:type owl:NamedIndividual ,
-                       bibo:Issue ;
-              dct:isPartOf kh:JNL_00074 ;
-              bibo:volume 107 .
+                     bibo:Issue ;
+            dct:isPartOf kh:JNL_00074 ;
+            bibo:volume 107 .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/J74_V110
 kh:J74_V110 rdf:type owl:NamedIndividual ,
-                       bibo:Issue ;
-              dct:isPartOf kh:JNL_00074 ;
-              bibo:volume 110 .
+                     bibo:Issue ;
+            dct:isPartOf kh:JNL_00074 ;
+            bibo:volume 110 .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/J75_V13_I1
 kh:J75_V13_I1 rdf:type owl:NamedIndividual ,
-                         bibo:Issue ;
-                dct:isPartOf kh:JNL_00075 ;
-                bibo:issue 1 ;
-                bibo:volume 13 .
+                       bibo:Issue ;
+              dct:isPartOf kh:JNL_00075 ;
+              bibo:issue 1 ;
+              bibo:volume 13 .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/J75_V15_I2
 kh:J75_V15_I2 rdf:type owl:NamedIndividual ,
-                         bibo:Issue ;
-                dct:isPartOf kh:JNL_00075 ;
-                bibo:issue 2 ;
-                bibo:volume 15 .
+                       bibo:Issue ;
+              dct:isPartOf kh:JNL_00075 ;
+              bibo:issue 2 ;
+              bibo:volume 15 .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/J76_V95
 kh:J76_V95 rdf:type owl:NamedIndividual ,
-                      bibo:Issue ;
-             dct:isPartOf kh:JNL_00076 ;
-             bibo:volume 95 .
+                    bibo:Issue ;
+           dct:isPartOf kh:JNL_00076 ;
+           bibo:volume 95 .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/J77_V50_I3
 kh:J77_V50_I3 rdf:type owl:NamedIndividual ,
-                         bibo:Issue ;
-                dct:isPartOf kh:JNL_00077 ;
-                bibo:issue 3 ;
-                bibo:volume 50 .
+                       bibo:Issue ;
+              dct:isPartOf kh:JNL_00077 ;
+              bibo:issue 3 ;
+              bibo:volume 50 .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/J77_V55_I1
 kh:J77_V55_I1 rdf:type owl:NamedIndividual ,
-                         bibo:Issue ;
-                dct:isPartOf kh:JNL_00077 ;
-                bibo:issue 1 ;
-                bibo:volume 55 .
+                       bibo:Issue ;
+              dct:isPartOf kh:JNL_00077 ;
+              bibo:issue 1 ;
+              bibo:volume 55 .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/J77_V59_I6
 kh:J77_V59_I6 rdf:type owl:NamedIndividual ,
-                         bibo:Issue ;
-                dct:isPartOf kh:JNL_00077 ;
-                bibo:issue 6 ;
-                bibo:volume 59 .
+                       bibo:Issue ;
+              dct:isPartOf kh:JNL_00077 ;
+              bibo:issue 6 ;
+              bibo:volume 59 .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/J77_V60_I3
 kh:J77_V60_I3 rdf:type owl:NamedIndividual ,
-                         bibo:Issue ;
-                dct:isPartOf kh:JNL_00077 ;
-                bibo:issue 3 ;
-                bibo:volume 60 .
+                       bibo:Issue ;
+              dct:isPartOf kh:JNL_00077 ;
+              bibo:issue 3 ;
+              bibo:volume 60 .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/J78_V13_NUMB17913
 kh:J78_V13_NUMB17913 rdf:type owl:NamedIndividual ,
-                                bibo:Issue ;
-                       dct:isPartOf kh:JNL_00078 ;
-                       bibo:number 17913 ;
-                       bibo:volume 13 .
+                              bibo:Issue ;
+                     dct:isPartOf kh:JNL_00078 ;
+                     bibo:number 17913 ;
+                     bibo:volume 13 .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/J78_V15_NUMB15484
 kh:J78_V15_NUMB15484 rdf:type owl:NamedIndividual ,
-                                bibo:Issue ;
-                       dct:isPartOf kh:JNL_00078 ;
-                       bibo:number 15484 ;
-                       bibo:volume 15 .
+                              bibo:Issue ;
+                     dct:isPartOf kh:JNL_00078 ;
+                     bibo:number 15484 ;
+                     bibo:volume 15 .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/J78_V15_NUMB20718
 kh:J78_V15_NUMB20718 rdf:type owl:NamedIndividual ,
-                                bibo:Issue ;
-                       dct:isPartOf kh:JNL_00078 ;
-                       bibo:number 20718 ;
-                       bibo:volume 15 .
+                              bibo:Issue ;
+                     dct:isPartOf kh:JNL_00078 ;
+                     bibo:number 20718 ;
+                     bibo:volume 15 .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/J78_V15_NUMB43699
 kh:J78_V15_NUMB43699 rdf:type owl:NamedIndividual ,
-                                bibo:Issue ;
-                       dct:isPartOf kh:JNL_00078 ;
-                       bibo:number 43699 ;
-                       bibo:volume 15 .
+                              bibo:Issue ;
+                     dct:isPartOf kh:JNL_00078 ;
+                     bibo:number 43699 ;
+                     bibo:volume 15 .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/J78_V6_NUMB32601
 kh:J78_V6_NUMB32601 rdf:type owl:NamedIndividual ,
-                               bibo:Issue ;
-                      dct:isPartOf kh:JNL_00078 ;
-                      bibo:number 32601 ;
-                      bibo:volume 6 .
+                             bibo:Issue ;
+                    dct:isPartOf kh:JNL_00078 ;
+                    bibo:number 32601 ;
+                    bibo:volume 6 .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/J79_V31_I1
 kh:J79_V31_I1 rdf:type owl:NamedIndividual ,
-                         bibo:Issue ;
-                dct:isPartOf kh:JNL_00079 ;
-                bibo:issue 1 ;
-                bibo:volume 31 .
+                       bibo:Issue ;
+              dct:isPartOf kh:JNL_00079 ;
+              bibo:issue 1 ;
+              bibo:volume 31 .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/J7_V104
 kh:J7_V104 rdf:type owl:NamedIndividual ,
-                      bibo:Issue ;
-             dct:isPartOf kh:JNL_00007 ;
-             bibo:volume 104 .
+                    bibo:Issue ;
+           dct:isPartOf kh:JNL_00007 ;
+           bibo:volume 104 .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/J80_V3
 kh:J80_V3 rdf:type owl:NamedIndividual ,
-                     bibo:Issue ;
-            dct:isPartOf kh:JNL_00080 ;
-            bibo:volume 3 .
+                   bibo:Issue ;
+          dct:isPartOf kh:JNL_00080 ;
+          bibo:volume 3 .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/J81_V21_I1
 kh:J81_V21_I1 rdf:type owl:NamedIndividual ,
-                         bibo:Issue ;
-                dct:isPartOf kh:JNL_00081 ;
-                bibo:issue 1 ;
-                bibo:volume 21 .
+                       bibo:Issue ;
+              dct:isPartOf kh:JNL_00081 ;
+              bibo:issue 1 ;
+              bibo:volume 21 .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/J81_V22_I1
 kh:J81_V22_I1 rdf:type owl:NamedIndividual ,
-                         bibo:Issue ;
-                dct:isPartOf kh:JNL_00081 ;
-                bibo:issue 1 ;
-                bibo:volume 22 .
+                       bibo:Issue ;
+              dct:isPartOf kh:JNL_00081 ;
+              bibo:issue 1 ;
+              bibo:volume 22 .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/J81_V26_I2
 kh:J81_V26_I2 rdf:type owl:NamedIndividual ,
-                         bibo:Issue ;
-                dct:isPartOf kh:JNL_00081 ;
-                bibo:issue 2 ;
-                bibo:volume 26 .
+                       bibo:Issue ;
+              dct:isPartOf kh:JNL_00081 ;
+              bibo:issue 2 ;
+              bibo:volume 26 .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/J81_V26_I4
 kh:J81_V26_I4 rdf:type owl:NamedIndividual ,
-                         bibo:Issue ;
-                dct:isPartOf kh:JNL_00081 ;
-                bibo:issue 4 ;
-                bibo:volume 26 .
+                       bibo:Issue ;
+              dct:isPartOf kh:JNL_00081 ;
+              bibo:issue 4 ;
+              bibo:volume 26 .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/J82_V47_I2
 kh:J82_V47_I2 rdf:type owl:NamedIndividual ,
-                         bibo:Issue ;
-                dct:isPartOf kh:JNL_00082 ;
-                bibo:issue 2 ;
-                bibo:volume 47 .
+                       bibo:Issue ;
+              dct:isPartOf kh:JNL_00082 ;
+              bibo:issue 2 ;
+              bibo:volume 47 .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/J83_V18_I5
 kh:J83_V18_I5 rdf:type owl:NamedIndividual ,
-                         bibo:Issue ;
-                dct:isPartOf kh:JNL_00083 ;
-                bibo:issue 5 ;
-                bibo:volume 18 .
+                       bibo:Issue ;
+              dct:isPartOf kh:JNL_00083 ;
+              bibo:issue 5 ;
+              bibo:volume 18 .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/J84_V54_I5
 kh:J84_V54_I5 rdf:type owl:NamedIndividual ,
-                         bibo:Issue ;
-                dct:isPartOf kh:JNL_00084 ;
-                bibo:issue 5 ;
-                bibo:volume 54 .
+                       bibo:Issue ;
+              dct:isPartOf kh:JNL_00084 ;
+              bibo:issue 5 ;
+              bibo:volume 54 .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/J85_V24_I4
 kh:J85_V24_I4 rdf:type owl:NamedIndividual ,
-                         bibo:Issue ;
-                dct:isPartOf kh:JNL_00085 ;
-                bibo:issue 4 ;
-                bibo:volume 24 .
+                       bibo:Issue ;
+              dct:isPartOf kh:JNL_00085 ;
+              bibo:issue 4 ;
+              bibo:volume 24 .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/J86_V67_I1
 kh:J86_V67_I1 rdf:type owl:NamedIndividual ,
-                         bibo:Issue ;
-                dct:isPartOf kh:JNL_00086 ;
-                bibo:issue 1 ;
-                bibo:volume 67 .
+                       bibo:Issue ;
+              dct:isPartOf kh:JNL_00086 ;
+              bibo:issue 1 ;
+              bibo:volume 67 .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/J87_V16_I4
 kh:J87_V16_I4 rdf:type owl:NamedIndividual ,
-                         bibo:Issue ;
-                dct:isPartOf kh:JNL_00087 ;
-                bibo:issue 4 ;
-                bibo:volume 16 .
+                       bibo:Issue ;
+              dct:isPartOf kh:JNL_00087 ;
+              bibo:issue 4 ;
+              bibo:volume 16 .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/J88_V16_I7
 kh:J88_V16_I7 rdf:type owl:NamedIndividual ,
-                         bibo:Issue ;
-                dct:isPartOf kh:JNL_00088 ;
-                bibo:issue 7 ;
-                bibo:volume 16 .
+                       bibo:Issue ;
+              dct:isPartOf kh:JNL_00088 ;
+              bibo:issue 7 ;
+              bibo:volume 16 .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/J89_NUMB5
@@ -8568,63 +8595,63 @@ kh:J89_NUMB9 rdf:type owl:NamedIndividual ,
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/J8_V10
 kh:J8_V10 rdf:type owl:NamedIndividual ,
-                     bibo:Issue ;
-            dct:isPartOf kh:JNL_00008 ;
-            bibo:volume 10 .
+                   bibo:Issue ;
+          dct:isPartOf kh:JNL_00008 ;
+          bibo:volume 10 .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/J8_V11
 kh:J8_V11 rdf:type owl:NamedIndividual ,
-                     bibo:Issue ;
-            dct:isPartOf kh:JNL_00008 ;
-            bibo:volume 11 .
+                   bibo:Issue ;
+          dct:isPartOf kh:JNL_00008 ;
+          bibo:volume 11 .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/J90_V46_I4
 kh:J90_V46_I4 rdf:type owl:NamedIndividual ,
-                         bibo:Issue ;
-                dct:isPartOf kh:JNL_00090 ;
-                bibo:issue 4 ;
-                bibo:volume 46 .
+                       bibo:Issue ;
+              dct:isPartOf kh:JNL_00090 ;
+              bibo:issue 4 ;
+              bibo:volume 46 .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/J91_V75_I2
 kh:J91_V75_I2 rdf:type owl:NamedIndividual ,
-                         bibo:Issue ;
-                dct:isPartOf kh:JNL_00091 ;
-                bibo:issue 2 ;
-                bibo:volume 75 .
+                       bibo:Issue ;
+              dct:isPartOf kh:JNL_00091 ;
+              bibo:issue 2 ;
+              bibo:volume 75 .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/J91_V7_I5
 kh:J91_V7_I5 rdf:type owl:NamedIndividual ,
-                        bibo:Issue ;
-               dct:isPartOf kh:JNL_00091 ;
-               bibo:issue 5 ;
-               bibo:volume 7 .
+                      bibo:Issue ;
+             dct:isPartOf kh:JNL_00091 ;
+             bibo:issue 5 ;
+             bibo:volume 7 .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/J92_V158_I3
 kh:J92_V158_I3 rdf:type owl:NamedIndividual ,
-                          bibo:Issue ;
-                 dct:isPartOf kh:JNL_00092 ;
-                 bibo:issue 3 ;
-                 bibo:volume 158 .
+                        bibo:Issue ;
+               dct:isPartOf kh:JNL_00092 ;
+               bibo:issue 3 ;
+               bibo:volume 158 .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/J93_V35
 kh:J93_V35 rdf:type owl:NamedIndividual ,
-                      bibo:Issue ;
-             dct:isPartOf kh:JNL_00093 ;
-             bibo:volume 35 .
+                    bibo:Issue ;
+           dct:isPartOf kh:JNL_00093 ;
+           bibo:volume 35 .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/J9_V9_I1
 kh:J9_V9_I1 rdf:type owl:NamedIndividual ,
-                       bibo:Issue ;
-              dct:isPartOf kh:JNL_00009 ;
-              bibo:issue 1 ;
-              bibo:volume 9 .
+                     bibo:Issue ;
+            dct:isPartOf kh:JNL_00009 ;
+            bibo:issue 1 ;
+            bibo:volume 9 .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/JNL_00001
@@ -9538,10 +9565,6 @@ kh:London rdf:type owl:NamedIndividual ,
           rdfs:label "London" .
 
 
-###  http://www.semanticweb.org/ontologies/2026/khmerLOD/MG18218
-kh:MG18218 rdf:type owl:NamedIndividual .
-
-
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/MUS_00001
 kh:MUS_00001 rdf:type owl:NamedIndividual ,
                       foaf:Organization ;
@@ -9620,33 +9643,33 @@ kh:Mexico rdf:type owl:NamedIndividual ,
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/NATB_00001
 kh:NATB_00001 rdf:type owl:NamedIndividual ,
-                      foaf:Organization ;
-             owl:sameAs kh:ORG_00001 ;
-             dct:spatial kh:Cambodia ;
-             foaf:name "APSARA National Authority" .
+                       foaf:Organization ;
+              owl:sameAs kh:ORG_00001 ;
+              dct:spatial kh:Cambodia ;
+              foaf:name "APSARA National Authority" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/ORG_00001
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/NATB_00002
 kh:NATB_00002 rdf:type owl:NamedIndividual ,
-                      foaf:Organization ;
-             dct:spatial kh:Cambodia ;
-             foaf:name "National Authority For Preah Vihear (NAPV)" .
+                       foaf:Organization ;
+              dct:spatial kh:Cambodia ;
+              foaf:name "National Authority For Preah Vihear (NAPV)" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/NATB_00003
 kh:NATB_00003 rdf:type owl:NamedIndividual ,
-                      foaf:Organization ;
-             dct:spatial kh:Cambodia ;
-             foaf:name "National Authority for Sambor Prei Kuk (NASPK)" .
+                       foaf:Organization ;
+              dct:spatial kh:Cambodia ;
+              foaf:name "National Authority for Sambor Prei Kuk (NASPK)" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/NATB_00004
 kh:NATB_00004 rdf:type owl:NamedIndividual ,
-                      foaf:Organization ;
-             dct:spatial kh:Hungary ;
-             foaf:name "Royal Angkor Foundation" .
+                       foaf:Organization ;
+              dct:spatial kh:Hungary ;
+              foaf:name "Royal Angkor Foundation" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/Netherlands
@@ -14535,9 +14558,9 @@ kh:OBJ_00177 rdf:type owl:NamedIndividual ,
              crm:P45_consists_of <http://vocab.getty.edu/aat/300011376> ;
              crm:P50_has_current_keeper kh:MUS_00002 ;
              crm:P55_has_current_location kh:Paris ;
-             dct:description "Brahma sculpture"@en ;
-             crm:P1_is_identified_by "MG14913" ;
-             rdfs:label "Figure" .
+             dct:description "Scenes from Book IV (Kishkindha) of the Ramayana: the alliance of Sugriva with Rama and Lakshmana; the combat between the monkey brothers Sugriva and Vali; and the death of Vali together."@en ;
+             crm:P1_is_identified_by "MG18218" ;
+             rdfs:label "Lintel (Ramayana representation)" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/OBJ_00178
@@ -16755,6 +16778,12 @@ kh:PBSH_00043 rdf:type owl:NamedIndividual ,
               foaf:name "Wiley"@en .
 
 
+###  http://www.semanticweb.org/ontologies/2026/khmerLOD/PBSH_00044
+kh:PBSH_00044 rdf:type owl:NamedIndividual ,
+                       foaf:Organization ;
+              foaf:name "Japan International Cooperation Center (JICE)" .
+
+
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/PUB_00001
 kh:PUB_00001 rdf:type owl:NamedIndividual ,
                       bibo:Article ;
@@ -17890,7 +17919,7 @@ kh:PUB_00053 rdf:type owl:NamedIndividual ,
              dct:publisher kh:PBSH_00012 ;
              dct:subject <http://vocab.getty.edu/aat/300054138> ,
                          <http://vocab.getty.edu/aat/300054156> ;
-             crm:P70_documents kh:MG18218 ,
+             crm:P70_documents kh:OBJ_00177 ,
                                kh:SITE_00002 ,
                                kh:SITE_00019 ,
                                kh:SITE_00020 ,
@@ -17978,6 +18007,7 @@ kh:PUB_00057 rdf:type owl:NamedIndividual ,
 kh:PUB_00058 rdf:type owl:NamedIndividual ,
                       bibo:Thesis ;
              dct:accessRights coar:c_abf2 ;
+             dct:creator kh:AUTH_MAGUER ;
              dct:language <http://id.loc.gov/vocabulary/iso639-2/fra> ;
              dct:publisher kh:PBSH_00012 ;
              dct:subject <http://vocab.getty.edu/aat/300054394> ,
@@ -19246,6 +19276,7 @@ kh:PUB_00107 rdf:type owl:NamedIndividual ,
 kh:PUB_00108 rdf:type owl:NamedIndividual ,
                       bibo:Article ;
              dct:accessRights coar:c_abf2 ;
+             dct:creator kh:AUTH_CHGOLD ;
              dct:language <http://id.loc.gov/vocabulary/iso639-2/fra> ;
              dct:publisher kh:PBSH_00026 ;
              dct:subject <http://vocab.getty.edu/aat/300054404> ,
@@ -21366,6 +21397,7 @@ kh:PUB_00194 rdf:type owl:NamedIndividual ,
 kh:PUB_00195 rdf:type owl:NamedIndividual ,
                       bibo:Article ;
              dct:accessRights coar:c_abf2 ;
+             dct:creator kh:AUTH_ICSHIM ;
              dct:language <http://id.loc.gov/vocabulary/iso639-2/eng> ;
              dct:publisher kh:PBSH_00031 ;
              dct:subject <http://vocab.getty.edu/aat/300054156> ,
@@ -21380,6 +21412,7 @@ kh:PUB_00195 rdf:type owl:NamedIndividual ,
 kh:PUB_00196 rdf:type owl:NamedIndividual ,
                       bibo:Article ;
              dct:accessRights coar:c_16ec ;
+             dct:creator kh:AUTH_MISTAR ;
              dct:language <http://id.loc.gov/vocabulary/iso639-2/eng> ;
              dct:publisher kh:PBSH_00035 ;
              dct:subject <http://vocab.getty.edu/aat/300054328> ,
@@ -21396,6 +21429,7 @@ kh:PUB_00196 rdf:type owl:NamedIndividual ,
 kh:PUB_00197 rdf:type owl:NamedIndividual ,
                       bibo:Article ;
              dct:accessRights coar:c_16ec ;
+             dct:creator kh:AUTH_MISTAR ;
              dct:language <http://id.loc.gov/vocabulary/iso639-2/eng> ;
              dct:publisher kh:PBSH_00013 ;
              dct:subject <http://vocab.getty.edu/aat/300054328> ,
@@ -21404,6 +21438,45 @@ kh:PUB_00197 rdf:type owl:NamedIndividual ,
              dct:abstract "" ;
              dct:date "2020"^^xsd:gYear ;
              dct:title "The Southwest Pavilion of Angkor Vat Temple: Damage Encountered and Conservation Efforts"@en .
+
+
+###  http://www.semanticweb.org/ontologies/2026/khmerLOD/PUB_00198
+kh:PUB_00198 rdf:type owl:NamedIndividual ,
+                      bibo:Article ;
+             dct:accessRights coar:c_abf2 ;
+             dct:creator kh:AUTH_ICSHIM ,
+                         kh:AUTH_KASATO ;
+             dct:language <http://id.loc.gov/vocabulary/iso639-2/eng> ;
+             dct:publisher kh:PBSH_00004 ;
+             dct:subject <http://vocab.getty.edu/aat/300054156> ,
+                         <http://vocab.getty.edu/aat/300054309> ,
+                         <http://vocab.getty.edu/aat/300054328> ;
+             crm:P70_documents kh:ACTV_00003 ,
+                               kh:SITE_00081 ,
+                               kh:SITE_00082 ,
+                               kh:SITE_00084 ,
+                               kh:SITE_00085 ,
+                               kh:SITE_00087 ,
+                               kh:SITE_00088 ;
+             dct:date "2012"^^xsd:gYear ;
+             dct:title "Religious concept in the layout of the ancient Khmer city of Koh Ker"@en .
+
+
+###  http://www.semanticweb.org/ontologies/2026/khmerLOD/PUB_00199
+kh:PUB_00199 rdf:type owl:NamedIndividual ,
+                      bibo:Report ;
+             dct:accessRights coar:c_abf2 ;
+             dct:creator kh:AUTH_TANAKA ;
+             dct:language <http://id.loc.gov/vocabulary/iso639-2/eng> ;
+             dct:publisher kh:PBSH_00044 ;
+             dct:subject <http://vocab.getty.edu/aat/300054156> ,
+                         <http://vocab.getty.edu/aat/300054328> ,
+                         <http://vocab.getty.edu/aat/300054543> ,
+                         <http://vocab.getty.edu/aat/300379510> ;
+             crm:P70_documents kh:ACTV_00003 ,
+                               kh:SITE_00014 ;
+             dct:date "2005"^^xsd:gYear ;
+             dct:title "The Master Plan for the Conservation & Restoration of the Bayon Complex"@en .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/Paris
@@ -24452,15 +24525,60 @@ kh:SITE_00169 rdf:type owl:NamedIndividual ,
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/SITE_00170
-kh:SITE_00170 rdf:type owl:NamedIndividual .
+kh:SITE_00170 rdf:type owl:NamedIndividual ,
+                       crm:E27_Site ;
+              crm:P103_was_intended_for unesco:concept2347 ;
+              crm:P156_occupies kh:NokorThom ;
+              crm:P2_has_type <http://vocab.getty.edu/aat/300006191> ;
+              crm:P44_has_condition kh:STATUS_00170 ;
+              crm:P45_consists_of <http://vocab.getty.edu/aat/300014334> ,
+                                  <http://vocab.getty.edu/aat/300404382> ;
+              crm:P46i_forms_part_of kh:UNESCO_01 ;
+              rdfs:label "Thnal Baray"@en ,
+                         "ថ្នល់បារាយណ៍"@km ;
+              wgs84:lat 13.44742 ;
+              wgs84:long 103.92276 ;
+              skos:altLabel "East Baray" ,
+                            "Eastern Baray" ,
+                            "Yasodharatataka" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/SITE_00171
-kh:SITE_00171 rdf:type owl:NamedIndividual .
+kh:SITE_00171 rdf:type owl:NamedIndividual ,
+                       crm:E27_Site ;
+              crm:P103_was_intended_for unesco:concept2347 ;
+              crm:P156_occupies kh:ToekVil ;
+              crm:P2_has_type <http://vocab.getty.edu/aat/300006191> ;
+              crm:P44_has_condition kh:STATUS_00171 ;
+              crm:P45_consists_of <http://vocab.getty.edu/aat/300014334> ,
+                                  <http://vocab.getty.edu/aat/300404382> ;
+              crm:P46i_forms_part_of kh:UNESCO_01 ;
+              rdfs:label "Toek Thla Baray"@en ,
+                         "បារាយណ៍ទឹកថ្លា"@km ;
+              wgs84:lat 13.43426 ;
+              wgs84:long 103.77894 ;
+              skos:altLabel "West Baray" ,
+                            "Western Baray" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/SITE_00172
-kh:SITE_00172 rdf:type owl:NamedIndividual .
+kh:SITE_00172 rdf:type owl:NamedIndividual ,
+                       crm:E27_Site ;
+              crm:P103_was_intended_for unesco:concept2347 ;
+              crm:P156_occupies kh:NokorThom ;
+              crm:P2_has_type <http://vocab.getty.edu/aat/300006191> ;
+              crm:P44_has_condition kh:STATUS_00172 ;
+              crm:P45_consists_of <http://vocab.getty.edu/aat/300014334> ,
+                                  <http://vocab.getty.edu/aat/300404382> ;
+              crm:P46i_forms_part_of kh:UNESCO_01 ;
+              rdfs:label "Indratataka Baray"@en ,
+                         "Veal Reach Dak"@en ,
+                         "វាលរាជដាក"@km ,
+                         "ឥន្ទ្រតដាក"@km ;
+              wgs84:lat 13.35227 ,
+                        13.46352 ;
+              wgs84:long 103.90575 ,
+                         103.97861 .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/SITE_00173
@@ -25648,6 +25766,18 @@ kh:STATUS_00169 rdf:type owl:NamedIndividual ,
                          crm:E3_Condition_State ;
                 crm:P2_has_type kh:Good ;
                 rdfs:label "Status Boeng Khla Krap" .
+
+
+###  http://www.semanticweb.org/ontologies/2026/khmerLOD/STATUS_00170
+kh:STATUS_00170 rdf:type owl:NamedIndividual .
+
+
+###  http://www.semanticweb.org/ontologies/2026/khmerLOD/STATUS_00171
+kh:STATUS_00171 rdf:type owl:NamedIndividual .
+
+
+###  http://www.semanticweb.org/ontologies/2026/khmerLOD/STATUS_00172
+kh:STATUS_00172 rdf:type owl:NamedIndividual .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/Sambor
@@ -28911,6 +29041,38 @@ kh:TSSI_00169 rdf:type owl:NamedIndividual ,
               crm:P82_at_some_time_within "Late 6th to 7th century"@en .
 
 
+###  http://www.semanticweb.org/ontologies/2026/khmerLOD/TSSI_00170
+kh:TSSI_00170 rdf:type owl:NamedIndividual ,
+                       crm:E52_Time-Span ;
+              schema:endDate "0889"^^xsd:gYear ;
+              schema:startDate "0910"^^xsd:gYear ;
+              crm:P82_at_some_time_within "Late 9th century to 10th century"@en .
+
+
+###  http://www.semanticweb.org/ontologies/2026/khmerLOD/TSSI_00171
+kh:TSSI_00171 rdf:type owl:NamedIndividual ,
+                       crm:E52_Time-Span ;
+              schema:endDate "1002"^^xsd:gYear ;
+              schema:startDate "1066"^^xsd:gYear ;
+              crm:P82_at_some_time_within "11th century"@en .
+
+
+###  http://www.semanticweb.org/ontologies/2026/khmerLOD/TSSI_00172
+kh:TSSI_00172 rdf:type owl:NamedIndividual ,
+                       crm:E52_Time-Span ;
+              schema:endDate "1181"^^xsd:gYear ;
+              schema:startDate "1218"^^xsd:gYear ;
+              crm:P82_at_some_time_within "Late 12th century to 13th century"@en .
+
+
+###  http://www.semanticweb.org/ontologies/2026/khmerLOD/TSSI_00173
+kh:TSSI_00173 rdf:type owl:NamedIndividual ,
+                       crm:E52_Time-Span ;
+              schema:endDate "0877"^^xsd:gYear ;
+              schema:startDate "0910"^^xsd:gYear ;
+              crm:P82_at_some_time_within "Late 9th century"@en .
+
+
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/Taiwan
 kh:Taiwan rdf:type owl:NamedIndividual ,
                    crm:E53_Place ;
@@ -30200,7 +30362,7 @@ kh:URL_00176 rdf:type owl:NamedIndividual ,
 kh:URL_00177 rdf:type owl:NamedIndividual ,
                       crm:E36_Visual_Item ;
              crm:P2_has_type <http://vocab.getty.edu/aat/300265431> ;
-             schema:contentUrl "http://images.grandpalaisrmn.fr/ark:/36255/08-521598"^^xsd:anyURI .
+             schema:contentUrl "http://images.grandpalaisrmn.fr/ark:/36255/00-017738"^^xsd:anyURI .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/URL_00178
