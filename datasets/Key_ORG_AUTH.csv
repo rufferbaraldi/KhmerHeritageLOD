@@ -1,395 +1,358 @@
-id,name,ORCID,org,IDAF,Publisher,IDPS,,,,Affiliation,Provenance,Author
-AUTH_ATBANNO,Atsuhiko Banno,0000-0002-6394-5947,APSARA National Authority,ORG_00001,Academie des inscriptions et belles-lettres,PBSH_00001,,,,ORG_00001,Cambodia,AUTH_APSARA
-AUTH_ANCMUNICCHIA,Annalaura Casanova Municchia,0000-0002-3459-8763,Aalto University,ORG_00002,American Association for the Advancement of Science,PBSH_00002,,,,ORG_00001,Cambodia,AUTH_DAEA
-AUTH_ALDISSER,Alexandre Disser,0000-0003-0914-2606,Academie des Inscriptions et Belles-Lettres,ORG_00003,ANNUAL REVIEWS,PBSH_00003,,,,ORG_00001,Cambodia,AUTH_RACHHAY
-AUTH_ARSODO,Armida Sodo,0000-0001-7005-1610,Adam Mickiewicz University,ORG_00004,APSARA National Authority,PBSH_00004,,,,ORG_00001,Cambodia,AUTH_TABSUY
-AUTH_APSARA,APSARA,,Akita University,ORG_00005,Association des professeurs d'arch�ologie et d'histoire de l'art des universit�s,PBSH_00005,,,,ORG_00001,Cambodia,AUTH_HAPEOU
-AUTH_AAGLAS,Aarie Glas,0000-0002-7729-9755,Archaeology and Development Foundation,ORG_00006,Association for Computing Machinery,PBSH_00006,,,,ORG_00001,Cambodia,AUTH_RACHHEAN
-AUTH_AABUFE,Aaron Bufe,0000-0002-8551-7265,Arizona State University,ORG_00007,Australian Society of Exploration Geophysicists,PBSH_00007,,,,ORG_00001,Cambodia,AUTH_SOIM
-AUTH_AKMIZOGUCHI,Akinori Mizoguchi,0000-0001-7049-2280,Asian Disaster Preparedness Center,ORG_00008,BAR Publishing,PBSH_00008,,,,ORG_00001,Cambodia,AUTH_HETHAN
-AUTH_ALCHECHI,Alessandro Chechi,0000-0003-4007-0209,Asian Institute of Technology,ORG_00009,Brill,PBSH_00009,,,,ORG_00001,Cambodia,AUTH_KHCHAN
-AUTH_ALKCARTER,Alison Kyra Carter,0000-0001-6331-2149,Australian Catholic University,ORG_00010,Cambridge University Press,PBSH_00010,,,,ORG_00001,Cambodia,AUTH_TITIN
-AUTH_ANEGAUGHAN,Andrea E Gaughan,0000-0002-4898-1587,Australian Defense Force Academy,ORG_00011,Cell Press,PBSH_00011,,,,ORG_00001,Cambodia,AUTH_SAKIM
-AUTH_ANBUSS,Andreas Buss,0000-0003-1277-0945,Australian National University,ORG_00012,Ecole Francaise d'Extreme-Orient,PBSH_00012,,,,ORG_00001,Cambodia,AUTH_ICSHIMODA
-AUTH_ANHOFFMANN,Andreas Hoffmann,,Australian Nuclear Science and Technology Organisation,ORG_00013,Elsevier,PBSH_00013,,,,ORG_00002,Finland,AUTH_MAKUMMU
-AUTH_ANKULICK,Andreas Kulick,0000-0002-4524-0150,Benaras Hindu University,ORG_00014,German Geological Society Geological Association,PBSH_00014,,,,ORG_00003,France,AUTH_ERBOURDONNEAU
-AUTH_ANLEASK,Anna Leask,0000-0003-3543-8064,Bidoup Nui Ba National Park,ORG_00015,GIGA Institut f�r Asien-Studien,PBSH_00015,,,,ORG_00004,Poland,AUTH_KAHANUS
-AUTH_ANYGUILLOU,Anne Yvonne Guillou,0009-0006-4670-8399,Blaise Pascal University,ORG_00016,Indo-Pacific Prehistory Association,PBSH_00016,,,,ORG_00005,Japan,AUTH_KYONISHI
-AUTH_ANMILNE,Anthony Milne,,Cambodian National Commission for UNESCO,ORG_00017,J-STAGE,PBSH_00017,,,,ORG_00006,United Kingdom,AUTH_JECHEVANCE
-AUTH_AOMIZUMORI,Aoi Mizumori,,Centre National de la Recherche Scientifique,ORG_00018,Maney Publishing,PBSH_00018,,,,ORG_00006,United Kingdom,AUTH_STDGREEF
-AUTH_ARZELLMAN,Ariel Zellman,0000-0003-1106-1282,Chiang Mai University,ORG_00019,MDPI,PBSH_00019,,,,ORG_00006,United Kingdom,AUTH_SASAKHOEUN
-AUTH_ARWICHIENKEEO,Aroonrut Wichienkeeo,,Chiba Institute of Technology,ORG_00020,Michigan Publishing,PBSH_00020,,,,ORG_00007,United States of America,AUTH_JOLOBO
-AUTH_ARBABU,Arun Babu,0000-0002-1398-928X,Chinese Academy of Sciences,ORG_00021,Nature,PBSH_00021,,,,ORG_00007,United States of America,AUTH_LAWMAYS
-AUTH_ASYSHAMSELDIN,Asaad Y Shamseldin,0000-0002-1701-7218,Chulalongkorn University,ORG_00022,NUS Press,PBSH_00022,,,,ORG_00007,United States of America,AUTH_SAKLASSEN
-AUTH_ASHADA,Asami Hada,,City University of Macau,ORG_00023,Oxford Academic,PBSH_00023,,,,ORG_00008,Thailand,AUTH_SOTHAU
-AUTH_ASJROGERS,Ashleigh J Rogers,0000-0003-0455-9381,Cleveland State University,ORG_00024,Oxford University Press,PBSH_00024,,,,ORG_00008,Thailand,AUTH_SESAMATH
-AUTH_BEPORTE,Bertrand Porte,,Columbia University,ORG_00025,Palgrave Macmillan,PBSH_00025,,,,ORG_00009,Thailand,AUTH_RACBASTAKOTI
-AUTH_BOZHENG,Bo Zheng,,Consiglio Nazionale delle Ricerche,ORG_00026,Presses Universitaires de Provence,PBSH_00026,,,,ORG_00010,Australia,AUTH_DUCOOK
-AUTH_BOTOUCH,Bora Touch,,Consiglio per la Ricerca e la Sperimentazione in Agricoltura,ORG_00027,Public Library of Science,PBSH_00027,,,,ORG_00011,Australia,AUTH_VEVAR
-AUTH_BRMBUCKLEY,Brendan M Buckley,0000-0003-1544-8003,Cornell University,ORG_00028,Radiocarbon,PBSH_00028,,,,ORG_00012,Australia,AUTH_DOJOREILLY
-AUTH_BRZOTTOLI,Brian Zottoli,,Cyber University,ORG_00029,Routledge,PBSH_00029,,,,ORG_00012,Australia,AUTH_KINGOUN
-AUTH_BRHAUSERSCHAUBLIN,Brigitta Hauser-Schäublin,,Eberhard Karls University of Tubingen,ORG_00030,Sage Publications,PBSH_00030,,,,ORG_00012,Australia,AUTH_NOHTAN
-AUTH_BRPHALIP,Bruno Phalip,,Ecole Francaise d'Extreme-Orient,ORG_00031,Saint Petersburg State University of Architecture and Civil Engineering,PBSH_00031,,,,ORG_00012,Australia,AUTH_REHAMILTON
-AUTH_CHVITHARONG,Chan Vitharong,,Ecole des Hautes Etudes en Sciences Sociales,ORG_00032,Science Council of Asia,PBSH_00032,,,,ORG_00013,Australia,AUTH_DAFINK
-AUTH_CHDENG,Chaoqun Deng,,Edinburgh Napier University,ORG_00033,Scientific Research Publishing,PBSH_00033,,,,ORG_00013,Australia,AUTH_QUHUA
-AUTH_CHGOLDBLUM,Charles Goldblum,,Ehime University,ORG_00034,Springer,PBSH_00034,,,,ORG_00014,India,AUTH_SWCHEMBURKAR
-AUTH_CHFWHIGHAM,Charles F W Higham,0000-0002-1082-6215,European Commission Joint Research Centre,ORG_00035,Taylor and Francis,PBSH_00035,,,,ORG_00015,Vietnam,AUTH_LECNAM
-AUTH_CHMENGHONG,Chhum Menghong,,Field Museum of Natural History,ORG_00036,The Association of Japanese Geographers,PBSH_00036,,,,ORG_00015,Vietnam,AUTH_TOTMINH
-AUTH_CHCHEN,Ching-Fu Chen,,Flinders University,ORG_00037,The Metropolitan Museum of Art,PBSH_00037,,,,ORG_000151,Israel,AUTH_ARZELLMAN
-AUTH_CHFISCHER,Christian Fischer,,Guangdong Industry Polytechnic University,ORG_00038,Trans Tech Publications,PBSH_00038,,,,ORG_000152,Israel,AUTH_DABROWN
-AUTH_CHJGROSS,Christian J Gross,,Guangdong Technion Israel Institute of Technology,ORG_00039,UNESCO,PBSH_00039,,,,ORG_00016,France,AUTH_MAANDRE
-AUTH_CHPOTTIER,Christophe Pottier,0000-0001-8699-6280,Guangdong University of Petrochemical Technology,ORG_00040,United States National Academy of Sciences,PBSH_00040,,,,ORG_00016,France,AUTH_OLVOLDOIRE
-AUTH_CHCROMARTY,Christopher Cromarty,,Guangzhou University,ORG_00041,University of Chicago Press,PBSH_00041,,,,ORG_00016,France,AUTH_ERROUSSEL
-AUTH_CHPHOEURN,Chuch Phoeurn,,Harokopio University Athens,ORG_00042,University of Pennsylvania Law School,PBSH_00042,,,,ORG_00016,France,AUTH_FRVAUTIER
-AUTH_CLURZÃŒ,Clara Urzi,0000-0001-7952-9422,Heilongjiang Bayi Agricultural University,ORG_00043,Wiley,PBSH_00043,,,,ORG_00016,France,AUTH_BRPHALIP
-AUTH_COSTERLING,Colin Sterling,0000-0002-0423-6796,Hengyang Normal University,ORG_00044,,,,,,ORG_00016,France,AUTH_SAETIENNE
-AUTH_CRCCASTILLO,Cristina Cobo Castillo,0000-0001-6557-1881,Hubei Minzu University,ORG_00045,,,,,,ORG_00017,Cambodia,AUTH_CHMENGHONG
-AUTH_DAEVANS,Damian Evans,0000-0003-0320-4319,Hungarian Indochina Company,ORG_00046,,,,,,ORG_00018,France,AUTH_ANYGUILLOU
-AUTH_DAPENNY,Dan Penny,0000-0002-7905-0339,Independent Researcher,ORG_00047,,,,,,ORG_00018,France,AUTH_CHGOLDBLUM
-AUTH_DAEA,Darith Ea,,Indian Space Research Organisation (ISRO),ORG_00048,,,,,,ORG_00018,France,AUTH_MIBENISTI
-AUTH_DACHANDLER,David Chandler,,Institut National de Recherches Archeologiques Preventives,ORG_00049,,,,,,ORG_00018,France,AUTH_THOPRYCE
-AUTH_DAFINK,David Fink,0000-0001-7156-4602,Institute of Environmental Science & Research,ORG_00050,,,,,,ORG_00018,France,AUTH_SOCHAN
-AUTH_DAKWYATT,David K Wyatt,,Jagiellonian University,ORG_00051,,,,,,ORG_00018,France,AUTH_STLEROY
-AUTH_DASANDERSON,David Sanderson,0000-0002-9615-4412,James Cook University,ORG_00052,,,,,,ORG_00019,Thailand,AUTH_ARWICHIENKEEO
-AUTH_DATANG,David Tang,,Japan-APSARA Safeguarding Angkor,ORG_00053,,,,,,ORG_00019,Thailand,AUTH_LOLEBEL
-AUTH_DABROWN,Davis Brown,0000-0002-6391-4833,Karlstad University,ORG_00054,,,,,,ORG_00020,Japan,AUTH_KEAZAMI
-AUTH_DEMERCIER,Denis Mercier,0000-0003-2325-1390,King Saud University,ORG_00055,,,,,,ORG_00020,Japan,AUTH_YAKATO
-AUTH_DICHEN,Di Chen,0009-0007-1948-3865,Leiden University,ORG_00056,,,,,,ORG_00021,China,AUTH_FUCHEN
-AUTH_DIBURAGOHAIN,Dipamjyoti Buragohain,0000-0001-8432-8780,Mahidol University,ORG_00057,,,,,,ORG_00021,China,AUTH_JIYOU
-AUTH_DIBURAGOHAIN,Dipima Buragohain,0000-0001-8432-8780,Max Planck Society,ORG_00058,,,,,,ORG_00021,China,AUTH_PATANG
-AUTH_DOSOUTIF,Dominique Soutif,0000-0002-7422-1434,McElhanney Indonesia,ORG_00059,,,,,,ORG_00021,China,AUTH_WEZHOU
-AUTH_DOJOREILLY,Dougald JW O'Reilly,0000-0001-9830-6945,Meijo University,ORG_00060,,,,,,ORG_00022,Thailand,AUTH_THPONGSUDHIRAK
-AUTH_DUCOOK,Duncan Cook,0000-0001-5270-4569,Metropolitan Museum of Art,ORG_00061,,,,,,ORG_00023,China,AUTH_GUHUANG
-AUTH_EMDELQUEKOLIC,Emmanuelle Delque-Kolic,0000-0001-9758-2964,Ministry of Culture and Fine Arts of Cambodia,ORG_00062,,,,,,ORG_00024,United States of America,AUTH_JOWMONROE
-AUTH_EDRCOOK,Edward R Cook,0000-0001-7478-4176,Ministry of Water Resources and Meteorology,ORG_00063,,,,,,ORG_00025,United States of America,AUTH_BRMBUCKLEY
-AUTH_EDSWENSON,Edward Swenson,0000-0001-5108-4417,Monash University,ORG_00064,,,,,,ORG_00025,United States of America,AUTH_KEJANCHUKAITIS
-AUTH_EILUSTIG,Eileen Lustig,0000-0003-3107-4347,Museum National d'Histoire Naturelle,ORG_00065,,,,,,ORG_00025,United States of America,AUTH_EDRCOOK
-AUTH_ELBRUCE,Eleanor Bruce,0000-0002-7640-2335,Nantes University,ORG_00066,,,,,,ORG_00026,Italy,AUTH_NIMASINI
-AUTH_ENVEGA,Enrique Vega,0000-0002-6647-5258,National Aeronautics & Space Administration (NASA),ORG_00067,,,,,,ORG_00026,Italy,AUTH_ROLASAPONARA
-AUTH_ERBOURDONNEAU,Eric Bourdonneau,,National Authority for Sambor Prei Kuk,ORG_00068,,,,,,ORG_00027,Italy,AUTH_LUSALVATI
-AUTH_ERROUSSEL,Erwan Roussel,0000-0002-8735-5597,National Cheng Kung University,ORG_00069,,,,,,ORG_00028,United States of America,AUTH_DAKWYATT
-AUTH_ESMUÃ‘OZSALINAS,Esperanza Muñoz-Salinas,0000-0002-6214-5032,National Institute of Biological Resources,ORG_00070,,,,,,ORG_00029,Japan,AUTH_YOIWASAKI
-AUTH_ESVPLEHWELEISEN,Esther Von Plehwe-Leisen,0000-0002-2096-0012,National Museum of Nature and Science,ORG_00071,,,,,,ORG_00030,Germany,AUTH_ANKULICK
-AUTH_ETUCHIDA,Etsuo Uchida,0000-0003-1104-6576,National Palace Museum,ORG_00072,,,,,,ORG_00031,France,AUTH_BEPORTE
-AUTH_FADELLEFANT,Fabian Dellefant,0000-0002-2612-6635,National Research Institute for Cultural Properties,ORG_00073,,,,,,ORG_00031,France,AUTH_BRZOTTOLI
-AUTH_FAWU,Fasi Wu,0000-0002-1175-8285,National University of Battambang,ORG_00074,,,,,,ORG_00031,France,AUTH_CHPOTTIER
-AUTH_FECARO,Federico Caro,0000-0003-2931-6685,New York University,ORG_00075,,,,,,ORG_00031,France,AUTH_DOSOUTIF
-AUTH_FLBARTOLI,Flavia Bartoli,0000-0002-5917-561X,Nihon University,ORG_00076,,,,,,ORG_00031,France,AUTH_DAEVANS
-AUTH_FRBIANCHINI,Francesco Bianchini,0000-0002-3246-2774,Ningbo University,ORG_00077,,,,,,ORG_00031,France,AUTH_LEKONG
-AUTH_FRVAUTIER,Franck Vautier,0000-0002-4939-2477,Nong Lam University,ORG_00078,,,,,,ORG_00031,France,AUTH_NIHOFER
-AUTH_FUCHEN,Fulong Chen,0000-0003-1144-0004,Norton University,ORG_00079,,,,,,ORG_00031,France,AUTH_GECOEDES
-AUTH_GIDVENTURA,Giancarlo Della Ventura,0000-0001-6277-961X,O. P. Jindal Global University,ORG_00080,,,,,,ORG_00031,France,AUTH_SHALVARES
-AUTH_GISTRONA,Giovanni Strona,0000-0003-2294-4013,Paris Saclay University,ORG_00081,,,,,,ORG_00031,France,AUTH_VIGOULOUBEW
-AUTH_GAPMARRINER,Gary P Marriner,0000-0001-7630-6768,Polish Academy of Sciences,ORG_00082,,,,,,ORG_00031,France,AUTH_WAJSASTRAWAN
-AUTH_GECOEDES,Georges Coedes,,Ramkhamhaeng University,ORG_00083,,,,,,ORG_00032,France,AUTH_MAGUERIN
-AUTH_GIGREEN,Gillian Green,0000-0003-1043-9968,Roma Tre University,ORG_00084,,,,,,ORG_00033,United Kingdom,AUTH_ANLEASK
-AUTH_GICANEVA,Giulia Caneva,0000-0002-0551-7100,Royal Academy of Cambodia,ORG_00085,,,,,,ORG_00034,Japan,AUTH_MASANO
-AUTH_GLBOORNAZIAN,Glenn Boornazian,,Royal University of Fine Arts,ORG_00086,,,,,,ORG_00035,Italy,AUTH_GISTRONA
-AUTH_GUHUANG,Guang Huang,0000-0002-9171-3641,Royal University of Phnom Penh,ORG_00087,,,,,,ORG_00036,United States of America,AUTH_LADUSSUBIEUX
-AUTH_HACAWTE,Hayden Cawte,,Ruprecht Karls University Heidelberg,ORG_00088,,,,,,ORG_00037,Australia,AUTH_IAMOFFAT
-AUTH_HIKASHIWADANI,Hiroyuki Kashiwadani,0000-0002-2657-9730,Santa Clara University,ORG_00089,,,,,,ORG_00037,Australia,AUTH_TIATTORRE
-AUTH_HARBUCKLEY,Hallie R Buckley,0000-0003-1047-4288,Scottish Universities Research and Reactor Center,ORG_00090,,,,,,ORG_00037,Australia,AUTH_MAPOLKINGHORNE
-AUTH_HAPEOU,Hang Peou,0000-0001-7055-9895,Shenzhen Academy of Inspection and Quarantine,ORG_00091,,,,,,ORG_00038,China,AUTH_LIGAO
-AUTH_HAXU,Hang Xu,,Silpakorn University,ORG_00092,,,,,,ORG_00039,China,AUTH_JIGU
-AUTH_HALEISEN,Hans Leisen,,Smithsonian Institution,ORG_00093,,,,,,ORG_00039,China,AUTH_SHCHEN
-AUTH_HADPHAN,Hao Duy Phan,0000-0002-5617-6844,Soprintendenza Speciale Polo Museale Veneziano,ORG_00094,,,,,,ORG_00039,China,AUTH_YOQIAN
-AUTH_HEBUN,Hean Bun,,Stanford University,ORG_00095,,,,,,ORG_00039,China,AUTH_FAWU
-AUTH_HESIEDEL,Heiner Siedel,0000-0002-7858-1437,Supreme Court of State of New South Wales,ORG_00096,,,,,,ORG_00040,China,AUTH_DIBURAGOHAIN
-AUTH_HESILVERMAN,Helaine Silverman,,The Antiquities Coalition,ORG_00097,,,,,,ORG_00040,China,AUTH_YAMENG
-AUTH_HEGRUNFELD,Helena Grunfeld,0000-0003-0544-8077,Tokyo National Research Institute for Cultural Properties,ORG_00098,,,,,,ORG_00040,China,AUTH_CHDENG
-AUTH_HETHAN,Heng Than,,Tongren Polytechnic University,ORG_00099,,,,,,ORG_00040,China,AUTH_SUCHAUDHARY
-AUTH_HELOCARD,Henri Locard,,UNESCO,ORG_00100,,,,,,ORG_00041,China,AUTH_JIWU
-AUTH_HIIKUTA,Hikaru Ikuta,0009-0001-6372-2444,Ubon Ratchathani University,ORG_00101,,,,,,ORG_00041,China,AUTH_YIHONG
-AUTH_HIAGATSUMA,Hiroki Agatsuma,,Universidad Nacional Autonoma de Mexico,ORG_00102,,,,,,ORG_00042,Greece,AUTH_ISPARCHARIDIS
-AUTH_HISATO,Hiroya Sato,0000-0002-5903-055X,Universitas Islam Negeri Sunan Kalijaga,ORG_00103,,,,,,ORG_00043,China,AUTH_WEWANG
-AUTH_HISHIOKAWA,Hiroyoshi Shiokawa,,Universiti Sains Malaysia,ORG_00104,,,,,,ORG_00044,China,AUTH_FUCHEN
-AUTH_HULI,Hui Li,0000-0001-9139-3855,University College London,ORG_00105,,,,,,ORG_00044,China,AUTH_HAXU
-AUTH_HUSGROUCUTT,Huw S Groucutt,0000-0002-9111-1720,University of Auckland,ORG_00106,,,,,,ORG_00044,China,AUTH_WEZHOU
-AUTH_IAMOFFAT,Ian Moffat,0000-0002-2171-7145,University of British Columbia,ORG_00107,,,,,,ORG_00044,China,AUTH_WEZHENG
-AUTH_IATAPLEY,Ian Tapley,,University of California,ORG_00108,,,,,,ORG_00044,China,AUTH_YUDENG
-AUTH_ICSHIMODA,Ichita Shimoda,0000-0002-7563-7394,University of Cologne,ORG_00109,,,,,,ORG_00045,China,AUTH_DICHEN
-AUTH_ISPARCHARIDIS,Issaak Parcharidis,0000-0002-6642-3642,University of Colorado Boulder,ORG_00110,,,,,,ORG_00045,China,AUTH_SOBAI
-AUTH_IUVSLEPTSOVA,Iuliia V Sleptsova,0009-0000-8004-7594,University of Copenhagen,ORG_00111,,,,,,ORG_00046,Hungary,AUTH_ROKUSZINGER
-AUTH_JASOUTHWORTH,Jane Southworth,0000-0002-7246-7879,University of Dresden,ORG_00112,,,,,,ORG_00047,Australia,AUTH_EILUSTIG
-AUTH_JAGDOUGLAS,Janet G Douglas,0000-0001-5042-6112,University of Florida,ORG_00113,,,,,,ORG_00047,,AUTH_EILUSTIG
-AUTH_JECHEVANCE,Jean-Baptiste Chevance,0000-0001-5489-4618,University of Freiburg,ORG_00114,,,,,,ORG_00047,,AUTH_ROFRENCH
-AUTH_JEFOHLMEISTER,Jens Fohlmeister,0009-0002-1654-3715,University of Geneva,ORG_00115,,,,,,ORG_00047,,AUTH_TELUSTIG
-AUTH_JIGU,Ji-Dong Gu,,University of Glasgow,ORG_00116,,,,,,ORG_00048,India,AUTH_SHKUMAR
-AUTH_JIYOU,Jiangbin You,0000-0002-6340-4542,University of Gothenburg,ORG_00117,,,,,,ORG_00048,India,AUTH_SKVIGNESH
-AUTH_JIWU,Jiapeng Wu,0000-0003-4633-6530,University of Gottingen,ORG_00118,,,,,,ORG_00048,India,AUTH_ARBABU
-AUTH_JILI,Jing Li,0009-0007-7955-7889,University of Hawaii,ORG_00119,,,,,,ORG_00048,India,AUTH_PRKTHAKUR
-AUTH_JODCIORCIARI,John D Ciorciari,0000-0001-8654-3038,University of Heidelberg,ORG_00120,,,,,,ORG_00048,India,AUTH_SHAGRAWAL
-AUTH_JOWMONROE,John W Monroe,,University of Hong Kong,ORG_00121,,,,,,ORG_00049,France,AUTH_PIBATY
-AUTH_JOTUNNICLIFFE,Jon Tunnicliffe,0000-0003-0377-7803,University of Illinois,ORG_00122,,,,,,ORG_00050,Australia,AUTH_NABEAVAN
-AUTH_JONILESWEED,Jonathan Niles-Weed,0000-0002-4766-6526,University of London,ORG_00123,,,,,,ORG_00051,Poland,AUTH_KAHANUS
-AUTH_JOWAGER,Jonathan Wager,,University of Messina,ORG_00124,,,,,,ORG_00052,Australia,AUTH_KAMDOMETT
-AUTH_JOZAMORANO,Jose-Juan Zamorano,0000-0002-9575-5734,University of Michigan,ORG_00125,,,,,,ORG_00054,Sweden,AUTH_MOLILJA
-AUTH_JOGILLESPIE,Josephine Gillespie,0000-0002-5103-3449,University of Munich,ORG_00126,,,,,,ORG_00055,Saudi Arabia,AUTH_MOMETWALY
-AUTH_JOLOBO,José Lobo,0000-0002-0814-7168,University of New England,ORG_00127,,,,,,ORG_00056,Netherlands,AUTH_SAKLASSEN
-AUTH_JOKAMMERHOFER,Jorg Kammerhofer,0000-0003-0991-9905,University of New South Wales Sydney,ORG_00128,,,,,,ORG_00056,Netherlands,AUTH_TIFSONNEMANN
-AUTH_KEITO,Keisuke Ito,0009-0007-3751-6309,University of Oregon,ORG_00129,,,,,,ORG_00057,Thailand,AUTH_FRBIANCHINI
-AUTH_KWHMOON,Kwang Hee Moon,,University of Otago,ORG_00130,,,,,,ORG_00058,Germany,AUTH_WCCARLETON
-AUTH_KAMDOMETT,Kate M Domett,0000-0001-5091-3105,University of Ottawa,ORG_00131,,,,,,ORG_00058,Germany,AUTH_PAROBERTS
-AUTH_KAKURIYAMA,Kaito Kuriyama,,University of Oxford,ORG_00132,,,,,,ORG_00058,Germany,AUTH_HUSGROUCUTT
-AUTH_KASEZAKI,Kaoru Sezaki,0000-0003-1194-4632,University of Potsdam,ORG_00133,,,,,,ORG_00059,Indonesia,AUTH_CHCROMARTY
-AUTH_KAPHON,Kaseka Phon,0000-0002-8896-3818,University of Queensland,ORG_00134,,,,,,ORG_00060,Japan,AUTH_AKMIZOGUCHI
-AUTH_KAHANUS,Kasper Hanus,0000-0003-1550-6939,University of Singapore,ORG_00135,,,,,,ORG_00061,United States of America,AUTH_FECARO
-AUTH_KAGABER,Katrina Gaber,0009-0002-6157-4633,University of Sydney,ORG_00136,,,,,,ORG_00062,Cambodia,AUTH_CHPHOEURN
-AUTH_KASATO,Katsura Sato,0000-0003-0949-2809,University of Tokyo,ORG_00137,,,,,,ORG_00063,Cambodia,AUTH_HEBUN
-AUTH_KAMOGIB,Katsuro Mogib,,University of Toronto,ORG_00138,,,,,,ORG_00063,Cambodia,AUTH_SASARUN
-AUTH_KAIKEUCHI,Katsushi Ikeuchi,0000-0001-9758-9357,University of Tsukuba,ORG_00139,,,,,,ORG_00064,Australia,AUTH_ASJROGERS
-AUTH_KEMIURA,Keiko Miura,0000-0002-5627-0929,University of Washington,ORG_00140,,,,,,ORG_00065,France,AUTH_THOPRYCE
-AUTH_KEAZAMI,Keishiro Azami,0000-0003-2885-078X,University of Western Australia,ORG_00141,,,,,,ORG_00066,France,AUTH_DEMERCIER
-AUTH_KEGERARD,Kelly Gerard,0000-0002-4725-6703,University of Wisconsin,ORG_00142,,,,,,ORG_00067,United States of America,AUTH_SCHENSLEY
-AUTH_KEJANCHUKAITIS,Kevin J Anchukaitis,0000-0002-8509-8080,University of Wollongong,ORG_00143,,,,,,ORG_00068,Cambodia,AUTH_CHVITHARONG
-AUTH_KHCHAN,Khieu Chan,,University of the South Pacific,ORG_00144,,,,,,ORG_00068,Cambodia,AUTH_VICHAN
-AUTH_KINGOUN,Kimly Ngoun,,Utah State University,ORG_00145,,,,,,ORG_00069,Taiwan,AUTH_CHCHEN
-AUTH_KONAKAGAWA,Koichi Nakagawa,0009-0000-3271-1147,Victoria University,ORG_00146,,,,,,ORG_00070,South Korea,AUTH_KWHMOON
-AUTH_KOTSUDA,Kojiro Tsuda,0000-0002-6037-4966,Waseda University,ORG_00147,,,,,,ORG_00071,Japan,AUTH_HIKASHIWADANI
-AUTH_KOVIREAK,Kong Vireak,,Wayne State College,ORG_00148,,,,,,ORG_00072,Taiwan,AUTH_SUYEN
-AUTH_KOCHIM,Kosal Chim,0000-0002-4581-5436,World Monuments Fund,ORG_00149,,,,,,ORG_00073,Japan,AUTH_YOFUTAGAMI
-AUTH_KOMIKAMI,Kousei Mikami,,Yonsei University,ORG_00150,,,,,,ORG_00073,Japan,AUTH_YOKATAYAMA
-AUTH_KYONISHI,Kyosuke Onishi,0000-0002-4679-3670,,,,,,,,ORG_00074,Cambodia,AUTH_VIPEUO
-AUTH_LAWMAYS,Larry W Mays,0000-0002-4382-606X,,,,,,,,ORG_00075,United States of America,AUTH_JONILESWEED
-AUTH_LADUSSUBIEUX,Laure Dussubieux,0000-0002-9334-8131,,,,,,,,ORG_00075,United States of America,AUTH_XUWTAY
-AUTH_LECNAM,Le Canh Nam,0000-0001-9200-4831,,,,,,,,ORG_00076,Japan,AUTH_ASHADA
-AUTH_LEKONG,Leaksmy Kong,,,,,,,,,ORG_00076,Japan,AUTH_TEWARAGAI
-AUTH_LIGAO,Lin Gao,,,,,,,,,ORG_00076,Japan,AUTH_YOKOJIMA
-AUTH_LIKEALHOFER,Lisa Kealhofer,0000-0002-8308-462X,,,,,,,,ORG_00076,Japan,AUTH_KOMIKAMI
-AUTH_LOLEBEL,Louis Lebel,0000-0001-6187-6418,,,,,,,,ORG_00076,Japan,AUTH_HISHIOKAWA
-AUTH_LUSALVATI,Luca Salvati,0000-0001-9322-9987,,,,,,,,ORG_00076,Japan,AUTH_YUSHIGEEDA
-AUTH_LUDU,Lui Du,,,,,,,,,ORG_00076,Japan,AUTH_HIAGATSUMA
-AUTH_LYMESKELL,Lynn Meskell,0000-0001-9087-3611,,,,,,,,ORG_00077,China,AUTH_PEHU
-AUTH_MAARICCI,Maria Antonietta Ricci,0000-0002-6904-6686,,,,,,,,ORG_00078,Vietnam,AUTH_TRMHONG
-AUTH_MADENG,Maocheng Deng,0000-0002-9571-9442,,,,,,,,ORG_00079,Cambodia,AUTH_SOSO
-AUTH_MAANDRÃ‰,Marie-Françoise André,0000-0003-0367-5196,,,,,,,,ORG_00080,India,AUTH_PRSINGH
-AUTH_MAPOLKINGHORNE,Martin Polkinghorne,0000-0002-6108-002X,,,,,,,,ORG_00081,France,AUTH_PHDILLMANN
-AUTH_MAKOIWA,Masaki Koiwa,,,,,,,,,ORG_00081,France,AUTH_STLEROY
-AUTH_MASANO,Masaki Sano,0000-0003-3391-9067,,,,,,,,ORG_00081,France,AUTH_EMDELQUEKOLIC
-AUTH_MAKAGESAWA,Masataka Kagesawa,0009-0003-4013-5583,,,,,,,,ORG_00081,France,AUTH_ENVEGA
-AUTH_MAARAYA,Masato Araya,,,,,,,,,ORG_00081,France,AUTH_SYBAUVAIS
-AUTH_MAGUÃ‰RIN,Mathieu GuÃ©rin,0009-0006-2757-0865,,,,,,,,ORG_00081,France,AUTH_THBLANCHET
-AUTH_MAKUMMU,Matti Kummu,0000-0001-5096-0163,,,,,,,,ORG_00081,France,AUTH_ALDISSER
-AUTH_MAKAMAKURA,Mawo Kamakura,,,,,,,,,ORG_00082,Poland,AUTH_KAHANUS
-AUTH_MEKALIWODA,Melanie Kaliwoda,0000-0001-7767-3084,,,,,,,,ORG_00083,Thailand,AUTH_MOPAKDEEKONG
-AUTH_MIBARBETTI,Michael Barbetti,,,,,,,,,ORG_00084,Italy,AUTH_ANCMUNICCHIA
-AUTH_MIFCHARLTON,Michael F Charlton,0000-0002-9526-5743,,,,,,,,ORG_00084,Italy,AUTH_FLBARTOLI
-AUTH_MIPLEADBETTER,Michael Paul Leadbetter,0000-0003-1513-6958,,,,,,,,ORG_00084,Italy,AUTH_SIBERNARDINI
-AUTH_MISFALSER,Michael S Falser,0000-0003-3930-6843,,,,,,,,ORG_00084,Italy,AUTH_GICANEVA
-AUTH_MIVICKERY,Michael Vickery,,,,,,,,,ORG_00084,Italy,AUTH_GIDVENTURA
-AUTH_MIWBINFORD,Michael W Binford,0000-0001-8914-1093,,,,,,,,ORG_00084,Italy,AUTH_MAARICCI
-AUTH_MIBAAZ,Mikael Baaz,0000-0003-2145-9016,,,,,,,,ORG_00084,Italy,AUTH_ARSODO
-AUTH_MIBARBETTI,Mike Barbetti,,,,,,,,,ORG_00084,Italy,AUTH_SICESCHIN
-AUTH_MIBÃ‰NISTI,Mireille BÃ©nisti,,,,,,,,,ORG_00084,Italy,AUTH_VASAVO
-AUTH_MITSTARK,Miriam T Stark,0000-0003-1700-4406,,,,,,,,ORG_00085,Cambodia,AUTH_KAPHON
-AUTH_MIHENDRICKSON,Mitch Hendrickson,0000-0002-7694-9648,,,,,,,,ORG_00085,Cambodia,AUTH_PHKASEKA
-AUTH_MIFUKUDA,Mitsuharu Fukuda,,,,,,,,,ORG_00086,Cambodia,AUTH_NIREVIRE
-AUTH_MOMETWALY,Mohamed Metwaly,0000-0001-8770-0306,,,,,,,,ORG_00086,Cambodia,AUTH_SOTEP
-AUTH_MOLILJA,Mona Lilja,0000-0003-2773-8534,,,,,,,,ORG_00087,Cambodia,AUTH_HELOCARD
-AUTH_MOPAKDEEKONG,Monticha Pakdeekong,,,,,,,,,ORG_00087,Cambodia,AUTH_KAPHON
-AUTH_NOSHIMIZU,Nobumasa Shimizu,0009-0000-4755-0489,,,,,,,,ORG_00087,Cambodia,AUTH_KINGOUN
-AUTH_NABEAVAN,Nancy Beavan,0000-0001-5649-0430,,,,,,,,ORG_00087,Cambodia,AUTH_SAPHOU
-AUTH_NANAGUMO,Naoko Nagumo,0000-0002-6032-1813,,,,,,,,ORG_00087,Cambodia,AUTH_SESOK
-AUTH_NAYAMADA,Naoyuki Yamada,,,,,,,,,ORG_00088,Germany,AUTH_MISFALSER
-AUTH_NAMAO,Nara Mao,,,,,,,,,ORG_00089,United States of America,AUTH_LIKEALHOFER
-AUTH_NAWALES,Nathan Wales,0000-0002-8288-4916,,,,,,,,ORG_00090,United Kingdom,AUTH_DASANDERSON
-AUTH_NGRICHARDS,Ngaire Richards,,,,,,,,,ORG_00091,China,AUTH_WELAN
-AUTH_NIMASINI,Nicola Masini,0000-0002-8804-5718,,,,,,,,ORG_00092,Thailand,AUTH_PANGERNKERD
-AUTH_NIREVIRE,Nicolas Revire,0009-0000-7696-4920,,,,,,,,ORG_00092,Thailand,AUTH_RASHOOCONGDEJ
-AUTH_NIHOFER,Nina Hofer,,,,,,,,,ORG_00092,Thailand,AUTH_SAKHUNSONG
-AUTH_NOHTAN,Noel Hidalgo Tan,0000-0001-8810-0898,,,,,,,,ORG_00093,United States of America,AUTH_JAGDOUGLAS
-AUTH_OLCUNIN,Olivier Cunin,,,,,,,,,ORG_00093,United States of America,AUTH_ROJKOESTLER
-AUTH_OLVOLDOIRE,Olivier Voldoire,0000-0003-1306-3054,,,,,,,,ORG_00094,Italy,AUTH_ORSALVADORI
-AUTH_ORSALVADORI,Ornella Salvadori,0000-0002-5186-4891,,,,,,,,ORG_00095,United States of America,AUTH_LYMESKELL
-AUTH_PATANG,Panpan Tang,0000-0001-7464-1968,,,,,,,,ORG_00096,Australia,AUTH_BOTOUCH
-AUTH_PANGERNKERD,Patcharaporn Ngernkerd,,,,,,,,,ORG_00097,United States of America,AUTH_TEDAVIS
-AUTH_PAROBERTS,Patrick Roberts,0000-0002-4403-7548,,,,,,,,ORG_00098,Japan,AUTH_YOKATAYAMA
-AUTH_PABISHOP,Paul Bishop,0000-0003-0895-9606,,,,,,,,ORG_00099,China,AUTH_PHPHAL
-AUTH_PEHU,Pengfei Hu,0000-0002-4596-3041,,,,,,,,ORG_00100,United Kingdom,AUTH_JOWAGER
-AUTH_PECUASAY,Peter Cuasay,,,,,,,,,ORG_00100,Cambodia,AUTH_KOVIREAK
-AUTH_PEDSHARROCK,Peter D Sharrock,0009-0003-9543-6279,,,,,,,,ORG_00101,Thailand,AUTH_THWISAIJORN
-AUTH_PEGRAVE,Peter Grave,0000-0001-5076-2386,,,,,,,,ORG_00102,Mexico,AUTH_JOZAMORANO
-AUTH_PHPHAL,Pheaktra Phal,0000-0002-6702-7959,,,,,,,,ORG_00103,Indonesia,AUTH_THTPRABOWO
-AUTH_PHDILLMANN,Philippe Dillmann,0000-0003-3226-1611,,,,,,,,ORG_00104,Malaysia,AUTH_MIVICKERY
-AUTH_PHKASEKA,Phon Kaseka,0000-0002-8896-3818,,,,,,,,ORG_00105,United Kingdom,AUTH_COSTERLING
-AUTH_PIBATY,Pierre Baty,,,,,,,,,ORG_00105,United Kingdom,AUTH_CRCCASTILLO
-AUTH_PIHENG,Piphal Heng,0000-0001-5020-0092,,,,,,,,ORG_00105,United Kingdom,AUTH_YIZHUANG
-AUTH_PRSINGH,Prabhakar Singh,0000-0002-0029-1384,,,,,,,,ORG_00105,United Kingdom,AUTH_MIFCHARLTON
-AUTH_PRKTHAKUR,Praveen K Thakur,0000-0002-0508-8684,,,,,,,,ORG_00106,Australia,AUTH_KOCHIM
-AUTH_QIGE,Qingya Ge,,,,,,,,,ORG_00106,Australia,AUTH_JOTUNNICLIFFE
-AUTH_QUHUA,Quan Hua,0000-0003-0179-8539,,,,,,,,ORG_00106,Australia,AUTH_ASYSHAMSELDIN
-AUTH_RATHOSARAT,Rachanie Thosarat,,,,,,,,,ORG_00106,New Zealand,AUTH_KOCHIM
-AUTH_RACHHAY,Rachna Chhay,0000-0002-5591-0736,,,,,,,,ORG_00106,New Zealand,AUTH_JOTUNNICLIFFE
-AUTH_RAKLEINSCHRODT,Rainer Kleinschrodt,0000-0002-5901-6184,,,,,,,,ORG_00106,New Zealand,AUTH_ASYSHAMSELDIN
-AUTH_RACBASTAKOTI,Ram C Bastakoti,0000-0003-2456-5420,,,,,,,,ORG_00107,Canada,AUTH_SAKLASSEN
-AUTH_RASHOOCONGDEJ,Rasmi Shoocongdej,0000-0002-6492-6633,,,,,,,,ORG_00108,United States of America,AUTH_CHFISCHER
-AUTH_RACHHEAN,Ratha Chhean,,,,,,,,,ORG_00108,United States of America,AUTH_FECARO
-AUTH_REHAMILTON,Rebecca Hamilton,0000-0002-5443-8353,,,,,,,,ORG_00108,United States of America,AUTH_MAPOLKINGHORNE
-AUTH_RIJMURPHY,Richard J Murphy,0000-0003-3201-4768,,,,,,,,ORG_00108,United States of America,AUTH_PIHENG
-AUTH_ROFRENCH,Robert French,,,,,,,,,ORG_00109,Germany,AUTH_ROREUCHER
-AUTH_ROFUCHS,Robert Fuchs,0000-0001-8934-5635,,,,,,,,ORG_00109,Germany,AUTH_HALEISEN
-AUTH_ROJKOESTLER,Robert J Koestler,0000-0001-5433-4899,,,,,,,,ORG_00109,Germany,AUTH_ESVPLEHWELEISEN
-AUTH_ROKUSZINGER,Robert Kuszinger,0000-0001-8089-470X,,,,,,,,ORG_00109,Germany,AUTH_RAKLEINSCHRODT
-AUTH_ROREUCHER,Robin Reucher,,,,,,,,,ORG_00109,Germany,AUTH_SURUNKEL
-AUTH_ROJFLETCHER,Roland J Fletcher,0000-0001-8969-9759,,,,,,,,ORG_00109,Germany,AUTH_ROFUCHS
-AUTH_ROLASAPONARA,Rosa Lasaponara,0000-0002-1287-646X,,,,,,,,ORG_00110,United States of America,AUTH_SCGORTMAN
-AUTH_RUHAYHOE,Ruth Hayhoe,0000-0003-2271-9721,,,,,,,,ORG_00111,Denmark,AUTH_YOTANAKA
-AUTH_RYWATANABE,Ryota Watanabe,,,,,,,,,ORG_00112,Germany,AUTH_HESIEDEL
-AUTH_SYBAUVAIS,Sylvain Bauvais,0000-0002-3203-1069,,,,,,,,ORG_00112,Germany,AUTH_STPFEFFERKORN
-AUTH_SIBERNARDINI,Simone Bernardini,0000-0003-0958-4893,,,,,,,,ORG_00112,Germany,AUTH_ESVPLEHWELEISEN
-AUTH_SKVIGNESH,S Kandasamy Vignesh,0000-0003-4285-8817,,,,,,,,ORG_00112,Germany,AUTH_HALEISEN
-AUTH_SASHIMAMOTO,Sae Shimamoto,,,,,,,,,ORG_00113,United States of America,AUTH_ANEGAUGHAN
-AUTH_SASAKHOEUN,Sakada Sakhoeun,,,,,,,,,ORG_00113,United States of America,AUTH_MIWBINFORD
-AUTH_SAPHOU,Sambath Phou,0009-0009-7183-5228,,,,,,,,ORG_00113,United States of America,AUTH_JASOUTHWORTH
-AUTH_SASARUN,Sambath Sarun,,,,,,,,,ORG_00114,Germany,AUTH_JOKAMMERHOFER
-AUTH_SAKIM,Samnang Kim,,,,,,,,,ORG_00115,Switzerland,AUTH_ALCHECHI
-AUTH_SAETIENNE,Samuel Etienne,0000-0003-3998-0467,,,,,,,,ORG_00116,United Kingdom,AUTH_ESMUNOZSALINAS
-AUTH_SAKLEE,Sang Kook Lee,0000-0002-6353-3782,,,,,,,,ORG_00116,United Kingdom,AUTH_PABISHOP
-AUTH_SATACHINO,Saori Tachino,,,,,,,,,ORG_00116,United Kingdom,AUTH_SIMACKENZIE
-AUTH_SAKLASSEN,Sarah Klassen,0000-0001-5110-713X,,,,,,,,ORG_00116,United Kingdom,AUTH_TEDAVIS
-AUTH_SAKHUNSONG,Saritpong Khunsong,,,,,,,,,ORG_00117,Sweden,AUTH_KAGABER
-AUTH_SCGORTMAN,Scott G Ortman,0000-0003-0709-5287,,,,,,,,ORG_00117,Sweden,AUTH_MIBAAZ
-AUTH_SCHENSLEY,Scott Hensley,0000-0002-8846-2175,,,,,,,,ORG_00117,Sweden,AUTH_MOLILJA
-AUTH_SESAMATH,Sela Samath,,,,,,,,,ORG_00118,Germany,AUTH_BRHAUSERSCHAUBLIN
-AUTH_SESOK,Serey Sok,0000-0002-3722-0125,,,,,,,,ORG_00118,Sweden,AUTH_WAWEDEKIND
-AUTH_SHCHEN,Shanduo Chen,,,,,,,,,ORG_00118,Sweden,AUTH_CHJGROSS
-AUTH_SHSTRATE,Shane Strate,,,,,,,,,ORG_00118,Sweden,AUTH_ANHOFFMANN
-AUTH_SHALVARES,Sharon Alvares,,,,,,,,,ORG_00118,Sweden,AUTH_SISIEGESMUND
-AUTH_SHKUMAR,Shashi Kumar,0000-0001-6215-8354,,,,,,,,ORG_00119,United States of America,AUTH_MITSTARK
-AUTH_SHAGRAWAL,Shefali Agrawal,,,,,,,,,ORG_00119,United States of America,AUTH_PIHENG
-AUTH_SHSWANG,Shi-Yu Simon Wang,,,,,,,,,ORG_00120,Germany,AUTH_MISFALSER
-AUTH_SHSAKURAI,Shigeyoshi Sakurai,,,,,,,,,ORG_00121,China,AUTH_JILI
-AUTH_SHYAMADA,Shunsuke Yamada,,,,,,,,,ORG_00121,China,AUTH_MADENG
-AUTH_SISIEGESMUND,Siegfried Siegesmund,0000-0002-5382-0622,,,,,,,,ORG_00121,China,AUTH_JIGU
-AUTH_SICHESTERMAN,Simon Chesterman,0000-0002-3599-4573,,,,,,,,ORG_00121,China,AUTH_WELAN
-AUTH_SIMACKENZIE,Simon Mackenzie,0000-0002-9294-4732,,,,,,,,ORG_00121,China,AUTH_HULI
-AUTH_SICESCHIN,Simona Ceschin,0000-0001-5964-1855,,,,,,,,ORG_00121,China,AUTH_XIDING
-AUTH_SOTEP,Sokha Tep,,,,,,,,,ORG_00121,China,AUTH_YILI
-AUTH_SOTHAU,Sokkalyan Thau,,,,,,,,,ORG_00121,China,AUTH_QIGE
-AUTH_SOIM,Sokrithy Im,,,,,,,,,ORG_00121,China,AUTH_XILIU
-AUTH_SOSO,Sokuntheary So,,,,,,,,,ORG_00121,China,AUTH_THWARSCHEID
-AUTH_SOBUCKMAN,Solomon Buckman,0000-0001-5314-1331,,,,,,,,ORG_00122,United States of America,AUTH_HESILVERMAN
-AUTH_SOBAI,Songqiang Bai,,,,,,,,,ORG_00122,United States of America,AUTH_MIHENDRICKSON
-AUTH_SOCHAN,Sovichetra Chan,,,,,,,,,ORG_00123,United Kingdom,AUTH_PEDSHARROCK
-AUTH_STPFEFFERKORN,Stephan Pfefferkorn,,,,,,,,,ORG_00123,United Kingdom,AUTH_STHWHITEMAN
-AUTH_STHWHITEMAN,Stephen H Whiteman,0000-0002-4451-4180,,,,,,,,ORG_00124,Italy,AUTH_CLURZI
-AUTH_STDGREEF,Stéphane De Greef,0000-0003-0370-5658,,,,,,,,ORG_00125,United States of America,AUTH_JODCIORCIARI
-AUTH_STLEROY,Stéphanie Leroy,0000-0002-1835-3563,,,,,,,,ORG_00125,United States of America,AUTH_VILIEBERMAN
-AUTH_SUYEN,Sufen Yen,0000-0002-8533-9657,,,,,,,,ORG_00126,Germany,AUTH_FADELLEFANT
-AUTH_SUKUBO,Sumiko Kubo,,,,,,,,,ORG_00126,Germany,AUTH_IUVSLEPTSOVA
-AUTH_SURUNKEL,Susanne Runkel,,,,,,,,,ORG_00126,Germany,AUTH_AABUFE
-AUTH_SUCHAUDHARY,Sushank Chaudhary,0000-0002-1715-9689,,,,,,,,ORG_00126,Germany,AUTH_MEKALIWODA
-AUTH_SWCHEMBURKAR,Swati Chemburkar,,,,,,,,,ORG_00127,Australia,AUTH_GAPMARRINER
-AUTH_THBLANCHET,Thomas Blanchet,0000-0002-8155-339X,,,,,,,,ORG_00127,Australia,AUTH_PEGRAVE
-AUTH_TABSUY,Tan Boun Suy,,,,,,,,,ORG_00127,United States of America,AUTH_PEGRAVE
-AUTH_TAMASUDA,Takatsugu Masuda,0000-0002-5168-1024,,,,,,,,ORG_00128,Australia,AUTH_IATAPLEY
-AUTH_TANAKAGAWA,Takeshi Nakagawa,0000-0003-0831-6803,,,,,,,,ORG_00128,Australia,AUTH_ANMILNE
-AUTH_TAOISHI,Takeshi Oishi,0000-0002-2010-2608,,,,,,,,ORG_00129,United States of America,AUTH_ALCARTER
-AUTH_TANAKAMURA,Tamaki Nakamura,0000-0001-8625-4092,,,,,,,,ORG_00129,United States of America,AUTH_ALKCARTER
-AUTH_TABSUY,Tan Boun Suy,,,,,,,,,ORG_00129,Cambodia,AUTH_ALKCARTER
-AUTH_TAMEASUM,Taylor M Easum,,,,,,,,,ORG_00130,New Zealand,AUTH_CHFWHIGHAM
-AUTH_TEHALL,Tegan Hall,0000-0002-2072-241X,,,,,,,,ORG_00130,New Zealand,AUTH_HACAWTE
-AUTH_TEDELACY,Terry DeLacy,0000-0002-6535-6302,,,,,,,,ORG_00130,New Zealand,AUTH_RATHOSARAT
-AUTH_TELUSTIG,Terry Lustig,0000-0001-7959-7871,,,,,,,,ORG_00130,New Zealand,AUTH_HARBUCKLEY
-AUTH_TEDAVIS,Tess Davis,0000-0001-7001-7439,,,,,,,,ORG_00131,Canada,AUTH_ANBUSS
-AUTH_TEWARAGAI,Tetsuya Waragai,0000-0001-9946-8225,,,,,,,,ORG_00132,United States of America,AUTH_MIPLEADBETTER
-AUTH_THWISAIJORN,Thanachate Wisaijorn,0009-0002-1779-2094,,,,,,,,ORG_00133,Germany,AUTH_JEFOHLMEISTER
-AUTH_THPONGSUDHIRAK,Thitinan Pongsudhirak,,,,,,,,,ORG_00134,Australia,AUTH_MIBARBETTI
-AUTH_THOPRYCE,Thomas Oliver Pryce,0000-0002-7290-141X,,,,,,,,ORG_00135,Singapore,AUTH_HADPHAN
-AUTH_THWARSCHEID,Thomas Warscheid,0000-0002-6040-8054,,,,,,,,ORG_00135,Singapore,AUTH_SICHESTERMAN
-AUTH_THTPRABOWO,Thoriq Tri Prabowo,0000-0001-8196-7958,,,,,,,,ORG_00135,Singapore,AUTH_VIKATTAN
-AUTH_TIATTORRE,Tiago Attorre,0000-0003-4076-389X,,,,,,,,ORG_00136,Australia,AUTH_DAEVANS
-AUTH_TIFSONNEMANN,Till Frieder Sonnemann,0000-0003-2632-7282,,,,,,,,ORG_00136,Australia,AUTH_ROJFLETCHER
-AUTH_TIWINTER,Tim Winter,0000-0002-5825-6012,,,,,,,,ORG_00136,Australia,AUTH_DAPENNY
-AUTH_TITIN,Tina Tin,,,,,,,,,ORG_00136,Australia,AUTH_DATANG
-AUTH_TOTOKUNAGA,Tomochika Tokunaga,0000-0002-8867-0468,,,,,,,,ORG_00136,Australia,AUTH_MIBARBETTI
-AUTH_TOHIRAI,Tomonari Hirai,,,,,,,,,ORG_00136,Australia,AUTH_DOJOREILLY
-AUTH_TOTMINH,Ton That Minh,0009-0000-5296-757X,,,,,,,,ORG_00136,Australia,AUTH_EILUSTIG
-AUTH_TOSUGAI,Toshihiko Sugai,0000-0002-5779-5612,,,,,,,,ORG_00136,Australia,AUTH_NGRICHARDS
-AUTH_TOMAEDA,Toshiro Maeda,0000-0002-1837-9704,,,,,,,,ORG_00136,Australia,AUTH_GIGREEN
-AUTH_TRMHONG,Truong Mai Hong,,,,,,,,,ORG_00136,Australia,AUTH_JOGILLESPIE
-AUTH_VASAVO,Valentina Savo,0000-0002-4415-2685,,,,,,,,ORG_00136,Australia,AUTH_MAPOLKINGHORNE
-AUTH_VEVAR,Veasna Var,,,,,,,,,ORG_00136,Australia,AUTH_MIHENDRICKSON
-AUTH_VIPEUO,Vibol Peuo,,,,,,,,,ORG_00136,Australia,AUTH_NAAWALES
-AUTH_VIGOULOUBEW,Victor Gouloubew,,,,,,,,,ORG_00136,Australia,AUTH_RIJMURPHY
-AUTH_VIKATTAN,Victor Kattan,0000-0001-5109-5933,,,,,,,,ORG_00136,Australia,AUTH_ELBRUCE
-AUTH_VILIEBERMAN,Victor Lieberman,,,,,,,,,ORG_00136,Australia,AUTH_CHPOTTIER
-AUTH_VICHAN,Vitharong Chan,,,,,,,,,ORG_00136,Australia,AUTH_TELUSTIG
-AUTH_WCCARLETON,W Christopher Carleton,0000-0001-7463-8638,,,,,,,,ORG_00136,Australia,AUTH_TEHALL
-AUTH_WAWEDEKIND,Wanja Wedekind,0009-0007-7582-146X,,,,,,,,ORG_00136,Australia,AUTH_TIWINTER
-AUTH_WAJSASTRAWAN,Wayan Jarrah Sastrawan,0000-0002-9541-1907,,,,,,,,ORG_00137,Japan,AUTH_ATBANNO
-AUTH_WEZHOU,Wei Zhou,0000-0003-0947-3843,,,,,,,,ORG_00137,Japan,AUTH_TAMASUDA
-AUTH_WEWANG,Wei-Dong Wang,,,,,,,,,ORG_00137,Japan,AUTH_TAOISHI
-AUTH_WELAN,Wensheng Lan,0000-0002-0462-6276,,,,,,,,ORG_00137,Japan,AUTH_KAIKEUCHI
-AUTH_WEZHENG,Wenwu Zheng,0009-0009-7586-9820,,,,,,,,ORG_00137,Japan,AUTH_MAKAMAKURA
-AUTH_XILIU,Xiaobo Liu,0000-0003-2318-1505,,,,,,,,ORG_00137,Japan,AUTH_HIIKUTA
-AUTH_XIDING,Xinghua Ding,0000-0003-1249-3212,,,,,,,,ORG_00137,Japan,AUTH_BOZHENG
-AUTH_XUWTAY,Xuan W Tay,0000-0002-6813-9821,,,,,,,,ORG_00137,Japan,AUTH_YOSATO
-AUTH_YUTAKUBO,Yukinori Takubo,0000-0002-4344-9153,,,,,,,,ORG_00137,Japan,AUTH_MAKAGESAWA
-AUTH_YOFUTAGAMI,Yoko Futagami,0000-0002-2998-0538,,,,,,,,ORG_00137,Japan,AUTH_KASEZAKI
-AUTH_YAMENG,Yahui Meng,0000-0002-8291-8944,,,,,,,,ORG_00137,Japan,AUTH_NANAGUMO
-AUTH_YAKATO,Yasuhiro Kato,0000-0002-5711-8304,,,,,,,,ORG_00137,Japan,AUTH_TOSUGAI
-AUTH_YAAKAZAWA,Yasushi Akazawa,0000-0002-9863-1315,,,,,,,,ORG_00137,Japan,AUTH_TOTOKUNAGA
-AUTH_YIHONG,Yiguo Hong,0000-0002-6255-4100,,,,,,,,ORG_00137,Japan,AUTH_YOSUGIMOTO
-AUTH_YIZHUANG,Yijie Zhuang,0000-0001-5546-0870,,,,,,,,ORG_00137,Japan,AUTH_NAYAMADA
-AUTH_YILI,Yiliang Li,,,,,,,,,ORG_00137,Japan,AUTH_KAMOGIB
-AUTH_YOKATAYAMA,Yoko Katayama,0000-0002-4365-6320,,,,,,,,ORG_00137,Japan,AUTH_YOIWASAKI
-AUTH_YOKOJIMA,Yoko Kojima,0000-0001-9137-9711,,,,,,,,ORG_00137,Japan,AUTH_MIFUKUDA
-AUTH_YOTANAKA,Yoshifumi Tanaka,0000-0002-0063-9424,,,,,,,,ORG_00137,Japan,AUTH_KONAKAGAWA
-AUTH_YOSATO,Yoshihiro Sato,0000-0003-4797-1253,,,,,,,,ORG_00137,Japan,AUTH_YAAKAZAWA
-AUTH_YOSUGIMOTO,Yoshihiro Sugimoto,,,,,,,,,ORG_00137,Japan,AUTH_ICSHIMODA
-AUTH_YOSUGIURA,Yoshikazu Sugiura,,,,,,,,,ORG_00137,Japan,AUTH_TANAKAGAWA
-AUTH_YOKOBAYASHI,Yoshimitsu Kobayashi,,,,,,,,,ORG_00137,Japan,AUTH_YOKATAYAMA
-AUTH_YOIWASAKI,Yoshinori Iwasaki,0000-0002-5693-430X,,,,,,,,ORG_00138,Canada,AUTH_AAGLAS
-AUTH_YOQIAN,Youfen Qian,0000-0002-0763-6816,,,,,,,,ORG_00138,Canada,AUTH_EDSWENSON
-AUTH_YUDENG,Yunyuan Deng,0000-0003-1062-9470,,,,,,,,ORG_00138,Canada,AUTH_RUHAYHOE
-AUTH_YULU,Yusu Lu,0000-0002-5870-7282,,,,,,,,ORG_00138,Canada,AUTH_SAKLASSEN
-AUTH_YUSHIGEEDA,Yutaka Shigeeda,,,,,,,,,ORG_00139,Japan,AUTH_ICSHIMODA
-AUTH_LONARY,Long Nary,,,,,,,,,ORG_00140,United States of America,AUTH_PECUASAY
-AUTH_SIWARRACK,Simon Warrack,,,,,,,,,ORG_00141,Australia,AUTH_KEGERARD
-AUTH_DAKRAUSE,Dana Krause,,,,,,,,,ORG_00142,United States of America,AUTH_TAMEASUM
-AUTH_JOKRONER,Johannes Kroner,,,,,,,,,ORG_00143,Australian Catholic University,AUTH_SOBUCKMAN
-AUTH_CHSCHMALTZ,Christine Schmaltz,,,,,,,,,ORG_00144,Fiji,AUTH_NAAWALES
-,,,,,,,,,,ORG_00145,United States of America,AUTH_SHSWANG
-,,,,,,,,,,ORG_00146,Australia,AUTH_NAMAO
-,,,,,,,,,,ORG_00146,Australia,AUTH_HEGRUNFELD
-,,,,,,,,,,ORG_00146,Australia,AUTH_TEDELACY
-,,,,,,,,,,ORG_00146,Australia,AUTH_DACHANDLER
-,,,,,,,,,,ORG_00146,New Zeeland,AUTH_SIMACKENZIE
-,,,,,,,,,,ORG_00147,Japan,AUTH_ETUCHIDA
-,,,,,,,,,,ORG_00147,Japan,AUTH_AOMIZUMORI
-,,,,,,,,,,ORG_00147,Japan,AUTH_KAKURIYAMA
-,,,,,,,,,,ORG_00147,Japan,AUTH_YOKOBAYASHI
-,,,,,,,,,,ORG_00147,Japan,AUTH_TANAKAMURA
-,,,,,,,,,,ORG_00147,Japan,AUTH_HISATO
-,,,,,,,,,,ORG_00147,Japan,AUTH_RYWATANABE
-,,,,,,,,,,ORG_00147,Japan,AUTH_KEITO
-,,,,,,,,,,ORG_00147,Japan,AUTH_NOSHIMIZU
-,,,,,,,,,,ORG_00147,Japan,AUTH_KOTSUDA
-,,,,,,,,,,ORG_00147,Japan,AUTH_OLCUNIN
-,,,,,,,,,,ORG_00147,Japan,AUTH_ICSHIMODA
-,,,,,,,,,,ORG_00147,Japan,AUTH_YUTAKUBO
-,,,,,,,,,,ORG_00147,Japan,AUTH_TANAKAGAWA
-,,,,,,,,,,ORG_00147,Japan,AUTH_YULU
-,,,,,,,,,,ORG_00147,Japan,AUTH_LUDU
-,,,,,,,,,,ORG_00147,Japan,AUTH_KASATO
-,,,,,,,,,,ORG_00147,Japan,AUTH_AKMIZOGUCHI
-,,,,,,,,,,ORG_00147,Japan,AUTH_MAKOIWA
-,,,,,,,,,,ORG_00147,Japan,AUTH_YOIWASAKI
-,,,,,,,,,,ORG_00147,Japan,AUTH_KEMIURA
-,,,,,,,,,,ORG_00147,Japan,AUTH_NANAGUMO
-,,,,,,,,,,ORG_00147,Japan,AUTH_TOSUGAI
-,,,,,,,,,,ORG_00147,Japan,AUTH_SASHIMAMOTO
-,,,,,,,,,,ORG_00147,Japan,AUTH_SATACHINO
-,,,,,,,,,,ORG_00147,Japan,AUTH_SHYAMADA
-,,,,,,,,,,ORG_00147,Japan,AUTH_SHSAKURAI
-,,,,,,,,,,ORG_00147,Japan,AUTH_MAARAYA
-,,,,,,,,,,ORG_00147,Japan,AUTH_MIFUKUDA
-,,,,,,,,,,ORG_00147,Japan,AUTH_SUKUBO
-,,,,,,,,,,ORG_00147,Japan,AUTH_TOMAEDA
-,,,,,,,,,,ORG_00147,Japan,AUTH_YOSUGIURA
-,,,,,,,,,,ORG_00147,Japan,AUTH_TOHIRAI
-,,,,,,,,,,ORG_00147,Japan,AUTH_YAAKAZAWA
-,,,,,,,,,,ORG_00148,United States of America,AUTH_SHSTRATE
-,,,,,,,,,,ORG_00149,United States of America,AUTH_GLBOORNAZIAN
-,,,,,,,,,,ORG_00150,South Korea,AUTH_SAKLEE
+id,name,ORCID,org,IDAF,Publisher,IDPS
+AUTH_AABUFE,Aaron Bufe,http://orcid.org/0000-0002-8551-7265,APSARA National Authority,ORG_00001,Academie des inscriptions et belles-lettres,PBSH_00001
+AUTH_AAGLAS,Aarie Glas,http://orcid.org/0000-0002-7729-9755,Aalto University,ORG_00002,American Association for the Advancement of Science,PBSH_00002
+AUTH_AKMIZO,Akinori Mizoguchi,http://orcid.org/0000-0001-7049-2280,Academie des Inscriptions et Belles-Lettres,ORG_00003,ANNUAL REVIEWS,PBSH_00003
+AUTH_ALCART,Alison Kyra Carter,http://orcid.org/0000-0001-6331-2149,Adam Mickiewicz University,ORG_00004,APSARA National Authority,PBSH_00004
+AUTH_ALCHEC,Alessandro Chechi,http://orcid.org/0000-0003-4007-0209,Akita University,ORG_00005,Association des professeurs d'arch�ologie et d'histoire de l'art des universit�s,PBSH_00005
+AUTH_ALDISS,Alexandre Disser,http://orcid.org/0000-0003-0914-2606,Archaeology and Development Foundation,ORG_00006,Association for Computing Machinery,PBSH_00006
+AUTH_ANBUSS,Andreas Buss,http://orcid.org/0000-0003-1277-0945,Arizona State University,ORG_00007,Australian Society of Exploration Geophysicists,PBSH_00007
+AUTH_ANGAUG,Andrea E. Gaughan,http://orcid.org/0000-0002-4898-1587,Asian Disaster Preparedness Center,ORG_00008,BAR Publishing,PBSH_00008
+AUTH_ANGUIL,Anne Yvonne Guillou,http://orcid.org/0009-0006-4670-8399,Asian Institute of Technology,ORG_00009,Brill,PBSH_00009
+AUTH_ANHOFF,Andreas Hoffmann,,Australian Catholic University,ORG_00010,Cambridge University Press,PBSH_00010
+AUTH_ANKULI,Andreas Kulick,http://orcid.org/0000-0002-4524-0150,Australian Defense Force Academy,ORG_00011,Cell Press,PBSH_00011
+AUTH_ANLEAS,Anna Leask,http://orcid.org/0000-0003-3543-8064,Australian National University,ORG_00012,Ecole Francaise d'Extreme-Orient,PBSH_00012
+AUTH_ANMILN,Anthony Milne,,Australian Nuclear Science and Technology Organisation,ORG_00013,Elsevier,PBSH_00013
+AUTH_ANMUNI,Annalaura Casanova Municchia,http://orcid.org/0000-0002-3459-8763,Benaras Hindu University,ORG_00014,German Geological Society Geological Association,PBSH_00014
+AUTH_AOMIZU,Aoi Mizumori,,Bidoup Nui Ba National Park,ORG_00015,GIGA Institut f�r Asien-Studien,PBSH_00015
+AUTH_APAPSA,APSARA,,Blaise Pascal University,ORG_00016,Indo-Pacific Prehistory Association,PBSH_00016
+AUTH_ARBABU,Arun Babu,http://orcid.org/0000-0002-1398-928X,Cambodian National Commission for UNESCO,ORG_00017,J-STAGE,PBSH_00017
+AUTH_ARSODO,Armida Sodo,http://orcid.org/0000-0001-7005-1610,Centre National de la Recherche Scientifique,ORG_00018,Maney Publishing,PBSH_00018
+AUTH_ARWICH,Aroonrut Wichienkeeo,,Chiang Mai University,ORG_00019,MDPI,PBSH_00019
+AUTH_ARZELL,Ariel Zellman,http://orcid.org/0000-0003-1106-1282,Chiba Institute of Technology,ORG_00020,Michigan Publishing,PBSH_00020
+AUTH_ASHADA,Asami Hada,,Chinese Academy of Sciences,ORG_00021,Nature,PBSH_00021
+AUTH_ASROGE,Ashleigh J. Rogers,http://orcid.org/0000-0003-0455-9381,Chulalongkorn University,ORG_00022,NUS Press,PBSH_00022
+AUTH_ASSHAM,Asaad Y. Shamseldin,http://orcid.org/0000-0002-1701-7218,City University of Macau,ORG_00023,Oxford Academic,PBSH_00023
+AUTH_ATBANN,Atsuhiko Banno,http://orcid.org/0000-0002-6394-5947,Cleveland State University,ORG_00024,Oxford University Press,PBSH_00024
+AUTH_BEPORT,Bertrand Porte,,Columbia University,ORG_00025,Palgrave Macmillan,PBSH_00025
+AUTH_BOTOUC,Bora Touch,,Consiglio Nazionale delle Ricerche,ORG_00026,Presses Universitaires de Provence,PBSH_00026
+AUTH_BOZHEN,Bo Zheng,,Consiglio per la Ricerca e la Sperimentazione in Agricoltura,ORG_00027,Public Library of Science,PBSH_00027
+AUTH_BRBUCK,Brendan M. Buckley,http://orcid.org/0000-0003-1544-8003,Cornell University,ORG_00028,Radiocarbon,PBSH_00028
+AUTH_BRPHAL,Bruno Phalip,,Cyber University,ORG_00029,Routledge,PBSH_00029
+AUTH_BRSCHA,Brigitta Hauser-Schäublin,,Eberhard Karls University of Tubingen,ORG_00030,Sage Publications,PBSH_00030
+AUTH_BRZOTT,Brian Zottoli,,Ecole Francaise d'Extreme-Orient,ORG_00031,Saint Petersburg State University of Architecture and Civil Engineering,PBSH_00031
+AUTH_CHCHEN,Ching-Fu Chen,,Ecole des Hautes Etudes en Sciences Sociales,ORG_00032,Science Council of Asia,PBSH_00032
+AUTH_CHCROM,Christopher Cromarty,,Edinburgh Napier University,ORG_00033,Scientific Research Publishing,PBSH_00033
+AUTH_CHDENG,Chaoqun Deng,,Ehime University,ORG_00034,Springer,PBSH_00034
+AUTH_CHFISC,Christian Fischer,,European Commission Joint Research Centre,ORG_00035,Taylor and Francis,PBSH_00035
+AUTH_CHGOLD,Charles Goldblum,,Field Museum of Natural History,ORG_00036,The Association of Japanese Geographers,PBSH_00036
+AUTH_CHGROS,Christian J. Gross,,Flinders University,ORG_00037,The Metropolitan Museum of Art,PBSH_00037
+AUTH_CHHIGH,Charles. F. W. Higham,http://orcid.org/0000-0002-1082-6215,Guangdong Industry Polytechnic University,ORG_00038,Trans Tech Publications,PBSH_00038
+AUTH_CHMENG,Chhum Menghong,,Guangdong Technion Israel Institute of Technology,ORG_00039,UNESCO,PBSH_00039
+AUTH_CHPHOE,Chuch Phoeurn,,Guangdong University of Petrochemical Technology,ORG_00040,United States National Academy of Sciences,PBSH_00040
+AUTH_CHPOTT,Christophe Pottier,http://orcid.org/0000-0001-8699-6280,Guangzhou University,ORG_00041,University of Chicago Press,PBSH_00041
+AUTH_CHVITH,Chan Vitharong,,Harokopio University Athens,ORG_00042,University of Pennsylvania Law School,PBSH_00042
+AUTH_CLURZI,Clara Urzì,http://orcid.org/0000-0001-7952-9422,Heilongjiang Bayi Agricultural University,ORG_00043,Wiley,PBSH_00043
+AUTH_COSTER,Colin Sterling,http://orcid.org/0000-0002-0423-6796,Hengyang Normal University,ORG_00044,,
+AUTH_CRCAST,Cristina Cobo Castillo,http://orcid.org/0000-0001-6557-1881,Hubei Minzu University,ORG_00045,,
+AUTH_DABROW,Davis Brown,http://orcid.org/0000-0002-6391-4833,Hungarian Indochina Company,ORG_00046,,
+AUTH_DACHAN,David Chandler,,Independent Researcher,ORG_00047,,
+AUTH_DAEA,Darith Ea,,Indian Space Research Organisation (ISRO),ORG_00048,,
+AUTH_DAEVAN,Damian Evans,http://orcid.org/0000-0003-0320-4319,Institut National de Recherches Archeologiques Preventives,ORG_00049,,
+AUTH_DAFINK,David Fink,http://orcid.org/0000-0001-7156-4602,Institute of Environmental Science & Research,ORG_00050,,
+AUTH_DAKRAU,Dana Krause,,Jagiellonian University,ORG_00051,,
+AUTH_DAPENN,Dan Penny,http://orcid.org/0000-0002-7905-0339,James Cook University,ORG_00052,,
+AUTH_DASAND,David Sanderson,http://orcid.org/0000-0002-9615-4412,Japan-APSARA Safeguarding Angkor,ORG_00053,,
+AUTH_DATANG,David Tang,,Karlstad University,ORG_00054,,
+AUTH_DAWYAT,David K. Wyatt,,King Saud University,ORG_00055,,
+AUTH_DEMERC,Denis Mercier,http://orcid.org/0000-0003-2325-1390,Leiden University,ORG_00056,,
+AUTH_DIBURA,Dipamjyoti Buragohain,http://orcid.org/0000-0001-8432-8780,Mahidol University,ORG_00057,,
+AUTH_DIBURA2,Dipima Buragohain,,Max Planck Society,ORG_00058,,
+AUTH_DICHEN,Di Chen,http://orcid.org/0009-0007-1948-3865,McElhanney Indonesia,ORG_00059,,
+AUTH_DOOREI,Dougald J.W. O’Reilly,http://orcid.org/0000-0001-9830-6945,Meijo University,ORG_00060,,
+AUTH_DOSOUT,Dominique Soutif,http://orcid.org/0000-0002-7422-1434,Metropolitan Museum of Art,ORG_00061,,
+AUTH_DUCOOK,Duncan Cook,http://orcid.org/0000-0001-5270-4569,Ministry of Culture and Fine Arts of Cambodia,ORG_00062,,
+AUTH_EDCOOK,Edward R. Cook,http://orcid.org/0000-0001-7478-4176,Ministry of Water Resources and Meteorology,ORG_00063,,
+AUTH_EDSWEN,Edward Swenson,http://orcid.org/0000-0001-5108-4417,Monash University,ORG_00064,,
+AUTH_EILUST,Eileen Lustig,http://orcid.org/0000-0003-3107-4347,Museum National d'Histoire Naturelle,ORG_00065,,
+AUTH_ELBRUC,Eleanor Bruce,http://orcid.org/0000-0002-7640-2335,Nantes University,ORG_00066,,
+AUTH_EMKOLI,Emmanuelle Delque Kolic,http://orcid.org/0000-0001-9758-2964,National Aeronautics & Space Administration (NASA),ORG_00067,,
+AUTH_ENVEGA,Enrique Vega,http://orcid.org/0000-0002-6647-5258,National Authority for Sambor Prei Kuk,ORG_00068,,
+AUTH_ERBOUR,Eric Bourdonneau,,National Cheng Kung University,ORG_00069,,
+AUTH_ERROUS,Erwan Roussel,http://orcid.org/0000-0002-8735-5597,National Institute of Biological Resources,ORG_00070,,
+AUTH_ESLEIS,Esther Von Plehwe-Leisen,http://orcid.org/0000-0002-2096-0012,National Museum of Nature and Science,ORG_00071,,
+AUTH_ESSALI,Esperanza Muñoz Salinas,http://orcid.org/0000-0002-6214-5032,National Palace Museum,ORG_00072,,
+AUTH_ETUCHI,Etsuo Uchida,http://orcid.org/0000-0003-1104-6576,National Research Institute for Cultural Properties,ORG_00073,,
+AUTH_FADELLE,Fabian Dellefant,http://orcid.org/0000-0002-2612-6635,National University of Battambang,ORG_00074,,
+AUTH_FAWU,Fasi Wu,http://orcid.org/0000-0002-1175-8285,New York University,ORG_00075,,
+AUTH_FECARO,Federico Caro,http://orcid.org/0000-0003-2931-6685,Nihon University,ORG_00076,,
+AUTH_FLBART,Flavia Bartoli,http://orcid.org/0000-0002-5917-561X,Ningbo University,ORG_00077,,
+AUTH_FRBIAN,Francesco Bianchini,http://orcid.org/0000-0002-3246-2774,Nong Lam University,ORG_00078,,
+AUTH_FRVAUT,Franck Vautier,http://orcid.org/0000-0002-4939-2477,Norton University,ORG_00079,,
+AUTH_FUCHEN,Fulong Chen,http://orcid.org/0000-0003-1144-0004,O. P. Jindal Global University,ORG_00080,,
+AUTH_GAMARR,Gary P. Marriner,http://orcid.org/0000-0001-7630-6768,Paris Saclay University,ORG_00081,,
+AUTH_GECOED,Georges Coedes,,Polish Academy of Sciences,ORG_00082,,
+AUTH_GICANE,Giulia Caneva,http://orcid.org/0000-0002-0551-7100,Ramkhamhaeng University,ORG_00083,,
+AUTH_GIGREE,Gillian Green,http://orcid.org/0000-0003-1043-9968,Roma Tre University,ORG_00084,,
+AUTH_GISTRO,Giovanni Strona,http://orcid.org/0000-0003-2294-4013,Royal Academy of Cambodia,ORG_00085,,
+AUTH_GIVENT,Giancarlo Della Ventura,http://orcid.org/0000-0001-6277-961X,Royal University of Fine Arts,ORG_00086,,
+AUTH_GLBOOR,Glenn Boornazian,,Royal University of Phnom Penh,ORG_00087,,
+AUTH_GUHUAN,Guang Huang,http://orcid.org/0000-0002-9171-3641,Ruprecht Karls University Heidelberg,ORG_00088,,
+AUTH_HABUCK,Hallie R. Buckley,http://orcid.org/0000-0003-1047-4288,Santa Clara University,ORG_00089,,
+AUTH_HACAWT,Hayden Cawte,,Scottish Universities Research and Reactor Center,ORG_00090,,
+AUTH_HALEIS,Hans Leisen,,Shenzhen Academy of Inspection and Quarantine,ORG_00091,,
+AUTH_HAPEOU,Hang Peou,http://orcid.org/0000-0001-7055-9895,Silpakorn University,ORG_00092,,
+AUTH_HAPHAN,Hao Duy Phan,http://orcid.org/0000-0002-5617-6844,Smithsonian Institution,ORG_00093,,
+AUTH_HAXU,Hang Xu,,Soprintendenza Speciale Polo Museale Veneziano,ORG_00094,,
+AUTH_HEBUN,Hean Bun,,Stanford University,ORG_00095,,
+AUTH_HEGRUN,Helena Grunfeld,http://orcid.org/0000-0003-0544-8077,Supreme Court of State of New South Wales,ORG_00096,,
+AUTH_HELOCA,Henri Locard,,The Antiquities Coalition,ORG_00097,,
+AUTH_HESIED,Heiner Siedel,http://orcid.org/0000-0002-7858-1437,Tokyo National Research Institute for Cultural Properties,ORG_00098,,
+AUTH_HESILV,Helaine Silverman,,Tongren Polytechnic University,ORG_00099,,
+AUTH_HETHAN,Heng Than,,UNESCO,ORG_00100,,
+AUTH_HIAGAT,Hiroki Agatsuma,,Ubon Ratchathani University,ORG_00101,,
+AUTH_HIIKUT,Hikaru Ikuta,http://orcid.org/0009-0001-6372-2444,Universidad Nacional Autonoma de Mexico,ORG_00102,,
+AUTH_HIKASH,Hiroyuki Kashiwadani,http://orcid.org/0000-0002-2657-9730,Universitas Islam Negeri Sunan Kalijaga,ORG_00103,,
+AUTH_HISATO,Hiroya Sato,http://orcid.org/0000-0002-5903-055X,Universiti Sains Malaysia,ORG_00104,,
+AUTH_HISHIO,Hiroyoshi Shiokawa,,University College London,ORG_00105,,
+AUTH_HUGROU,Huw S. Groucutt,http://orcid.org/0000-0002-9111-1720,University of Auckland,ORG_00106,,
+AUTH_HULI,Hui Li,http://orcid.org/0000-0001-9139-3855,University of British Columbia,ORG_00107,,
+AUTH_IAMOFF,Ian Moffat,http://orcid.org/0000-0002-2171-7145,University of California,ORG_00108,,
+AUTH_IATAPL,Ian Tapley,,University of Cologne,ORG_00109,,
+AUTH_ICSHIM,Ichita Shimoda,http://orcid.org/0000-0002-7563-7394,University of Colorado Boulder,ORG_00110,,
+AUTH_ISPARC,Issaak Parcharidis,http://orcid.org/0000-0002-6642-3642,University of Copenhagen,ORG_00111,,
+AUTH_IUSLEP,Iuliia V. Sleptsova,http://orcid.org/0009-0000-8004-7594,University of Dresden,ORG_00112,,
+AUTH_JADOUG,Janet G. Douglas,http://orcid.org/0000-0001-5042-6112,University of Florida,ORG_00113,,
+AUTH_JAJELE,J�nos Jelen,,University of Freiburg,ORG_00114,,
+AUTH_JASOUT,Jane Southworth,http://orcid.org/0000-0002-7246-7879,University of Geneva,ORG_00115,,
+AUTH_JECHEV,Jean-Baptiste Chevance,http://orcid.org/0000-0001-5489-4618,University of Glasgow,ORG_00116,,
+AUTH_JEFOHL,Jens Fohlmeister,http://orcid.org/0009-0002-1654-3715,University of Gothenburg,ORG_00117,,
+AUTH_JIGU,Ji-Dong Gu,,University of Gottingen,ORG_00118,,
+AUTH_JILI,Jing Li,http://orcid.org/0009-0007-7955-7889,University of Hawaii,ORG_00119,,
+AUTH_JIWU,Jiapeng Wu,http://orcid.org/0000-0003-4633-6530,University of Heidelberg,ORG_00120,,
+AUTH_JIYOU,Jiangbin You,http://orcid.org/0000-0002-6340-4542,University of Hong Kong,ORG_00121,,
+AUTH_JOCIOR,John D. Ciorciari,http://orcid.org/0000-0001-8654-3038,University of Illinois,ORG_00122,,
+AUTH_JOGILL,Josephine Gillespie,http://orcid.org/0000-0002-5103-3449,University of London,ORG_00123,,
+AUTH_JOKAMM,Jörg Kammerhofer,http://orcid.org/0000-0003-0991-9905,University of Messina,ORG_00124,,
+AUTH_JOKRON,Johannes Kroner,,University of Michigan,ORG_00125,,
+AUTH_JOLOBO,José Lobo,http://orcid.org/0000-0002-0814-7168,University of Munich,ORG_00126,,
+AUTH_JOMONR,John W. Monroe,,University of New England,ORG_00127,,
+AUTH_JOTUNN,Jon Tunnicliffe,http://orcid.org/0000-0003-0377-7803,University of New South Wales Sydney,ORG_00128,,
+AUTH_JOWAGE,Jonathan Wager,,University of Oregon,ORG_00129,,
+AUTH_JOWEED,Jonathan Niles Weed,http://orcid.org/0000-0002-4766-6526,University of Otago,ORG_00130,,
+AUTH_JOZAMO,Jose-Juan Zamorano,http://orcid.org/0000-0002-9575-5734,University of Ottawa,ORG_00131,,
+AUTH_KADOME,Kate M. Domett,http://orcid.org/0000-0001-5091-3105,University of Oxford,ORG_00132,,
+AUTH_KAGABE,Katrina Gaber,http://orcid.org/0009-0002-6157-4633,University of Potsdam,ORG_00133,,
+AUTH_KAHANU,Kasper Hanus,http://orcid.org/0000-0003-1550-6939,University of Queensland,ORG_00134,,
+AUTH_KAIKEU,Katsushi Ikeuchi,http://orcid.org/0000-0001-9758-9357,University of Singapore,ORG_00135,,
+AUTH_KAKURI,Kaito Kuriyama,,University of Sydney,ORG_00136,,
+AUTH_KAMOGI,Katsuro Mogib,,University of Tokyo,ORG_00137,,
+AUTH_KAPHON,Kaseka Phon,http://orcid.org/0000-0002-8896-3818,University of Toronto,ORG_00138,,
+AUTH_KASATO,Katsura Sato,http://orcid.org/0000-0003-0949-2809,University of Tsukuba,ORG_00139,,
+AUTH_KASEZA,Kaoru Sezaki,http://orcid.org/0000-0003-1194-4632,University of Washington,ORG_00140,,
+AUTH_KEANCH,Kevin J. Anchukaitis,http://orcid.org/0000-0002-8509-8080,University of Western Australia,ORG_00141,,
+AUTH_KEAZAM,Keishiro Azami,http://orcid.org/0000-0003-2885-078X,University of Wisconsin,ORG_00142,,
+AUTH_KEGERA,Kelly Gerard,http://orcid.org/0000-0002-4725-6703,University of Wollongong,ORG_00143,,
+AUTH_KEITO,Keisuke Ito,http://orcid.org/0009-0007-3751-6309,University of the South Pacific,ORG_00144,,
+AUTH_KEMIUR,Keiko Miura,http://orcid.org/0000-0002-5627-0929,Utah State University,ORG_00145,,
+AUTH_KHCHAN,Khieu Chan,,Victoria University,ORG_00146,,
+AUTH_KINGOU,Kimly Ngoun,,Waseda University,ORG_00147,,
+AUTH_KOCHIM,Kosal Chim,http://orcid.org/0000-0002-4581-5436,Wayne State College,ORG_00148,,
+AUTH_KOMIKA,Kousei Mikami,,World Monuments Fund,ORG_00149,,
+AUTH_KONAKA,Koichi Nakagawa,http://orcid.org/0009-0000-3271-1147,Yonsei University,ORG_00150,,
+AUTH_KOTSUD,Kojiro Tsuda,http://orcid.org/0000-0002-6037-4966,Bar Ilan University,ORG_00151,,
+AUTH_KOVIRE,Kong Vireak,,German Federal Foreign Office,ORG_00152,,
+AUTH_KWMOON,Kwang Hee Moon,,Hungarian Southeast Asian Research Institute,ORG_00153,,
+AUTH_KYONIS,Kyosuke Onishi,http://orcid.org/0000-0002-4679-3670,Hungarian Ministry of Foreign Affairs,ORG_00154,,
+AUTH_LADUSS,Laure Dussubieux,http://orcid.org/0000-0002-9334-8131,Japan Funds-in-Trust,ORG_00155,,
+AUTH_LAMAYS,Larry W. Mays,http://orcid.org/0000-0002-4382-606X,ICCROM Italy,ORG_00156,,
+AUTH_LEKONG,Leaksmy Kong,,University of Bonn,ORG_00157,,
+AUTH_LENAM,Le Canh Nam,http://orcid.org/0000-0001-9200-4831,Royal Angkor Foundation,ORG_00158,,
+AUTH_LIGAO,Lin Gao,,Hungarian Indochina Company,ORG_00159,,
+AUTH_LIKEAL,Lisa Kealhofer,http://orcid.org/0000-0002-8308-462X,Chulachomklao Royal Military Academy,ORG_00160,,
+AUTH_LOLEBE,Louis Lebel,http://orcid.org/0000-0001-6187-6418,China Academy for Cultural Heritage,ORG_00161,,
+AUTH_LONARY,Long Nary,,Archaeological Survey of India ,ORG_00162,,
+AUTH_LUDU,Lui Du,,Thailand Research Fund ,ORG_00163,,
+AUTH_LUSALV,Luca Salvati,http://orcid.org/0000-0001-9322-9987,Australian Research Council,ORG_00164,,
+AUTH_LYMESK,Lynn Meskell,http://orcid.org/0000-0001-9087-3611,Swiss Agency for Development and Cooperation,ORG_00165,,
+AUTH_MAANDR,Marie-Françoise André,http://orcid.org/0000-0003-0367-5196,International Alliance for the Protection of Heritage,ORG_00166,,
+AUTH_MAARAY,Masato Araya,,Ambassadors Fund for Cultural Preservation,ORG_00167,,
+AUTH_MADENG,Maocheng Deng,http://orcid.org/0000-0002-9571-9442,National Culutral Heritage Administration (China),ORG_00168,,
+AUTH_MAGUER,Mathieu Guérin,http://orcid.org/0009-0006-2757-0865,Government of the Republic of India,ORG_00169,,
+AUTH_MAKAGE,Masataka Kagesawa,http://orcid.org/0009-0003-4013-5583,Boner Foundation for Fundamental Research,ORG_00170,,
+AUTH_MAKAMA,Mawo Kamakura,,French Ministry of Foreign Affairs,ORG_00171,,
+AUTH_MAKOIW,Masaki Koiwa,,New Zealand Government,ORG_00172,,
+AUTH_MAKUMM,Matti Kummu,http://orcid.org/0000-0001-5096-0163,,,,
+AUTH_MAPOLK,Martin Polkinghorne,http://orcid.org/0000-0002-6108-002X,,,,
+AUTH_MARICC,Maria Antonietta Ricci,http://orcid.org/0000-0002-6904-6686,,,,
+AUTH_MASANO,Masaki Sano,http://orcid.org/0000-0003-3391-9067,,,,
+AUTH_MEKALI,Melanie Kaliwoda,http://orcid.org/0000-0001-7767-3084,,,,
+AUTH_MIBAAZ,Mikael Baaz,http://orcid.org/0000-0003-2145-9016,,,,
+AUTH_MIBARB,Michael Barbetti,,,,,
+AUTH_MIBENI,Mireille Bénisti,,,,,
+AUTH_MIBINF,Michael W. Binford,http://orcid.org/0000-0001-8914-1093,,,,
+AUTH_MICHAR,Michael F. Charlton,http://orcid.org/0000-0002-9526-5743,,,,
+AUTH_MIFALS,Michael S. Falser,http://orcid.org/0000-0003-3930-6843,,,,
+AUTH_MIFUKU,Mitsuharu Fukuda,,,,,
+AUTH_MIHEND,Mitch Hendrickson,http://orcid.org/0000-0002-7694-9648,,,,
+AUTH_MILEAD,Michael Paul Leadbetter,http://orcid.org/0000-0003-1513-6958,,,,
+AUTH_MISTAR,Miriam T. Stark,http://orcid.org/0000-0003-1700-4406,,,,
+AUTH_MIVICK,Michael Vickery,,,,,
+AUTH_MOLILJ,Mona Lilja,http://orcid.org/0000-0003-2773-8534,,,,
+AUTH_MOMETW,Mohamed Metwaly,http://orcid.org/0000-0001-8770-0306,,,,
+AUTH_MOPAKD,Monticha Pakdeekong,,,,,
+AUTH_NABEAV,Nancy Beavan,http://orcid.org/0000-0001-5649-0430,,,,
+AUTH_NAMAO,Nara Mao,,,,,
+AUTH_NANAGU,Naoko Nagumo,http://orcid.org/0000-0002-6032-1813,,,,
+AUTH_NAWALE,Nathan Wales,http://orcid.org/0000-0002-8288-4916,,,,
+AUTH_NAYAMA,Naoyuki Yamada,,,,,
+AUTH_NGRICH,Ngaire Richards,,,,,
+AUTH_NIHOFE,Nina Hofer,,,,,
+AUTH_NIMASI,Nicola Masini,http://orcid.org/0000-0002-8804-5718,,,,
+AUTH_NIREVI,Nicolas Revire,http://orcid.org/0009-0000-7696-4920,,,,
+AUTH_NOSHIM,Nobumasa Shimizu,http://orcid.org/0009-0000-4755-0489,,,,
+AUTH_NOTAN,Noel Hidalgo Tan,http://orcid.org/0000-0001-8810-0898,,,,
+AUTH_OLCUNI,Olivier Cunin,,,,,
+AUTH_OLVOLD,Olivier Voldoire,http://orcid.org/0000-0003-1306-3054,,,,
+AUTH_ORSALV,Ornella Salvadori,http://orcid.org/0000-0002-5186-4891,,,,
+AUTH_PABISH,Paul Bishop,http://orcid.org/0000-0003-0895-9606,,,,
+AUTH_PANGER,Patcharaporn Ngernkerd,,,,,
+AUTH_PAROBE,Patrick Roberts,http://orcid.org/0000-0002-4403-7548,,,,
+AUTH_PATANG,Panpan Tang,http://orcid.org/0000-0001-7464-1968,,,,
+AUTH_PECUAS,Peter Cuasay,,,,,
+AUTH_PEGRAV,Peter Grave,http://orcid.org/0000-0001-5076-2386,,,,
+AUTH_PEHU,Pengfei Hu,http://orcid.org/0000-0002-4596-3041,,,,
+AUTH_PESHAR,Peter D. Sharrock,http://orcid.org/0009-0003-9543-6279,,,,
+AUTH_PHDILL,Philippe Dillmann,http://orcid.org/0000-0003-3226-1611,,,,
+AUTH_PHKASE,Phon Kaseka,http://orcid.org/0000-0002-8896-3818,,,,
+AUTH_PHPHAL,Pheaktra Phal,http://orcid.org/0000-0002-6702-7959,,,,
+AUTH_PIBATY,Pierre Baty,,,,,
+AUTH_PIHENG,Piphal Heng,http://orcid.org/0000-0001-5020-0092,,,,
+AUTH_PRSING,Prabhakar Singh,http://orcid.org/0000-0002-0029-1384,,,,
+AUTH_PRTHAK,Praveen K. Thakur,http://orcid.org/0000-0002-0508-8684,,,,
+AUTH_QIGE,Qingya Ge,,,,,
+AUTH_QUHUA,Quan Hua,http://orcid.org/0000-0003-0179-8539,,,,
+AUTH_RABAST,Ram C. Bastakoti,http://orcid.org/0000-0003-2456-5420,,,,
+AUTH_RACHHA,Rachna Chhay,http://orcid.org/0000-0002-5591-0736,,,,
+AUTH_RACHHE,Ratha Chhean,,,,,
+AUTH_RAKLEI,Rainer Kleinschrodt,http://orcid.org/0000-0002-5901-6184,,,,
+AUTH_RASHOO,Rasmi Shoocongdej,http://orcid.org/0000-0002-6492-6633,,,,
+AUTH_RATHOS,Rachanie Thosarat,,,,,
+AUTH_REHAMI,Rebecca Hamilton,http://orcid.org/0000-0002-5443-8353,,,,
+AUTH_RIMURP,Richard J. Murphy,http://orcid.org/0000-0003-3201-4768,,,,
+AUTH_ROFLET,Roland J. Fletcher,http://orcid.org/0000-0001-8969-9759,,,,
+AUTH_ROFREN,Robert French,,,,,
+AUTH_ROFUCH,Robert Fuchs,http://orcid.org/0000-0001-8934-5635,,,,
+AUTH_ROKOES,Robert J. Koestler,http://orcid.org/0000-0001-5433-4899,,,,
+AUTH_ROKUSZ,Robert Kuszinger,http://orcid.org/0000-0001-8089-470X,,,,
+AUTH_ROLASA,Rosa Lasaponara,http://orcid.org/0000-0002-1287-646X,,,,
+AUTH_ROREUC,Robin Reucher,,,,,
+AUTH_RUHAYH,Ruth Hayhoe,http://orcid.org/0000-0003-2271-9721,,,,
+AUTH_RYWATA,Ryota Watanabe,,,,,
+AUTH_SAETIE,Samuel Etienne,http://orcid.org/0000-0003-3998-0467,,,,
+AUTH_SAKHUN,Saritpong Khunsong,,,,,
+AUTH_SAKIM,Samnang Kim,,,,,
+AUTH_SAKLAS,Sarah Klassen,http://orcid.org/0000-0001-5110-713X,,,,
+AUTH_SALEE,Sang Kook Lee,http://orcid.org/0000-0002-6353-3782,,,,
+AUTH_SAPHOU,Sambath Phou,http://orcid.org/0009-0009-7183-5228,,,,
+AUTH_SASAKH,Sakada Sakhoeun,,,,,
+AUTH_SASARU,Sambath Sarun,,,,,
+AUTH_SASHIM,Sae Shimamoto,,,,,
+AUTH_SATACH,Saori Tachino,,,,,
+AUTH_SCHENS,Scott Hensley,http://orcid.org/0000-0002-8846-2175,,,,
+AUTH_SCORTM,Scott G. Ortman,http://orcid.org/0000-0003-0709-5287,,,,
+AUTH_SESAMA,Sela Samath,,,,,
+AUTH_SESOK,Serey Sok,http://orcid.org/0000-0002-3722-0125,,,,
+AUTH_SHAGRA,Shefali Agrawal,,,,,
+AUTH_SHALVA,Sharon Alvares,,,,,
+AUTH_SHCHEN,Shanduo Chen,,,,,
+AUTH_SHKUMA,Shashi Kumar,http://orcid.org/0000-0001-6215-8354,,,,
+AUTH_SHSAKU,Shigeyoshi Sakurai,,,,,
+AUTH_SHSTRA,Shane Strate,,,,,
+AUTH_SHWANG,Shi-Yu Simon Wang,,,,,
+AUTH_SHYAMA,Shunsuke Yamada,,,,,
+AUTH_SIBERN,Simone Bernardini,http://orcid.org/0000-0003-0958-4893,,,,
+AUTH_SICESC,Simona Ceschin,http://orcid.org/0000-0001-5964-1855,,,,
+AUTH_SICHES,Simon Chesterman,http://orcid.org/0000-0002-3599-4573,,,,
+AUTH_SIMACK,Simon Mackenzie,http://orcid.org/0000-0002-9294-4732,,,,
+AUTH_SISIEG,Siegfried Siegesmund,http://orcid.org/0000-0002-5382-0622,,,,
+AUTH_SIWARR,Simon Warrack,,,,,
+AUTH_SOBAI,Songqiang Bai,,,,,
+AUTH_SOBUCK,Solomon Buckman,http://orcid.org/0000-0001-5314-1331,,,,
+AUTH_SOCHAN,Sovichetra Chan,,,,,
+AUTH_IMSOKR,Im Sokrithy,,,,,
+AUTH_SOSO,Sokuntheary So,,,,,
+AUTH_SOTEP,Sokha Tep,,,,,
+AUTH_SOTHAU,Sokkalyan Thau,,,,,
+AUTH_STGREE,Stéphane De Greef,http://orcid.org/0000-0003-0370-5658,,,,
+AUTH_STLERO,Stéphanie Leroy,http://orcid.org/0000-0002-1835-3563,,,,
+AUTH_STPFEF,Stephan Pfefferkorn,,,,,
+AUTH_STWHIT,Stephen H. Whiteman,http://orcid.org/0000-0002-4451-4180,,,,
+AUTH_SUCHAU,Sushank Chaudhary,http://orcid.org/0000-0002-1715-9689,,,,
+AUTH_SUKUBO,Sumiko Kubo,,,,,
+AUTH_SURUNK,Susanne Runkel,,,,,
+AUTH_SUYEN,Sufen Yen,http://orcid.org/0000-0002-8533-9657,,,,
+AUTH_SVIGN,S. Kandasamy Vignesh,http://orcid.org/0000-0003-4285-8817,,,,
+AUTH_SWCHEM,Swati Chemburkar,,,,,
+AUTH_SYBAUV,Sylvain Bauvais,http://orcid.org/0000-0002-3203-1069,,,,
+AUTH_TAEASU,Taylor M. Easum,,,,,
+AUTH_TAMASU,Takatsugu Masuda,http://orcid.org/0000-0002-5168-1024,,,,
+AUTH_TANAKA,Takeshi Nakagawa,http://orcid.org/0000-0003-0831-6803,,,,
+AUTH_TANAKA2,Tamaki Nakamura,http://orcid.org/0000-0001-8625-4092,,,,
+AUTH_TAOISH,Takeshi Oishi,http://orcid.org/0000-0002-2010-2608,,,,
+AUTH_TASUY,Tan Boun Suy,,,,,
+AUTH_TEDAVI,Tess Davis,http://orcid.org/0000-0001-7001-7439,,,,
+AUTH_TEDELA,Terry DeLacy,http://orcid.org/0000-0002-6535-6302,,,,
+AUTH_TEHALL,Tegan Hall,http://orcid.org/0000-0002-2072-241X,,,,
+AUTH_TELUST,Terry Lustig,http://orcid.org/0000-0001-7959-7871,,,,
+AUTH_TEWARA,Tetsuya Waragai,http://orcid.org/0000-0001-9946-8225,,,,
+AUTH_THBLAN,Thomas Blanchet,http://orcid.org/0000-0002-8155-339X,,,,
+AUTH_THPONG,Thitinan Pongsudhirak,,,,,
+AUTH_THPRAB,Thoriq Tri Prabowo,http://orcid.org/0000-0001-8196-7958,,,,
+AUTH_THPRYC,Thomas Oliver Pryce,http://orcid.org/0000-0002-7290-141X,,,,
+AUTH_THWARS,Thomas Warscheid,http://orcid.org/0000-0002-6040-8054,,,,
+AUTH_THWISA,Thanachate Wisaijorn,http://orcid.org/0009-0002-1779-2094,,,,
+AUTH_TIATTO,Tiago Attorre,http://orcid.org/0000-0003-4076-389X,,,,
+AUTH_TISONN,Till Frieder Sonnemann,http://orcid.org/0000-0003-2632-7282,,,,
+AUTH_TITIN,Tina Tin,,,,,
+AUTH_TIWINT,Tim Winter,http://orcid.org/0000-0002-5825-6012,,,,
+AUTH_TOHIRA,Tomonari Hirai,,,,,
+AUTH_TOMAED,Toshiro Maeda,http://orcid.org/0000-0002-1837-9704,,,,
+AUTH_TOMINH,Ton That Minh,http://orcid.org/0009-0000-5296-757X,,,,
+AUTH_TOSUGA,Toshihiko Sugai,http://orcid.org/0000-0002-5779-5612,,,,
+AUTH_TOTOKU,Tomochika Tokunaga,http://orcid.org/0000-0002-8867-0468,,,,
+AUTH_TRHONG,Truong Mai Hong,,,,,
+AUTH_VASAVO,Valentina Savo,http://orcid.org/0000-0002-4415-2685,,,,
+AUTH_VEVAR,Veasna Var,,,,,
+AUTH_VICHAN,Vitharong Chan,,,,,
+AUTH_VIGOUL,Victor Gouloubew,,,,,
+AUTH_VIKATT,Victor Kattan,http://orcid.org/0000-0001-5109-5933,,,,
+AUTH_VILIEB,Victor Lieberman,,,,,
+AUTH_VIPEUO,Vibol Peuo,,,,,
+AUTH_WASAST,Wayan Jarrah Sastrawan,http://orcid.org/0000-0002-9541-1907,,,,
+AUTH_WAWEDE,Wanja Wedekind,http://orcid.org/0009-0007-7582-146X,,,,
+AUTH_WELAN,Wensheng Lan,http://orcid.org/0000-0002-0462-6276,,,,
+AUTH_WEWANG,Wei-Dong Wang,,,,,
+AUTH_WEZHEN,Wenwu Zheng,http://orcid.org/0009-0009-7586-9820,,,,
+AUTH_WEZHOU,Wei Zhou,http://orcid.org/0000-0003-0947-3843,,,,
+AUTH_XIDING,Xinghua Ding,http://orcid.org/0000-0003-1249-3212,,,,
+AUTH_XILIU,Xiaobo Liu,http://orcid.org/0000-0003-2318-1505,,,,
+AUTH_XUTAY,Xuan W. Tay,http://orcid.org/0000-0002-6813-9821,,,,
+AUTH_YAAKAZ,Yasushi Akazawa,http://orcid.org/0000-0002-9863-1315,,,,
+AUTH_YAKATO,Yasuhiro Kato,http://orcid.org/0000-0002-5711-8304,,,,
+AUTH_YAMENG,Yahui Meng,http://orcid.org/0000-0002-8291-8944,,,,
+AUTH_YIHONG,Yiguo Hong,http://orcid.org/0000-0002-6255-4100,,,,
+AUTH_YILI,Yiliang Li,,,,,
+AUTH_YIZHUA,Yijie Zhuang,http://orcid.org/0000-0001-5546-0870,,,,
+AUTH_YOFUTA,Yoko Futagami,http://orcid.org/0000-0002-2998-0538,,,,
+AUTH_YOIWAS,Yoshinori Iwasaki,http://orcid.org/0000-0002-5693-430X,,,,
+AUTH_YOKATA,Yoko Katayama,http://orcid.org/0000-0002-4365-6320,,,,
+AUTH_YOKOBA,Yoshimitsu Kobayashi,,,,,
+AUTH_YOKOJI,Yoko Kojima,http://orcid.org/0000-0001-9137-9711,,,,
+AUTH_YOQIAN,Youfen Qian,http://orcid.org/0000-0002-0763-6816,,,,
+AUTH_YOSATO,Yoshihiro Sato,http://orcid.org/0000-0003-4797-1253,,,,
+AUTH_YOSUGI,Yoshihiro Sugimoto,,,,,
+AUTH_YOSUGI,Yoshikazu Sugiura,,,,,
+AUTH_YOTANA,Yoshifumi Tanaka,http://orcid.org/0000-0002-0063-9424,,,,
+AUTH_YUDENG,Yunyuan Deng,http://orcid.org/0000-0003-1062-9470,,,,
+AUTH_YULU,Yusu Lu,http://orcid.org/0000-0002-5870-7282,,,,
+AUTH_YUSHIG,Yutaka Shigeeda,,,,,
+AUTH_YUTAKU,Yukinori Takubo,http://orcid.org/0000-0002-4344-9153,,,,
+AUTH_KHNEAY,Khuon Khun Neay,,,,,
+AUTH_JASHAR,Janhwij Sharma,,,,,
+AUTH_UESALZ,Ueli Salzmann,,,,,
+AUTH_SULERT,Surat Lertlum,,,,,
+AUTH_THMAXW,Thomas S. Maxwell,,,,,
+AUTH_DEKHOB,Devyani Khobragade,,,,,
+AUTH_KOPUTH,Kong Puthikar,,,,,
+AUTH_CHCARL,W. Christopher Carleton,https://orcid.org/0000-0001-7463-8638,,,,
+AUTH_ZHYE,Zhu Ye,https://orcid.org/0000-0002-9332-1190,,,,
