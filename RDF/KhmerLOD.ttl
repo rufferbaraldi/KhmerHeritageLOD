@@ -3616,310 +3616,263 @@ kh:ACTV_00020 rdf:type owl:NamedIndividual ,
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_AABUFE
 kh:AUTH_AABUFE rdf:type owl:NamedIndividual ,
                         foaf:Person ;
-               foaf:member kh:ORG_00126 ;
                foaf:name "Aaron Bufe" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_AAGLAS
 kh:AUTH_AAGLAS rdf:type owl:NamedIndividual ,
                         foaf:Person ;
-               foaf:member kh:ORG_00138 ;
                foaf:name "Aarie Glas" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_AKMIZO
 kh:AUTH_AKMIZO rdf:type owl:NamedIndividual ,
                         foaf:Person ;
-               foaf:member kh:ORG_00060 ,
-                           kh:ORG_00147 ;
                foaf:name "Akinori Mizoguchi" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_ALCART
 kh:AUTH_ALCART rdf:type owl:NamedIndividual ,
                         foaf:Person ;
-               foaf:member kh:ORG_00129 ;
                foaf:name "Alison Kyra Carter" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_ALCHEC
 kh:AUTH_ALCHEC rdf:type owl:NamedIndividual ,
                         foaf:Person ;
-               foaf:member kh:ORG_00115 ;
                foaf:name "Alessandro Chechi" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_ALDISS
 kh:AUTH_ALDISS rdf:type owl:NamedIndividual ,
                         foaf:Person ;
-               foaf:member kh:ORG_00081 ;
                foaf:name "Alexandre Disser" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_ANBUSS
 kh:AUTH_ANBUSS rdf:type owl:NamedIndividual ,
                         foaf:Person ;
-               foaf:member kh:ORG_00131 ;
                foaf:name "Andreas Buss" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_ANGAUG
 kh:AUTH_ANGAUG rdf:type owl:NamedIndividual ,
                         foaf:Person ;
-               foaf:member kh:ORG_00113 ;
                foaf:name "Andrea E. Gaughan" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_ANGUIL
 kh:AUTH_ANGUIL rdf:type owl:NamedIndividual ,
                         foaf:Person ;
-               foaf:member kh:ORG_00018 ;
                foaf:name "Anne Yvonne Guillou" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_ANHOFF
 kh:AUTH_ANHOFF rdf:type owl:NamedIndividual ,
                         foaf:Person ;
-               foaf:member kh:ORG_00118 ;
                foaf:name "Andreas Hoffmann" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_ANKULI
 kh:AUTH_ANKULI rdf:type owl:NamedIndividual ,
                         foaf:Person ;
-               foaf:member kh:ORG_00030 ;
                foaf:name "Andreas Kulick" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_ANLEAS
 kh:AUTH_ANLEAS rdf:type owl:NamedIndividual ,
                         foaf:Person ;
-               foaf:member kh:ORG_00033 ;
                foaf:name "Anna Leask" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_ANMILN
 kh:AUTH_ANMILN rdf:type owl:NamedIndividual ,
                         foaf:Person ;
-               foaf:member kh:ORG_00128 ;
                foaf:name "Anthony Milne" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_ANMUNI
 kh:AUTH_ANMUNI rdf:type owl:NamedIndividual ,
                         foaf:Person ;
-               foaf:member kh:ORG_00084 ;
                foaf:name "Annalaura Casanova Municchia" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_AOMIZU
 kh:AUTH_AOMIZU rdf:type owl:NamedIndividual ,
                         foaf:Person ;
-               foaf:member kh:ORG_00147 ;
                foaf:name "Aoi Mizumori" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_APSARA
 kh:AUTH_APSARA rdf:type owl:NamedIndividual ,
                         foaf:Person ;
-               foaf:member kh:ORG_00001 ;
                foaf:name "APSARA" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_ARBABU
 kh:AUTH_ARBABU rdf:type owl:NamedIndividual ,
                         foaf:Person ;
-               foaf:member kh:ORG_00048 ;
                foaf:name "Arun Babu" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_ARKIES
 kh:AUTH_ARKIES rdf:type owl:NamedIndividual ,
                         foaf:Person ;
-               foaf:member kh:ORG_00109 ;
                foaf:name "Arndt Kiesewetter" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_ARSODO
 kh:AUTH_ARSODO rdf:type owl:NamedIndividual ,
                         foaf:Person ;
-               foaf:member kh:ORG_00084 ;
                foaf:name "Armida Sodo" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_ARWICH
 kh:AUTH_ARWICH rdf:type owl:NamedIndividual ,
                         foaf:Person ;
-               foaf:member kh:ORG_00019 ;
                foaf:name "Aroonrut Wichienkeeo" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_ARZELL
 kh:AUTH_ARZELL rdf:type owl:NamedIndividual ,
                         foaf:Person ;
-               foaf:member kh:ORG_00151 ;
                foaf:name "Ariel Zellman" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_ASHADA
 kh:AUTH_ASHADA rdf:type owl:NamedIndividual ,
                         foaf:Person ;
-               foaf:member kh:ORG_00076 ;
                foaf:name "Asami Hada" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_ASROGE
 kh:AUTH_ASROGE rdf:type owl:NamedIndividual ,
                         foaf:Person ;
-               foaf:member kh:ORG_00064 ;
                foaf:name "Ashleigh J. Rogers" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_ASSHAM
 kh:AUTH_ASSHAM rdf:type owl:NamedIndividual ,
                         foaf:Person ;
-               foaf:member kh:ORG_00106 ;
                foaf:name "Asaad Y. Shamseldin" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_ATBANN
 kh:AUTH_ATBANN rdf:type owl:NamedIndividual ,
                         foaf:Person ;
-               foaf:member kh:ORG_00137 ;
                foaf:name "Atsuhiko Banno" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_AZBESC
 kh:AUTH_AZBESC rdf:type owl:NamedIndividual ,
-                        foaf:Person ;
-               foaf:member kh:ORG_00100 .
+                        foaf:Person .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_BEPORT
 kh:AUTH_BEPORT rdf:type owl:NamedIndividual ,
                         foaf:Person ;
-               foaf:member kh:ORG_00031 ;
                foaf:name "Bertrand Porte" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_BOTOUC
 kh:AUTH_BOTOUC rdf:type owl:NamedIndividual ,
                         foaf:Person ;
-               foaf:member kh:ORG_00096 ;
                foaf:name "Bora Touch" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_BOZHEN
 kh:AUTH_BOZHEN rdf:type owl:NamedIndividual ,
                         foaf:Person ;
-               foaf:member kh:ORG_00137 ;
                foaf:name "Bo Zheng" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_BRBUCK
 kh:AUTH_BRBUCK rdf:type owl:NamedIndividual ,
                         foaf:Person ;
-               foaf:member kh:ORG_00025 ;
                foaf:name "Brendan M. Buckley" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_BRPHAL
 kh:AUTH_BRPHAL rdf:type owl:NamedIndividual ,
                         foaf:Person ;
-               foaf:member kh:ORG_00016 ;
                foaf:name "Bruno Phalip" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_BRSCHA
 kh:AUTH_BRSCHA rdf:type owl:NamedIndividual ,
                         foaf:Person ;
-               foaf:member kh:ORG_00118 ;
                foaf:name "Brigitta Hauser-Schäublin" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_BRZOTT
 kh:AUTH_BRZOTT rdf:type owl:NamedIndividual ,
                         foaf:Person ;
-               foaf:member kh:ORG_00031 ;
                foaf:name "Brian Zottoli" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_CHCARL
 kh:AUTH_CHCARL rdf:type owl:NamedIndividual ,
                         foaf:Person ;
-               foaf:member kh:ORG_00058 ;
                foaf:name "W. Christopher Carleton" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_CHCHEN
 kh:AUTH_CHCHEN rdf:type owl:NamedIndividual ,
                         foaf:Person ;
-               foaf:member kh:ORG_00069 ;
                foaf:name "Ching-Fu Chen" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_CHCROM
 kh:AUTH_CHCROM rdf:type owl:NamedIndividual ,
                         foaf:Person ;
-               foaf:member kh:ORG_00059 ;
                foaf:name "Christopher Cromarty" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_CHDENG
 kh:AUTH_CHDENG rdf:type owl:NamedIndividual ,
                         foaf:Person ;
-               foaf:member kh:ORG_00040 ;
                foaf:name "Chaoqun Deng" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_CHFISC
 kh:AUTH_CHFISC rdf:type owl:NamedIndividual ,
                         foaf:Person ;
-               foaf:member kh:ORG_00108 ;
                foaf:name "Christian Fischer" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_CHGOLD
 kh:AUTH_CHGOLD rdf:type owl:NamedIndividual ,
                         foaf:Person ;
-               foaf:member kh:ORG_00018 ;
                foaf:name "Charles Goldblum" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_CHGROS
 kh:AUTH_CHGROS rdf:type owl:NamedIndividual ,
                         foaf:Person ;
-               foaf:member kh:ORG_00118 ;
                foaf:name "Christian J. Gross" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_CHHIGH
 kh:AUTH_CHHIGH rdf:type owl:NamedIndividual ,
                         foaf:Person ;
-               foaf:member kh:ORG_00130 ;
                foaf:name "Charles. F. W. Higham" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_CHMENG
 kh:AUTH_CHMENG rdf:type owl:NamedIndividual ,
                         foaf:Person ;
-               foaf:member kh:ORG_00017 ,
-                           kh:ORG_00147 ;
                foaf:name "Chhum Menghong" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_CHPHOE
 kh:AUTH_CHPHOE rdf:type owl:NamedIndividual ,
                         foaf:Person ;
-               foaf:member kh:ORG_00062 ;
                foaf:name "Chuch Phoeurn" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_CHPOTT
 kh:AUTH_CHPOTT rdf:type owl:NamedIndividual ,
                         foaf:Person ;
-               foaf:member kh:ORG_00031 ,
-                           kh:ORG_00136 ;
                foaf:name "Christophe Pottier" .
 
 
@@ -3932,14 +3885,12 @@ kh:AUTH_CHSCHM rdf:type owl:NamedIndividual ,
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_CHVISO
 kh:AUTH_CHVISO rdf:type owl:NamedIndividual ,
                         foaf:Person ;
-               foaf:member kh:ORG_00001 ;
                foaf:name "Chhay Visoth" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_CHVITH
 kh:AUTH_CHVITH rdf:type owl:NamedIndividual ,
                         foaf:Person ;
-               foaf:member kh:ORG_00068 ;
                foaf:name "Chan Vitharong" .
 
 
@@ -3952,50 +3903,42 @@ kh:AUTH_CLURZI rdf:type owl:NamedIndividual ,
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_COSTER
 kh:AUTH_COSTER rdf:type owl:NamedIndividual ,
                         foaf:Person ;
-               foaf:member kh:ORG_00105 ;
                foaf:name "Colin Sterling" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_CRCAST
 kh:AUTH_CRCAST rdf:type owl:NamedIndividual ,
                         foaf:Person ;
-               foaf:member kh:ORG_00105 ;
                foaf:name "Cristina Cobo Castillo" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_DABROW
 kh:AUTH_DABROW rdf:type owl:NamedIndividual ,
                         foaf:Person ;
-               foaf:member kh:ORG_00151 ;
                foaf:name "Davis Brown" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_DACHAN
 kh:AUTH_DACHAN rdf:type owl:NamedIndividual ,
                         foaf:Person ;
-               foaf:member kh:ORG_00146 ;
                foaf:name "David Chandler" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_DAEA
 kh:AUTH_DAEA rdf:type owl:NamedIndividual ,
                       foaf:Person ;
-             foaf:member kh:ORG_00001 ;
              foaf:name "Darith Ea" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_DAEVAN
 kh:AUTH_DAEVAN rdf:type owl:NamedIndividual ,
                         foaf:Person ;
-               foaf:member kh:ORG_00031 ,
-                           kh:ORG_00136 ;
                foaf:name "Damian Evans" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_DAFINK
 kh:AUTH_DAFINK rdf:type owl:NamedIndividual ,
                         foaf:Person ;
-               foaf:member kh:ORG_00013 ;
                foaf:name "David Fink" .
 
 
@@ -4009,537 +3952,450 @@ kh:AUTH_DAKRAU rdf:type owl:NamedIndividual ,
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_DAPENN
 kh:AUTH_DAPENN rdf:type owl:NamedIndividual ,
                         foaf:Person ;
-               foaf:member kh:ORG_00136 ;
                foaf:name "Dan Penny" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_DASAND
 kh:AUTH_DASAND rdf:type owl:NamedIndividual ,
                         foaf:Person ;
-               foaf:member kh:ORG_00090 ;
                foaf:name "David Sanderson" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_DATANG
 kh:AUTH_DATANG rdf:type owl:NamedIndividual ,
                         foaf:Person ;
-               foaf:member kh:ORG_00136 ;
                foaf:name "David Tang" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_DAWYAT
 kh:AUTH_DAWYAT rdf:type owl:NamedIndividual ,
                         foaf:Person ;
-               foaf:member kh:ORG_00028 ;
                foaf:name "David K. Wyatt" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_DEKHOB
 kh:AUTH_DEKHOB rdf:type owl:NamedIndividual ,
                         foaf:Person ;
-               foaf:member kh:ORG_00162 ;
                foaf:name "Devyani Khobragade" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_DEMERC
 kh:AUTH_DEMERC rdf:type owl:NamedIndividual ,
                         foaf:Person ;
-               foaf:member kh:ORG_00066 ;
                foaf:name "Denis Mercier" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_DIBURA
 kh:AUTH_DIBURA rdf:type owl:NamedIndividual ,
                         foaf:Person ;
-               foaf:member kh:ORG_00040 ;
                foaf:name "Dipamjyoti Buragohain" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_DIBURA2
 kh:AUTH_DIBURA2 rdf:type owl:NamedIndividual ,
                          foaf:Person ;
-                foaf:member kh:ORG_00040 ;
                 foaf:name "Dipima Buragohain" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_DICHEN
 kh:AUTH_DICHEN rdf:type owl:NamedIndividual ,
                         foaf:Person ;
-               foaf:member kh:ORG_00045 ;
                foaf:name "Di Chen" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_DOOREI
 kh:AUTH_DOOREI rdf:type owl:NamedIndividual ,
                         foaf:Person ;
-               foaf:member kh:ORG_00012 ,
-                           kh:ORG_00136 ;
                foaf:name "Dougald J.W. O’Reilly" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_DOSOUT
 kh:AUTH_DOSOUT rdf:type owl:NamedIndividual ,
                         foaf:Person ;
-               foaf:member kh:ORG_00031 ;
                foaf:name "Dominique Soutif" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_DUCOOK
 kh:AUTH_DUCOOK rdf:type owl:NamedIndividual ,
                         foaf:Person ;
-               foaf:member kh:ORG_00010 ;
                foaf:name "Duncan Cook" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_EDCOOK
 kh:AUTH_EDCOOK rdf:type owl:NamedIndividual ,
                         foaf:Person ;
-               foaf:member kh:ORG_00025 ;
                foaf:name "Edward R. Cook" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_EDSWEN
 kh:AUTH_EDSWEN rdf:type owl:NamedIndividual ,
                         foaf:Person ;
-               foaf:member kh:ORG_00138 ;
                foaf:name "Edward Swenson" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_EILUST
 kh:AUTH_EILUST rdf:type owl:NamedIndividual ,
                         foaf:Person ;
-               foaf:member kh:ORG_00047 ,
-                           kh:ORG_00136 ;
                foaf:name "Eileen Lustig" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_ELBRUC
 kh:AUTH_ELBRUC rdf:type owl:NamedIndividual ,
                         foaf:Person ;
-               foaf:member kh:ORG_00136 ;
                foaf:name "Eleanor Bruce" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_EMKOLI
 kh:AUTH_EMKOLI rdf:type owl:NamedIndividual ,
                         foaf:Person ;
-               foaf:member kh:ORG_00081 ;
                foaf:name "Emmanuelle Delque Kolic" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_ENVEGA
 kh:AUTH_ENVEGA rdf:type owl:NamedIndividual ,
                         foaf:Person ;
-               foaf:member kh:ORG_00081 ;
                foaf:name "Enrique Vega" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_ERBOUR
 kh:AUTH_ERBOUR rdf:type owl:NamedIndividual ,
                         foaf:Person ;
-               foaf:member kh:ORG_00003 ,
-                           kh:ORG_00031 ;
                foaf:name "Eric Bourdonneau" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_ERROUS
 kh:AUTH_ERROUS rdf:type owl:NamedIndividual ,
                         foaf:Person ;
-               foaf:member kh:ORG_00016 ;
                foaf:name "Erwan Roussel" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_ESLEIS
 kh:AUTH_ESLEIS rdf:type owl:NamedIndividual ,
                         foaf:Person ;
-               foaf:member kh:ORG_00109 ,
-                           kh:ORG_00112 ;
                foaf:name "Esther Von Plehwe-Leisen" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_ESSALI
 kh:AUTH_ESSALI rdf:type owl:NamedIndividual ,
                         foaf:Person ;
-               foaf:member kh:ORG_00116 ;
                foaf:name "Esperanza Muñoz Salinas" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_ETUCHI
 kh:AUTH_ETUCHI rdf:type owl:NamedIndividual ,
                         foaf:Person ;
-               foaf:member kh:ORG_00147 ;
                foaf:name "Etsuo Uchida" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_FADELLE
 kh:AUTH_FADELLE rdf:type owl:NamedIndividual ,
                          foaf:Person ;
-                foaf:member kh:ORG_00126 ;
                 foaf:name "Fabian Dellefant" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_FAWU
 kh:AUTH_FAWU rdf:type owl:NamedIndividual ,
                       foaf:Person ;
-             foaf:member kh:ORG_00039 ;
              foaf:name "Fasi Wu" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_FECARO
 kh:AUTH_FECARO rdf:type owl:NamedIndividual ,
                         foaf:Person ;
-               foaf:member kh:ORG_00061 ,
-                           kh:ORG_00108 ;
                foaf:name "Federico Caro" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_FLBART
 kh:AUTH_FLBART rdf:type owl:NamedIndividual ,
                         foaf:Person ;
-               foaf:member kh:ORG_00084 ;
                foaf:name "Flavia Bartoli" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_FRBIAN
 kh:AUTH_FRBIAN rdf:type owl:NamedIndividual ,
                         foaf:Person ;
-               foaf:member kh:ORG_00057 ;
                foaf:name "Francesco Bianchini" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_FRVAUT
 kh:AUTH_FRVAUT rdf:type owl:NamedIndividual ,
                         foaf:Person ;
-               foaf:member kh:ORG_00016 ;
                foaf:name "Franck Vautier" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_FUCHEN
 kh:AUTH_FUCHEN rdf:type owl:NamedIndividual ,
                         foaf:Person ;
-               foaf:member kh:ORG_00021 ,
-                           kh:ORG_00044 ;
                foaf:name "Fulong Chen" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_GAMARR
 kh:AUTH_GAMARR rdf:type owl:NamedIndividual ,
                         foaf:Person ;
-               foaf:member kh:ORG_00127 ;
                foaf:name "Gary P. Marriner" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_GECOED
 kh:AUTH_GECOED rdf:type owl:NamedIndividual ,
                         foaf:Person ;
-               foaf:member kh:ORG_00031 ;
                foaf:name "Georges Coedes" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_GICANE
 kh:AUTH_GICANE rdf:type owl:NamedIndividual ,
                         foaf:Person ;
-               foaf:member kh:ORG_00084 ;
                foaf:name "Giulia Caneva" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_GIGREE
 kh:AUTH_GIGREE rdf:type owl:NamedIndividual ,
                         foaf:Person ;
-               foaf:member kh:ORG_00136 ;
                foaf:name "Gillian Green" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_GISTRO
 kh:AUTH_GISTRO rdf:type owl:NamedIndividual ,
                         foaf:Person ;
-               foaf:member kh:ORG_00035 ;
                foaf:name "Giovanni Strona" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_GIVENT
 kh:AUTH_GIVENT rdf:type owl:NamedIndividual ,
                         foaf:Person ;
-               foaf:member kh:ORG_00084 ;
                foaf:name "Giancarlo Della Ventura" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_GLBOOR
 kh:AUTH_GLBOOR rdf:type owl:NamedIndividual ,
                         foaf:Person ;
-               foaf:member kh:ORG_00149 ;
                foaf:name "Glenn Boornazian" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_GUHUAN
 kh:AUTH_GUHUAN rdf:type owl:NamedIndividual ,
                         foaf:Person ;
-               foaf:member kh:ORG_00023 ;
                foaf:name "Guang Huang" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_HABUCK
 kh:AUTH_HABUCK rdf:type owl:NamedIndividual ,
                         foaf:Person ;
-               foaf:member kh:ORG_00130 ;
                foaf:name "Hallie R. Buckley" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_HACAWT
 kh:AUTH_HACAWT rdf:type owl:NamedIndividual ,
                         foaf:Person ;
-               foaf:member kh:ORG_00130 ;
                foaf:name "Hayden Cawte" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_HALEIS
 kh:AUTH_HALEIS rdf:type owl:NamedIndividual ,
                         foaf:Person ;
-               foaf:member kh:ORG_00109 ,
-                           kh:ORG_00112 ;
                foaf:name "Hans Leisen" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_HAPEOU
 kh:AUTH_HAPEOU rdf:type owl:NamedIndividual ,
                         foaf:Person ;
-               foaf:member kh:ORG_00001 ;
                foaf:name "Hang Peou" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_HAPHAN
 kh:AUTH_HAPHAN rdf:type owl:NamedIndividual ,
                         foaf:Person ;
-               foaf:member kh:ORG_00135 ;
                foaf:name "Hao Duy Phan" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_HAXU
 kh:AUTH_HAXU rdf:type owl:NamedIndividual ,
                       foaf:Person ;
-             foaf:member kh:ORG_00044 ;
              foaf:name "Hang Xu" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_HEBUN
 kh:AUTH_HEBUN rdf:type owl:NamedIndividual ,
                        foaf:Person ;
-              foaf:member kh:ORG_00063 ;
               foaf:name "Hean Bun" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_HEGRUN
 kh:AUTH_HEGRUN rdf:type owl:NamedIndividual ,
                         foaf:Person ;
-               foaf:member kh:ORG_00146 ;
                foaf:name "Helena Grunfeld" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_HELOCA
 kh:AUTH_HELOCA rdf:type owl:NamedIndividual ,
                         foaf:Person ;
-               foaf:member kh:ORG_00087 ;
                foaf:name "Henri Locard" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_HESIED
 kh:AUTH_HESIED rdf:type owl:NamedIndividual ,
                         foaf:Person ;
-               foaf:member kh:ORG_00112 ;
                foaf:name "Heiner Siedel" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_HESILV
 kh:AUTH_HESILV rdf:type owl:NamedIndividual ,
                         foaf:Person ;
-               foaf:member kh:ORG_00122 ;
                foaf:name "Helaine Silverman" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_HETHAN
 kh:AUTH_HETHAN rdf:type owl:NamedIndividual ,
                         foaf:Person ;
-               foaf:member kh:ORG_00001 ;
                foaf:name "Heng Than" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_HIAGAT
 kh:AUTH_HIAGAT rdf:type owl:NamedIndividual ,
                         foaf:Person ;
-               foaf:member kh:ORG_00076 ;
                foaf:name "Hiroki Agatsuma" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_HIIKUT
 kh:AUTH_HIIKUT rdf:type owl:NamedIndividual ,
                         foaf:Person ;
-               foaf:member kh:ORG_00137 ;
                foaf:name "Hikaru Ikuta" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_HIKASH
 kh:AUTH_HIKASH rdf:type owl:NamedIndividual ,
                         foaf:Person ;
-               foaf:member kh:ORG_00071 ;
                foaf:name "Hiroyuki Kashiwadani" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_HISATO
 kh:AUTH_HISATO rdf:type owl:NamedIndividual ,
                         foaf:Person ;
-               foaf:member kh:ORG_00147 ;
                foaf:name "Hiroya Sato" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_HISHIO
 kh:AUTH_HISHIO rdf:type owl:NamedIndividual ,
                         foaf:Person ;
-               foaf:member kh:ORG_00076 ;
                foaf:name "Hiroyoshi Shiokawa" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_HUGROU
 kh:AUTH_HUGROU rdf:type owl:NamedIndividual ,
                         foaf:Person ;
-               foaf:member kh:ORG_00058 ;
                foaf:name "Huw S. Groucutt" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_HULI
 kh:AUTH_HULI rdf:type owl:NamedIndividual ,
                       foaf:Person ;
-             foaf:member kh:ORG_00121 ;
              foaf:name "Hui Li" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_IAMOFF
 kh:AUTH_IAMOFF rdf:type owl:NamedIndividual ,
                         foaf:Person ;
-               foaf:member kh:ORG_00037 ;
                foaf:name "Ian Moffat" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_IATAPL
 kh:AUTH_IATAPL rdf:type owl:NamedIndividual ,
                         foaf:Person ;
-               foaf:member kh:ORG_00128 ;
                foaf:name "Ian Tapley" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_ICSHIM
 kh:AUTH_ICSHIM rdf:type owl:NamedIndividual ,
                         foaf:Person ;
-               foaf:member kh:ORG_00001 ,
-                           kh:ORG_00137 ,
-                           kh:ORG_00139 ,
-                           kh:ORG_00147 ;
                foaf:name "Ichita Shimoda" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_IMSOKR
 kh:AUTH_IMSOKR rdf:type owl:NamedIndividual ,
                         foaf:Person ;
-               foaf:member kh:ORG_00001 ;
                foaf:name "Sokrithy Im" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_ISPARC
 kh:AUTH_ISPARC rdf:type owl:NamedIndividual ,
                         foaf:Person ;
-               foaf:member kh:ORG_00042 ;
                foaf:name "Issaak Parcharidis" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_IUSLEP
 kh:AUTH_IUSLEP rdf:type owl:NamedIndividual ,
                         foaf:Person ;
-               foaf:member kh:ORG_00126 ;
                foaf:name "Iuliia V. Sleptsova" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_JADOUG
 kh:AUTH_JADOUG rdf:type owl:NamedIndividual ,
                         foaf:Person ;
-               foaf:member kh:ORG_00093 ;
                foaf:name "Janet G. Douglas" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_JAJELE
 kh:AUTH_JAJELE rdf:type owl:NamedIndividual ,
                         foaf:Person ;
-               foaf:member kh:ORG_00153 ,
-                           kh:ORG_00158 ;
                foaf:name "János Jelen" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_JASOUT
 kh:AUTH_JASOUT rdf:type owl:NamedIndividual ,
                         foaf:Person ;
-               foaf:member kh:ORG_00113 ;
                foaf:name "Jane Southworth" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_JECHEV
 kh:AUTH_JECHEV rdf:type owl:NamedIndividual ,
                         foaf:Person ;
-               foaf:member kh:ORG_00006 ;
                foaf:name "Jean-Baptiste Chevance" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_JEFOHL
 kh:AUTH_JEFOHL rdf:type owl:NamedIndividual ,
                         foaf:Person ;
-               foaf:member kh:ORG_00133 ;
                foaf:name "Jens Fohlmeister" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_JIGU
 kh:AUTH_JIGU rdf:type owl:NamedIndividual ,
                       foaf:Person ;
-             foaf:member kh:ORG_00039 ,
-                         kh:ORG_00121 ;
              foaf:name "Ji-Dong Gu" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_JILI
 kh:AUTH_JILI rdf:type owl:NamedIndividual ,
                       foaf:Person ;
-             foaf:member kh:ORG_00121 ;
              foaf:name "Jing Li" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_JIWU
 kh:AUTH_JIWU rdf:type owl:NamedIndividual ,
                       foaf:Person ;
-             foaf:member kh:ORG_00041 ;
              foaf:name "Jiapeng Wu" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_JIYOU
 kh:AUTH_JIYOU rdf:type owl:NamedIndividual ,
                        foaf:Person ;
-              foaf:member kh:ORG_00021 ;
               foaf:name "Jiangbin You" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_JOCIOR
 kh:AUTH_JOCIOR rdf:type owl:NamedIndividual ,
                         foaf:Person ;
-               foaf:member kh:ORG_00125 ;
                foaf:name "John D. Ciorciari" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_JOGILL
 kh:AUTH_JOGILL rdf:type owl:NamedIndividual ,
                         foaf:Person ;
-               foaf:member kh:ORG_00136 ;
                foaf:name "Josephine Gillespie" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_JOKAMM
 kh:AUTH_JOKAMM rdf:type owl:NamedIndividual ,
                         foaf:Person ;
-               foaf:member kh:ORG_00114 ;
                foaf:name "Jörg Kammerhofer" .
 
 
@@ -4553,150 +4409,126 @@ kh:AUTH_JOKRON rdf:type owl:NamedIndividual ,
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_JOLOBO
 kh:AUTH_JOLOBO rdf:type owl:NamedIndividual ,
                         foaf:Person ;
-               foaf:member kh:ORG_00007 ;
                foaf:name "José Lobo" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_JOMONR
 kh:AUTH_JOMONR rdf:type owl:NamedIndividual ,
                         foaf:Person ;
-               foaf:member kh:ORG_00024 ;
                foaf:name "John W. Monroe" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_JOTUNN
 kh:AUTH_JOTUNN rdf:type owl:NamedIndividual ,
                         foaf:Person ;
-               foaf:member kh:ORG_00106 ;
                foaf:name "Jon Tunnicliffe" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_JOWAGE
 kh:AUTH_JOWAGE rdf:type owl:NamedIndividual ,
                         foaf:Person ;
-               foaf:member kh:ORG_00100 ;
                foaf:name "Jonathan Wager" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_JOWEED
 kh:AUTH_JOWEED rdf:type owl:NamedIndividual ,
                         foaf:Person ;
-               foaf:member kh:ORG_00075 ;
                foaf:name "Jonathan Niles Weed" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_JOZAMO
 kh:AUTH_JOZAMO rdf:type owl:NamedIndividual ,
                         foaf:Person ;
-               foaf:member kh:ORG_00102 ;
                foaf:name "Jose-Juan Zamorano" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_KADOME
 kh:AUTH_KADOME rdf:type owl:NamedIndividual ,
                         foaf:Person ;
-               foaf:member kh:ORG_00052 ;
                foaf:name "Kate M. Domett" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_KAGABE
 kh:AUTH_KAGABE rdf:type owl:NamedIndividual ,
                         foaf:Person ;
-               foaf:member kh:ORG_00117 ;
                foaf:name "Katrina Gaber" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_KAHANU
 kh:AUTH_KAHANU rdf:type owl:NamedIndividual ,
                         foaf:Person ;
-               foaf:member kh:ORG_00004 ,
-                           kh:ORG_00051 ,
-                           kh:ORG_00082 ;
                foaf:name "Kasper Hanus" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_KAIKEU
 kh:AUTH_KAIKEU rdf:type owl:NamedIndividual ,
                         foaf:Person ;
-               foaf:member kh:ORG_00137 ;
                foaf:name "Katsushi Ikeuchi" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_KAKURI
 kh:AUTH_KAKURI rdf:type owl:NamedIndividual ,
                         foaf:Person ;
-               foaf:member kh:ORG_00147 ;
                foaf:name "Kaito Kuriyama" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_KAMOGI
 kh:AUTH_KAMOGI rdf:type owl:NamedIndividual ,
                         foaf:Person ;
-               foaf:member kh:ORG_00137 ;
                foaf:name "Katsuro Mogib" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_KAPHON
 kh:AUTH_KAPHON rdf:type owl:NamedIndividual ,
                         foaf:Person ;
-               foaf:member kh:ORG_00085 ,
-                           kh:ORG_00087 ;
                foaf:name "Kaseka Phon" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_KASATO
 kh:AUTH_KASATO rdf:type owl:NamedIndividual ,
                         foaf:Person ;
-               foaf:member kh:ORG_00147 ;
                foaf:name "Katsura Sato" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_KASEZA
 kh:AUTH_KASEZA rdf:type owl:NamedIndividual ,
                         foaf:Person ;
-               foaf:member kh:ORG_00137 ;
                foaf:name "Kaoru Sezaki" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_KEANCH
 kh:AUTH_KEANCH rdf:type owl:NamedIndividual ,
                         foaf:Person ;
-               foaf:member kh:ORG_00025 ;
                foaf:name "Kevin J. Anchukaitis" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_KEAZAM
 kh:AUTH_KEAZAM rdf:type owl:NamedIndividual ,
                         foaf:Person ;
-               foaf:member kh:ORG_00020 ;
                foaf:name "Keishiro Azami" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_KEGERA
 kh:AUTH_KEGERA rdf:type owl:NamedIndividual ,
                         foaf:Person ;
-               foaf:member kh:ORG_00141 ;
                foaf:name "Kelly Gerard" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_KEITO
 kh:AUTH_KEITO rdf:type owl:NamedIndividual ,
                        foaf:Person ;
-              foaf:member kh:ORG_00147 ;
               foaf:name "Keisuke Ito" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_KEMIUR
 kh:AUTH_KEMIUR rdf:type owl:NamedIndividual ,
                         foaf:Person ;
-               foaf:member kh:ORG_00147 ;
                foaf:name "Keiko Miura" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_KHCHAN
 kh:AUTH_KHCHAN rdf:type owl:NamedIndividual ,
                         foaf:Person ;
-               foaf:member kh:ORG_00001 ;
                foaf:name "Khieu Chan" .
 
 
@@ -4709,113 +4541,96 @@ kh:AUTH_KHNEAY rdf:type owl:NamedIndividual ,
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_KINGOU
 kh:AUTH_KINGOU rdf:type owl:NamedIndividual ,
                         foaf:Person ;
-               foaf:member kh:ORG_00012 ,
-                           kh:ORG_00087 ;
                foaf:name "Kimly Ngoun" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_KOCHIM
 kh:AUTH_KOCHIM rdf:type owl:NamedIndividual ,
                         foaf:Person ;
-               foaf:member kh:ORG_00106 ;
                foaf:name "Kosal Chim" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_KOMIKA
 kh:AUTH_KOMIKA rdf:type owl:NamedIndividual ,
                         foaf:Person ;
-               foaf:member kh:ORG_00076 ;
                foaf:name "Kousei Mikami" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_KONAKA
 kh:AUTH_KONAKA rdf:type owl:NamedIndividual ,
                         foaf:Person ;
-               foaf:member kh:ORG_00137 ;
                foaf:name "Koichi Nakagawa" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_KOPUTH
 kh:AUTH_KOPUTH rdf:type owl:NamedIndividual ,
                         foaf:Person ;
-               foaf:member kh:NATB_00002 ;
                foaf:name "Kong Puthikar" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_KOTSUD
 kh:AUTH_KOTSUD rdf:type owl:NamedIndividual ,
                         foaf:Person ;
-               foaf:member kh:ORG_00147 ;
                foaf:name "Kojiro Tsuda" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_KOVIRE
 kh:AUTH_KOVIRE rdf:type owl:NamedIndividual ,
                         foaf:Person ;
-               foaf:member kh:ORG_00100 ;
                foaf:name "Kong Vireak" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_KWMOON
 kh:AUTH_KWMOON rdf:type owl:NamedIndividual ,
                         foaf:Person ;
-               foaf:member kh:ORG_00070 ;
                foaf:name "Kwang Hee Moon" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_KYONIS
 kh:AUTH_KYONIS rdf:type owl:NamedIndividual ,
                         foaf:Person ;
-               foaf:member kh:ORG_00005 ;
                foaf:name "Kyosuke Onishi" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_LADUSS
 kh:AUTH_LADUSS rdf:type owl:NamedIndividual ,
                         foaf:Person ;
-               foaf:member kh:ORG_00036 ;
                foaf:name "Laure Dussubieux" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_LAMAYS
 kh:AUTH_LAMAYS rdf:type owl:NamedIndividual ,
                         foaf:Person ;
-               foaf:member kh:ORG_00007 ;
                foaf:name "Larry W. Mays" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_LEKONG
 kh:AUTH_LEKONG rdf:type owl:NamedIndividual ,
                         foaf:Person ;
-               foaf:member kh:ORG_00031 ;
                foaf:name "Leaksmy Kong" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_LENAM
 kh:AUTH_LENAM rdf:type owl:NamedIndividual ,
                        foaf:Person ;
-              foaf:member kh:ORG_00015 ;
               foaf:name "Le Canh Nam" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_LIGAO
 kh:AUTH_LIGAO rdf:type owl:NamedIndividual ,
                        foaf:Person ;
-              foaf:member kh:ORG_00038 ;
               foaf:name "Lin Gao" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_LIKEAL
 kh:AUTH_LIKEAL rdf:type owl:NamedIndividual ,
                         foaf:Person ;
-               foaf:member kh:ORG_00089 ;
                foaf:name "Lisa Kealhofer" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_LOLEBE
 kh:AUTH_LOLEBE rdf:type owl:NamedIndividual ,
                         foaf:Person ;
-               foaf:member kh:ORG_00019 ;
                foaf:name "Louis Lebel" .
 
 
@@ -4829,21 +4644,18 @@ kh:AUTH_LONARY rdf:type owl:NamedIndividual ,
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_LUDU
 kh:AUTH_LUDU rdf:type owl:NamedIndividual ,
                       foaf:Person ;
-             foaf:member kh:ORG_00147 ;
              foaf:name "Lui Du" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_LUSALV
 kh:AUTH_LUSALV rdf:type owl:NamedIndividual ,
                         foaf:Person ;
-               foaf:member kh:ORG_00027 ;
                foaf:name "Luca Salvati" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_LYMESK
 kh:AUTH_LYMESK rdf:type owl:NamedIndividual ,
                         foaf:Person ;
-               foaf:member kh:ORG_00095 ;
                foaf:name "Lynn Meskell" .
 
 
@@ -4856,14 +4668,12 @@ kh:AUTH_MAANDR rdf:type owl:NamedIndividual ,
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_MAARAY
 kh:AUTH_MAARAY rdf:type owl:NamedIndividual ,
                         foaf:Person ;
-               foaf:member kh:ORG_00147 ;
                foaf:name "Masato Araya" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_MADENG
 kh:AUTH_MADENG rdf:type owl:NamedIndividual ,
                         foaf:Person ;
-               foaf:member kh:ORG_00121 ;
                foaf:name "Maocheng Deng" .
 
 
@@ -4876,190 +4686,156 @@ kh:AUTH_MAGUER rdf:type owl:NamedIndividual ,
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_MAKAGE
 kh:AUTH_MAKAGE rdf:type owl:NamedIndividual ,
                         foaf:Person ;
-               foaf:member kh:ORG_00137 ;
                foaf:name "Masataka Kagesawa" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_MAKAMA
 kh:AUTH_MAKAMA rdf:type owl:NamedIndividual ,
                         foaf:Person ;
-               foaf:member kh:ORG_00137 ;
                foaf:name "Mawo Kamakura" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_MAKOIW
 kh:AUTH_MAKOIW rdf:type owl:NamedIndividual ,
                         foaf:Person ;
-               foaf:member kh:ORG_00147 ;
                foaf:name "Masaki Koiwa" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_MAKUMM
 kh:AUTH_MAKUMM rdf:type owl:NamedIndividual ,
                         foaf:Person ;
-               foaf:member kh:ORG_00002 ;
                foaf:name "Matti Kummu" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_MAPOLK
 kh:AUTH_MAPOLK rdf:type owl:NamedIndividual ,
                         foaf:Person ;
-               foaf:member kh:ORG_00037 ,
-                           kh:ORG_00108 ,
-                           kh:ORG_00136 ;
                foaf:name "Martin Polkinghorne" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_MARICC
 kh:AUTH_MARICC rdf:type owl:NamedIndividual ,
                         foaf:Person ;
-               foaf:member kh:ORG_00084 ;
                foaf:name "Maria Antonietta Ricci" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_MASANO
 kh:AUTH_MASANO rdf:type owl:NamedIndividual ,
                         foaf:Person ;
-               foaf:member kh:ORG_00034 ;
                foaf:name "Masaki Sano" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_MEKALI
 kh:AUTH_MEKALI rdf:type owl:NamedIndividual ,
                         foaf:Person ;
-               foaf:member kh:ORG_00126 ;
                foaf:name "Melanie Kaliwoda" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_MIBAAZ
 kh:AUTH_MIBAAZ rdf:type owl:NamedIndividual ,
                         foaf:Person ;
-               foaf:member kh:ORG_00117 ;
                foaf:name "Mikael Baaz" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_MIBARB
 kh:AUTH_MIBARB rdf:type owl:NamedIndividual ,
                         foaf:Person ;
-               foaf:member kh:ORG_00134 ,
-                           kh:ORG_00136 ;
                foaf:name "Michael Barbetti" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_MIBENI
 kh:AUTH_MIBENI rdf:type owl:NamedIndividual ,
                         foaf:Person ;
-               foaf:member kh:ORG_00018 ;
                foaf:name "Mireille Bénisti" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_MIBINF
 kh:AUTH_MIBINF rdf:type owl:NamedIndividual ,
                         foaf:Person ;
-               foaf:member kh:ORG_00113 ;
                foaf:name "Michael W. Binford" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_MICHAR
 kh:AUTH_MICHAR rdf:type owl:NamedIndividual ,
                         foaf:Person ;
-               foaf:member kh:ORG_00105 ;
                foaf:name "Michael F. Charlton" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_MIFALS
 kh:AUTH_MIFALS rdf:type owl:NamedIndividual ,
                         foaf:Person ;
-               foaf:member kh:ORG_00088 ,
-                           kh:ORG_00120 ;
                foaf:name "Michael S. Falser" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_MIFUKU
 kh:AUTH_MIFUKU rdf:type owl:NamedIndividual ,
                         foaf:Person ;
-               foaf:member kh:ORG_00137 ,
-                           kh:ORG_00147 ;
                foaf:name "Mitsuharu Fukuda" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_MIHEND
 kh:AUTH_MIHEND rdf:type owl:NamedIndividual ,
                         foaf:Person ;
-               foaf:member kh:ORG_00122 ,
-                           kh:ORG_00136 ;
                foaf:name "Mitch Hendrickson" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_MILEAD
 kh:AUTH_MILEAD rdf:type owl:NamedIndividual ,
                         foaf:Person ;
-               foaf:member kh:ORG_00132 ;
                foaf:name "Michael Paul Leadbetter" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_MISTAR
 kh:AUTH_MISTAR rdf:type owl:NamedIndividual ,
                         foaf:Person ;
-               foaf:member kh:ORG_00119 ;
                foaf:name "Miriam T. Stark" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_MIVICK
 kh:AUTH_MIVICK rdf:type owl:NamedIndividual ,
                         foaf:Person ;
-               foaf:member kh:ORG_00104 ;
                foaf:name "Michael Vickery" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_MOLILJ
 kh:AUTH_MOLILJ rdf:type owl:NamedIndividual ,
                         foaf:Person ;
-               foaf:member kh:ORG_00054 ,
-                           kh:ORG_00117 ;
                foaf:name "Mona Lilja" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_MOMETW
 kh:AUTH_MOMETW rdf:type owl:NamedIndividual ,
                         foaf:Person ;
-               foaf:member kh:ORG_00055 ;
                foaf:name "Mohamed Metwaly" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_MOPAKD
 kh:AUTH_MOPAKD rdf:type owl:NamedIndividual ,
                         foaf:Person ;
-               foaf:member kh:ORG_00083 ;
                foaf:name "Monticha Pakdeekong" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_NABEAV
 kh:AUTH_NABEAV rdf:type owl:NamedIndividual ,
                         foaf:Person ;
-               foaf:member kh:ORG_00050 ;
                foaf:name "Nancy Beavan" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_NAMAO
 kh:AUTH_NAMAO rdf:type owl:NamedIndividual ,
                        foaf:Person ;
-              foaf:member kh:ORG_00146 ;
               foaf:name "Nara Mao" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_NANAGU
 kh:AUTH_NANAGU rdf:type owl:NamedIndividual ,
                         foaf:Person ;
-               foaf:member kh:ORG_00137 ,
-                           kh:ORG_00147 ;
                foaf:name "Naoko Nagumo" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_NAPV
 kh:AUTH_NAPV rdf:type owl:NamedIndividual ,
                       foaf:Person ;
-             foaf:member kh:NATB_00002 ;
              foaf:name "National Authority for Preah Vihear" .
 
 
@@ -5072,601 +4848,510 @@ kh:AUTH_NAWALE rdf:type owl:NamedIndividual ,
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_NAYAMA
 kh:AUTH_NAYAMA rdf:type owl:NamedIndividual ,
                         foaf:Person ;
-               foaf:member kh:ORG_00137 ;
                foaf:name "Naoyuki Yamada" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_NGRICH
 kh:AUTH_NGRICH rdf:type owl:NamedIndividual ,
                         foaf:Person ;
-               foaf:member kh:ORG_00136 ;
                foaf:name "Ngaire Richards" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_NIHOFE
 kh:AUTH_NIHOFE rdf:type owl:NamedIndividual ,
                         foaf:Person ;
-               foaf:member kh:ORG_00031 ;
                foaf:name "Nina Hofer" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_NIMASI
 kh:AUTH_NIMASI rdf:type owl:NamedIndividual ,
                         foaf:Person ;
-               foaf:member kh:ORG_00026 ;
                foaf:name "Nicola Masini" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_NIREVI
 kh:AUTH_NIREVI rdf:type owl:NamedIndividual ,
                         foaf:Person ;
-               foaf:member kh:ORG_00086 ;
                foaf:name "Nicolas Revire" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_NOSHIM
 kh:AUTH_NOSHIM rdf:type owl:NamedIndividual ,
                         foaf:Person ;
-               foaf:member kh:ORG_00147 ;
                foaf:name "Nobumasa Shimizu" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_NOTAN
 kh:AUTH_NOTAN rdf:type owl:NamedIndividual ,
                        foaf:Person ;
-              foaf:member kh:ORG_00012 ;
               foaf:name "Noel Hidalgo Tan" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_OLCUNI
 kh:AUTH_OLCUNI rdf:type owl:NamedIndividual ,
                         foaf:Person ;
-               foaf:member kh:ORG_00147 ;
                foaf:name "Olivier Cunin" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_OLVOLD
 kh:AUTH_OLVOLD rdf:type owl:NamedIndividual ,
                         foaf:Person ;
-               foaf:member kh:ORG_00016 ;
                foaf:name "Olivier Voldoire" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_ORSALV
 kh:AUTH_ORSALV rdf:type owl:NamedIndividual ,
                         foaf:Person ;
-               foaf:member kh:ORG_00094 ;
                foaf:name "Ornella Salvadori" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_PABISH
 kh:AUTH_PABISH rdf:type owl:NamedIndividual ,
                         foaf:Person ;
-               foaf:member kh:ORG_00116 ;
                foaf:name "Paul Bishop" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_PANGER
 kh:AUTH_PANGER rdf:type owl:NamedIndividual ,
                         foaf:Person ;
-               foaf:member kh:ORG_00092 ;
                foaf:name "Patcharaporn Ngernkerd" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_PAROBE
 kh:AUTH_PAROBE rdf:type owl:NamedIndividual ,
                         foaf:Person ;
-               foaf:member kh:ORG_00058 ;
                foaf:name "Patrick Roberts" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_PATANG
 kh:AUTH_PATANG rdf:type owl:NamedIndividual ,
                         foaf:Person ;
-               foaf:member kh:ORG_00021 ;
                foaf:name "Panpan Tang" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_PECUAS
 kh:AUTH_PECUAS rdf:type owl:NamedIndividual ,
                         foaf:Person ;
-               foaf:member kh:ORG_00140 ;
                foaf:name "Peter Cuasay" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_PEGRAV
 kh:AUTH_PEGRAV rdf:type owl:NamedIndividual ,
                         foaf:Person ;
-               foaf:member kh:ORG_00127 ;
                foaf:name "Peter Grave" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_PEHU
 kh:AUTH_PEHU rdf:type owl:NamedIndividual ,
                       foaf:Person ;
-             foaf:member kh:ORG_00077 ;
              foaf:name "Pengfei Hu" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_PESHAR
 kh:AUTH_PESHAR rdf:type owl:NamedIndividual ,
                         foaf:Person ;
-               foaf:member kh:ORG_00123 ;
                foaf:name "Peter D. Sharrock" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_PHDILL
 kh:AUTH_PHDILL rdf:type owl:NamedIndividual ,
                         foaf:Person ;
-               foaf:member kh:ORG_00081 ;
                foaf:name "Philippe Dillmann" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_PHKASE
 kh:AUTH_PHKASE rdf:type owl:NamedIndividual ,
                         foaf:Person ;
-               foaf:member kh:ORG_00085 ;
                foaf:name "Phon Kaseka" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_PHPHAL
 kh:AUTH_PHPHAL rdf:type owl:NamedIndividual ,
                         foaf:Person ;
-               foaf:member kh:ORG_00099 ;
                foaf:name "Pheaktra Phal" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_PIBATY
 kh:AUTH_PIBATY rdf:type owl:NamedIndividual ,
                         foaf:Person ;
-               foaf:member kh:ORG_00049 ;
                foaf:name "Pierre Baty" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_PIHENG
 kh:AUTH_PIHENG rdf:type owl:NamedIndividual ,
                         foaf:Person ;
-               foaf:member kh:ORG_00108 ,
-                           kh:ORG_00119 ;
                foaf:name "Piphal Heng" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_PRSING
 kh:AUTH_PRSING rdf:type owl:NamedIndividual ,
                         foaf:Person ;
-               foaf:member kh:ORG_00080 ;
                foaf:name "Prabhakar Singh" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_PRTHAK
 kh:AUTH_PRTHAK rdf:type owl:NamedIndividual ,
                         foaf:Person ;
-               foaf:member kh:ORG_00048 ;
                foaf:name "Praveen K. Thakur" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_QIGE
 kh:AUTH_QIGE rdf:type owl:NamedIndividual ,
                       foaf:Person ;
-             foaf:member kh:ORG_00121 ;
              foaf:name "Qingya Ge" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_QUHUA
 kh:AUTH_QUHUA rdf:type owl:NamedIndividual ,
                        foaf:Person ;
-              foaf:member kh:ORG_00013 ;
               foaf:name "Quan Hua" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_RABAST
 kh:AUTH_RABAST rdf:type owl:NamedIndividual ,
                         foaf:Person ;
-               foaf:member kh:ORG_00009 ;
                foaf:name "Ram C. Bastakoti" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_RACHHA
 kh:AUTH_RACHHA rdf:type owl:NamedIndividual ,
                         foaf:Person ;
-               foaf:member kh:ORG_00001 ;
                foaf:name "Rachna Chhay" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_RACHHE
 kh:AUTH_RACHHE rdf:type owl:NamedIndividual ,
                         foaf:Person ;
-               foaf:member kh:ORG_00001 ;
                foaf:name "Ratha Chhean" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_RAKLEI
 kh:AUTH_RAKLEI rdf:type owl:NamedIndividual ,
                         foaf:Person ;
-               foaf:member kh:ORG_00109 ;
                foaf:name "Rainer Kleinschrodt" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_RASHOO
 kh:AUTH_RASHOO rdf:type owl:NamedIndividual ,
                         foaf:Person ;
-               foaf:member kh:ORG_00092 ;
                foaf:name "Rasmi Shoocongdej" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_RATHOS
 kh:AUTH_RATHOS rdf:type owl:NamedIndividual ,
                         foaf:Person ;
-               foaf:member kh:ORG_00130 ;
                foaf:name "Rachanie Thosarat" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_REHAMI
 kh:AUTH_REHAMI rdf:type owl:NamedIndividual ,
                         foaf:Person ;
-               foaf:member kh:ORG_00012 ;
                foaf:name "Rebecca Hamilton" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_RIMURP
 kh:AUTH_RIMURP rdf:type owl:NamedIndividual ,
                         foaf:Person ;
-               foaf:member kh:ORG_00136 ;
                foaf:name "Richard J. Murphy" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_ROFLET
 kh:AUTH_ROFLET rdf:type owl:NamedIndividual ,
                         foaf:Person ;
-               foaf:member kh:ORG_00136 ;
                foaf:name "Roland J. Fletcher" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_ROFREN
 kh:AUTH_ROFREN rdf:type owl:NamedIndividual ,
                         foaf:Person ;
-               foaf:member kh:ORG_00047 ;
                foaf:name "Robert French" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_ROFUCH
 kh:AUTH_ROFUCH rdf:type owl:NamedIndividual ,
                         foaf:Person ;
-               foaf:member kh:ORG_00109 ;
                foaf:name "Robert Fuchs" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_ROKOES
 kh:AUTH_ROKOES rdf:type owl:NamedIndividual ,
                         foaf:Person ;
-               foaf:member kh:ORG_00093 ;
                foaf:name "Robert J. Koestler" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_ROKUSZ
 kh:AUTH_ROKUSZ rdf:type owl:NamedIndividual ,
                         foaf:Person ;
-               foaf:member kh:ORG_00046 ;
                foaf:name "Robert Kuszinger" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_ROLASA
 kh:AUTH_ROLASA rdf:type owl:NamedIndividual ,
                         foaf:Person ;
-               foaf:member kh:ORG_00026 ;
                foaf:name "Rosa Lasaponara" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_ROREUC
 kh:AUTH_ROREUC rdf:type owl:NamedIndividual ,
                         foaf:Person ;
-               foaf:member kh:ORG_00109 ;
                foaf:name "Robin Reucher" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_RUHAYH
 kh:AUTH_RUHAYH rdf:type owl:NamedIndividual ,
                         foaf:Person ;
-               foaf:member kh:ORG_00138 ;
                foaf:name "Ruth Hayhoe" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_RYWATA
 kh:AUTH_RYWATA rdf:type owl:NamedIndividual ,
                         foaf:Person ;
-               foaf:member kh:ORG_00147 ;
                foaf:name "Ryota Watanabe" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_SAETIE
 kh:AUTH_SAETIE rdf:type owl:NamedIndividual ,
                         foaf:Person ;
-               foaf:member kh:ORG_00016 ;
                foaf:name "Samuel Etienne" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_SAKHUN
 kh:AUTH_SAKHUN rdf:type owl:NamedIndividual ,
                         foaf:Person ;
-               foaf:member kh:ORG_00092 ;
                foaf:name "Saritpong Khunsong" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_SAKIM
 kh:AUTH_SAKIM rdf:type owl:NamedIndividual ,
                        foaf:Person ;
-              foaf:member kh:ORG_00001 ;
               foaf:name "Samnang Kim" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_SAKLAS
 kh:AUTH_SAKLAS rdf:type owl:NamedIndividual ,
                         foaf:Person ;
-               foaf:member kh:ORG_00007 ,
-                           kh:ORG_00056 ,
-                           kh:ORG_00107 ,
-                           kh:ORG_00138 ;
                foaf:name "Sarah Klassen" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_SALEE
 kh:AUTH_SALEE rdf:type owl:NamedIndividual ,
                        foaf:Person ;
-              foaf:member kh:ORG_00150 ;
               foaf:name "Sang Kook Lee" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_SAPHOU
 kh:AUTH_SAPHOU rdf:type owl:NamedIndividual ,
                         foaf:Person ;
-               foaf:member kh:ORG_00087 ;
                foaf:name "Sambath Phou" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_SASAKH
 kh:AUTH_SASAKH rdf:type owl:NamedIndividual ,
                         foaf:Person ;
-               foaf:member kh:ORG_00006 ;
                foaf:name "Sakada Sakhoeun" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_SASARU
 kh:AUTH_SASARU rdf:type owl:NamedIndividual ,
                         foaf:Person ;
-               foaf:member kh:ORG_00063 ;
                foaf:name "Sambath Sarun" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_SASHIM
 kh:AUTH_SASHIM rdf:type owl:NamedIndividual ,
                         foaf:Person ;
-               foaf:member kh:ORG_00147 ;
                foaf:name "Sae Shimamoto" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_SATACH
 kh:AUTH_SATACH rdf:type owl:NamedIndividual ,
                         foaf:Person ;
-               foaf:member kh:ORG_00147 ;
                foaf:name "Saori Tachino" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_SCHENS
 kh:AUTH_SCHENS rdf:type owl:NamedIndividual ,
                         foaf:Person ;
-               foaf:member kh:ORG_00067 ;
                foaf:name "Scott Hensley" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_SCORTM
 kh:AUTH_SCORTM rdf:type owl:NamedIndividual ,
                         foaf:Person ;
-               foaf:member kh:ORG_00110 ;
                foaf:name "Scott G. Ortman" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_SESAMA
 kh:AUTH_SESAMA rdf:type owl:NamedIndividual ,
                         foaf:Person ;
-               foaf:member kh:ORG_00008 ;
                foaf:name "Sela Samath" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_SESOK
 kh:AUTH_SESOK rdf:type owl:NamedIndividual ,
                        foaf:Person ;
-              foaf:member kh:ORG_00087 ;
               foaf:name "Serey Sok" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_SHAGRA
 kh:AUTH_SHAGRA rdf:type owl:NamedIndividual ,
                         foaf:Person ;
-               foaf:member kh:ORG_00048 ;
                foaf:name "Shefali Agrawal" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_SHALVA
 kh:AUTH_SHALVA rdf:type owl:NamedIndividual ,
                         foaf:Person ;
-               foaf:member kh:ORG_00031 ;
                foaf:name "Sharon Alvares" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_SHCHEN
 kh:AUTH_SHCHEN rdf:type owl:NamedIndividual ,
                         foaf:Person ;
-               foaf:member kh:ORG_00039 ;
                foaf:name "Shanduo Chen" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_SHKUMA
 kh:AUTH_SHKUMA rdf:type owl:NamedIndividual ,
                         foaf:Person ;
-               foaf:member kh:ORG_00048 ;
                foaf:name "Shashi Kumar" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_SHSAKU
 kh:AUTH_SHSAKU rdf:type owl:NamedIndividual ,
                         foaf:Person ;
-               foaf:member kh:ORG_00147 ;
                foaf:name "Shigeyoshi Sakurai" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_SHSTRA
 kh:AUTH_SHSTRA rdf:type owl:NamedIndividual ,
                         foaf:Person ;
-               foaf:member kh:ORG_00148 ;
                foaf:name "Shane Strate" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_SHWANG
 kh:AUTH_SHWANG rdf:type owl:NamedIndividual ,
                         foaf:Person ;
-               foaf:member kh:ORG_00145 ;
                foaf:name "Shi-Yu Simon Wang" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_SHYAMA
 kh:AUTH_SHYAMA rdf:type owl:NamedIndividual ,
                         foaf:Person ;
-               foaf:member kh:ORG_00147 ;
                foaf:name "Shunsuke Yamada" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_SIBERN
 kh:AUTH_SIBERN rdf:type owl:NamedIndividual ,
                         foaf:Person ;
-               foaf:member kh:ORG_00084 ;
                foaf:name "Simone Bernardini" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_SICESC
 kh:AUTH_SICESC rdf:type owl:NamedIndividual ,
                         foaf:Person ;
-               foaf:member kh:ORG_00084 ;
                foaf:name "Simona Ceschin" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_SICHES
 kh:AUTH_SICHES rdf:type owl:NamedIndividual ,
                         foaf:Person ;
-               foaf:member kh:ORG_00135 ;
                foaf:name "Simon Chesterman" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_SIMACK
 kh:AUTH_SIMACK rdf:type owl:NamedIndividual ,
                         foaf:Person ;
-               foaf:member kh:ORG_00116 ,
-                           kh:ORG_00146 ;
                foaf:name "Simon Mackenzie" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_SISIEG
 kh:AUTH_SISIEG rdf:type owl:NamedIndividual ,
                         foaf:Person ;
-               foaf:member kh:ORG_00118 ;
                foaf:name "Siegfried Siegesmund" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_SISOOD
 kh:AUTH_SISOOD rdf:type owl:NamedIndividual ,
                         foaf:Person ;
-               foaf:member kh:ORG_00162 ;
                foaf:name "Singh Sood" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_SIWARR
 kh:AUTH_SIWARR rdf:type owl:NamedIndividual ,
                         foaf:Person ;
-               foaf:member kh:ORG_00156 ;
                foaf:name "Simon Warrack" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_SOBAI
 kh:AUTH_SOBAI rdf:type owl:NamedIndividual ,
                        foaf:Person ;
-              foaf:member kh:ORG_00045 ;
               foaf:name "Songqiang Bai" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_SOBUCK
 kh:AUTH_SOBUCK rdf:type owl:NamedIndividual ,
                         foaf:Person ;
-               foaf:member kh:ORG_00143 ;
                foaf:name "Solomon Buckman" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_SOCHAN
 kh:AUTH_SOCHAN rdf:type owl:NamedIndividual ,
                         foaf:Person ;
-               foaf:member kh:ORG_00018 ;
                foaf:name "Sovichetra Chan" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_SOSO
 kh:AUTH_SOSO rdf:type owl:NamedIndividual ,
                       foaf:Person ;
-             foaf:member kh:ORG_00079 ;
              foaf:name "Sokuntheary So" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_SOTEP
 kh:AUTH_SOTEP rdf:type owl:NamedIndividual ,
                        foaf:Person ;
-              foaf:member kh:ORG_00086 ;
               foaf:name "Sokha Tep" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_SOTHAU
 kh:AUTH_SOTHAU rdf:type owl:NamedIndividual ,
                         foaf:Person ;
-               foaf:member kh:ORG_00008 ;
                foaf:name "Sokkalyan Thau" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_STGREE
 kh:AUTH_STGREE rdf:type owl:NamedIndividual ,
                         foaf:Person ;
-               foaf:member kh:ORG_00006 ;
                foaf:name "Stéphane De Greef" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_STLERO
 kh:AUTH_STLERO rdf:type owl:NamedIndividual ,
                         foaf:Person ;
-               foaf:member kh:ORG_00018 ,
-                           kh:ORG_00081 ;
                foaf:name "Stéphanie Leroy" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_STPFEF
 kh:AUTH_STPFEF rdf:type owl:NamedIndividual ,
                         foaf:Person ;
-               foaf:member kh:ORG_00112 ;
                foaf:name "Stephan Pfefferkorn" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_STWHIT
 kh:AUTH_STWHIT rdf:type owl:NamedIndividual ,
                         foaf:Person ;
-               foaf:member kh:ORG_00123 ;
                foaf:name "Stephen H. Whiteman" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_SUCHAU
 kh:AUTH_SUCHAU rdf:type owl:NamedIndividual ,
                         foaf:Person ;
-               foaf:member kh:ORG_00040 ;
                foaf:name "Sushank Chaudhary" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_SUKUBO
 kh:AUTH_SUKUBO rdf:type owl:NamedIndividual ,
                         foaf:Person ;
-               foaf:member kh:ORG_00147 ;
                foaf:name "Sumiko Kubo" .
 
 
@@ -5679,460 +5364,384 @@ kh:AUTH_SULERT rdf:type owl:NamedIndividual ,
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_SURUNK
 kh:AUTH_SURUNK rdf:type owl:NamedIndividual ,
                         foaf:Person ;
-               foaf:member kh:ORG_00109 ;
                foaf:name "Susanne Runkel" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_SUYEN
 kh:AUTH_SUYEN rdf:type owl:NamedIndividual ,
                        foaf:Person ;
-              foaf:member kh:ORG_00072 ;
               foaf:name "Sufen Yen" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_SVIGN
 kh:AUTH_SVIGN rdf:type owl:NamedIndividual ,
                        foaf:Person ;
-              foaf:member kh:ORG_00048 ;
               foaf:name "S. Kandasamy Vignesh" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_SWCHEM
 kh:AUTH_SWCHEM rdf:type owl:NamedIndividual ,
                         foaf:Person ;
-               foaf:member kh:ORG_00014 ;
                foaf:name "Swati Chemburkar" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_SYBAUV
 kh:AUTH_SYBAUV rdf:type owl:NamedIndividual ,
                         foaf:Person ;
-               foaf:member kh:ORG_00081 ;
                foaf:name "Sylvain Bauvais" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_TAEASU
 kh:AUTH_TAEASU rdf:type owl:NamedIndividual ,
                         foaf:Person ;
-               foaf:member kh:ORG_00142 ;
                foaf:name "Taylor M. Easum" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_TAMASU
 kh:AUTH_TAMASU rdf:type owl:NamedIndividual ,
                         foaf:Person ;
-               foaf:member kh:ORG_00137 ;
                foaf:name "Takatsugu Masuda" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_TANAKA
 kh:AUTH_TANAKA rdf:type owl:NamedIndividual ,
                         foaf:Person ;
-               foaf:member kh:ORG_00147 ;
                foaf:name "Takeshi Nakagawa" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_TANAKA2
 kh:AUTH_TANAKA2 rdf:type owl:NamedIndividual ,
                          foaf:Person ;
-                foaf:member kh:ORG_00137 ;
                 foaf:name "Tamaki Nakamura" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_TAOISH
 kh:AUTH_TAOISH rdf:type owl:NamedIndividual ,
                         foaf:Person ;
-               foaf:member kh:ORG_00137 ;
                foaf:name "Takeshi Oishi" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_TASUY
 kh:AUTH_TASUY rdf:type owl:NamedIndividual ,
                        foaf:Person ;
-              foaf:member kh:ORG_00001 ;
               foaf:name "Tan Boun Suy" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_TEDAVI
 kh:AUTH_TEDAVI rdf:type owl:NamedIndividual ,
                         foaf:Person ;
-               foaf:member kh:ORG_00097 ,
-                           kh:ORG_00116 ;
                foaf:name "Tess Davis" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_TEDELA
 kh:AUTH_TEDELA rdf:type owl:NamedIndividual ,
                         foaf:Person ;
-               foaf:member kh:ORG_00146 ;
                foaf:name "Terry DeLacy" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_TEHALL
 kh:AUTH_TEHALL rdf:type owl:NamedIndividual ,
                         foaf:Person ;
-               foaf:member kh:ORG_00136 ;
                foaf:name "Tegan Hall" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_TELUST
 kh:AUTH_TELUST rdf:type owl:NamedIndividual ,
                         foaf:Person ;
-               foaf:member kh:ORG_00047 ,
-                           kh:ORG_00136 ;
                foaf:name "Terry Lustig" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_TEWARA
 kh:AUTH_TEWARA rdf:type owl:NamedIndividual ,
                         foaf:Person ;
-               foaf:member kh:ORG_00076 ;
                foaf:name "Tetsuya Waragai" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_THBLAN
 kh:AUTH_THBLAN rdf:type owl:NamedIndividual ,
                         foaf:Person ;
-               foaf:member kh:ORG_00081 ;
                foaf:name "Thomas Blanchet" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_THMAXW
 kh:AUTH_THMAXW rdf:type owl:NamedIndividual ,
                         foaf:Person ;
-               foaf:member kh:ORG_00157 ;
                foaf:name "Thomas S. Maxwell" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_THPONG
 kh:AUTH_THPONG rdf:type owl:NamedIndividual ,
                         foaf:Person ;
-               foaf:member kh:ORG_00022 ;
                foaf:name "Thitinan Pongsudhirak" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_THPRAB
 kh:AUTH_THPRAB rdf:type owl:NamedIndividual ,
                         foaf:Person ;
-               foaf:member kh:ORG_00103 ;
                foaf:name "Thoriq Tri Prabowo" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_THPRYC
 kh:AUTH_THPRYC rdf:type owl:NamedIndividual ,
                         foaf:Person ;
-               foaf:member kh:ORG_00018 ,
-                           kh:ORG_00065 ;
                foaf:name "Thomas Oliver Pryce" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_THWARS
 kh:AUTH_THWARS rdf:type owl:NamedIndividual ,
                         foaf:Person ;
-               foaf:member kh:ORG_00121 ;
                foaf:name "Thomas Warscheid" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_THWISA
 kh:AUTH_THWISA rdf:type owl:NamedIndividual ,
                         foaf:Person ;
-               foaf:member kh:ORG_00101 ;
                foaf:name "Thanachate Wisaijorn" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_TIATTO
 kh:AUTH_TIATTO rdf:type owl:NamedIndividual ,
                         foaf:Person ;
-               foaf:member kh:ORG_00037 ;
                foaf:name "Tiago Attorre" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_TISONN
 kh:AUTH_TISONN rdf:type owl:NamedIndividual ,
                         foaf:Person ;
-               foaf:member kh:ORG_00056 ;
                foaf:name "Till Frieder Sonnemann" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_TITIN
 kh:AUTH_TITIN rdf:type owl:NamedIndividual ,
                        foaf:Person ;
-              foaf:member kh:ORG_00001 ;
               foaf:name "Tina Tin" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_TIWINT
 kh:AUTH_TIWINT rdf:type owl:NamedIndividual ,
                         foaf:Person ;
-               foaf:member kh:ORG_00136 ;
                foaf:name "Tim Winter" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_TOHIRA
 kh:AUTH_TOHIRA rdf:type owl:NamedIndividual ,
                         foaf:Person ;
-               foaf:member kh:ORG_00147 ;
                foaf:name "Tomonari Hirai" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_TOMAED
 kh:AUTH_TOMAED rdf:type owl:NamedIndividual ,
                         foaf:Person ;
-               foaf:member kh:ORG_00147 ;
                foaf:name "Toshiro Maeda" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_TOMINH
 kh:AUTH_TOMINH rdf:type owl:NamedIndividual ,
                         foaf:Person ;
-               foaf:member kh:ORG_00015 ;
                foaf:name "Ton That Minh" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_TOSUGA
 kh:AUTH_TOSUGA rdf:type owl:NamedIndividual ,
                         foaf:Person ;
-               foaf:member kh:ORG_00137 ,
-                           kh:ORG_00147 ;
                foaf:name "Toshihiko Sugai" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_TOTOKU
 kh:AUTH_TOTOKU rdf:type owl:NamedIndividual ,
                         foaf:Person ;
-               foaf:member kh:ORG_00137 ;
                foaf:name "Tomochika Tokunaga" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_TRHONG
 kh:AUTH_TRHONG rdf:type owl:NamedIndividual ,
                         foaf:Person ;
-               foaf:member kh:ORG_00078 ;
                foaf:name "Truong Mai Hong" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_UESALZ
 kh:AUTH_UESALZ rdf:type owl:NamedIndividual ,
                         foaf:Person ;
-               foaf:member kh:ORG_00115 ;
                foaf:name "Ueli Salzmann" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_VASAVO
 kh:AUTH_VASAVO rdf:type owl:NamedIndividual ,
                         foaf:Person ;
-               foaf:member kh:ORG_00084 ;
                foaf:name "Valentina Savo" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_VEVAR
 kh:AUTH_VEVAR rdf:type owl:NamedIndividual ,
                        foaf:Person ;
-              foaf:member kh:ORG_00011 ;
               foaf:name "Veasna Var" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_VICHAN
 kh:AUTH_VICHAN rdf:type owl:NamedIndividual ,
                         foaf:Person ;
-               foaf:member kh:ORG_00068 ;
                foaf:name "Vitharong Chan" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_VIGOUL
 kh:AUTH_VIGOUL rdf:type owl:NamedIndividual ,
                         foaf:Person ;
-               foaf:member kh:ORG_00031 ;
                foaf:name "Victor Gouloubew" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_VIKATT
 kh:AUTH_VIKATT rdf:type owl:NamedIndividual ,
                         foaf:Person ;
-               foaf:member kh:ORG_00135 ;
                foaf:name "Victor Kattan" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_VILIEB
 kh:AUTH_VILIEB rdf:type owl:NamedIndividual ,
                         foaf:Person ;
-               foaf:member kh:ORG_00125 ;
                foaf:name "Victor Lieberman" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_VIPEUO
 kh:AUTH_VIPEUO rdf:type owl:NamedIndividual ,
                         foaf:Person ;
-               foaf:member kh:ORG_00074 ;
                foaf:name "Vibol Peuo" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_WASAST
 kh:AUTH_WASAST rdf:type owl:NamedIndividual ,
                         foaf:Person ;
-               foaf:member kh:ORG_00031 ;
                foaf:name "Wayan Jarrah Sastrawan" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_WAWEDE
 kh:AUTH_WAWEDE rdf:type owl:NamedIndividual ,
                         foaf:Person ;
-               foaf:member kh:ORG_00118 ;
                foaf:name "Wanja Wedekind" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_WELAN
 kh:AUTH_WELAN rdf:type owl:NamedIndividual ,
                        foaf:Person ;
-              foaf:member kh:ORG_00091 ,
-                          kh:ORG_00121 ;
               foaf:name "Wensheng Lan" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_WEWANG
 kh:AUTH_WEWANG rdf:type owl:NamedIndividual ,
                         foaf:Person ;
-               foaf:member kh:ORG_00043 ;
                foaf:name "Wei-Dong Wang" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_WEZHEN
 kh:AUTH_WEZHEN rdf:type owl:NamedIndividual ,
                         foaf:Person ;
-               foaf:member kh:ORG_00044 ;
                foaf:name "Wenwu Zheng" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_WEZHOU
 kh:AUTH_WEZHOU rdf:type owl:NamedIndividual ,
                         foaf:Person ;
-               foaf:member kh:ORG_00021 ,
-                           kh:ORG_00044 ;
                foaf:name "Wei Zhou" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_XIDING
 kh:AUTH_XIDING rdf:type owl:NamedIndividual ,
                         foaf:Person ;
-               foaf:member kh:ORG_00121 ;
                foaf:name "Xinghua Ding" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_XILIU
 kh:AUTH_XILIU rdf:type owl:NamedIndividual ,
                        foaf:Person ;
-              foaf:member kh:ORG_00121 ;
               foaf:name "Xiaobo Liu" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_XUTAY
 kh:AUTH_XUTAY rdf:type owl:NamedIndividual ,
                        foaf:Person ;
-              foaf:member kh:ORG_00075 ;
               foaf:name "Xuan W. Tay" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_YAAKAZ
 kh:AUTH_YAAKAZ rdf:type owl:NamedIndividual ,
                         foaf:Person ;
-               foaf:member kh:ORG_00137 ,
-                           kh:ORG_00147 ;
                foaf:name "Yasushi Akazawa" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_YAKATO
 kh:AUTH_YAKATO rdf:type owl:NamedIndividual ,
                         foaf:Person ;
-               foaf:member kh:ORG_00020 ;
                foaf:name "Yasuhiro Kato" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_YAMENG
 kh:AUTH_YAMENG rdf:type owl:NamedIndividual ,
                         foaf:Person ;
-               foaf:member kh:ORG_00040 ;
                foaf:name "Yahui Meng" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_YIHONG
 kh:AUTH_YIHONG rdf:type owl:NamedIndividual ,
                         foaf:Person ;
-               foaf:member kh:ORG_00041 ;
                foaf:name "Yiguo Hong" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_YILI
 kh:AUTH_YILI rdf:type owl:NamedIndividual ,
                       foaf:Person ;
-             foaf:member kh:ORG_00121 ;
              foaf:name "Yiliang Li" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_YIZHUA
 kh:AUTH_YIZHUA rdf:type owl:NamedIndividual ,
                         foaf:Person ;
-               foaf:member kh:ORG_00105 ;
                foaf:name "Yijie Zhuang" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_YOFUTA
 kh:AUTH_YOFUTA rdf:type owl:NamedIndividual ,
                         foaf:Person ;
-               foaf:member kh:ORG_00073 ;
                foaf:name "Yoko Futagami" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_YOIWAS
 kh:AUTH_YOIWAS rdf:type owl:NamedIndividual ,
                         foaf:Person ;
-               foaf:member kh:ORG_00029 ,
-                           kh:ORG_00137 ,
-                           kh:ORG_00147 ;
                foaf:name "Yoshinori Iwasaki" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_YOKATA
 kh:AUTH_YOKATA rdf:type owl:NamedIndividual ,
                         foaf:Person ;
-               foaf:member kh:ORG_00073 ,
-                           kh:ORG_00098 ,
-                           kh:ORG_00137 ;
                foaf:name "Yoko Katayama" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_YOKOBA
 kh:AUTH_YOKOBA rdf:type owl:NamedIndividual ,
                         foaf:Person ;
-               foaf:member kh:ORG_00147 ;
                foaf:name "Yoshimitsu Kobayashi" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_YOKOJI
 kh:AUTH_YOKOJI rdf:type owl:NamedIndividual ,
                         foaf:Person ;
-               foaf:member kh:ORG_00076 ;
                foaf:name "Yoko Kojima" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_YOQIAN
 kh:AUTH_YOQIAN rdf:type owl:NamedIndividual ,
                         foaf:Person ;
-               foaf:member kh:ORG_00039 ;
                foaf:name "Youfen Qian" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_YOSATO
 kh:AUTH_YOSATO rdf:type owl:NamedIndividual ,
                         foaf:Person ;
-               foaf:member kh:ORG_00137 ;
                foaf:name "Yoshihiro Sato" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_YOSUGI
 kh:AUTH_YOSUGI rdf:type owl:NamedIndividual ,
                         foaf:Person ;
-               foaf:member kh:ORG_00137 ,
-                           kh:ORG_00147 ;
                foaf:name "Yoshihiro Sugimoto" ,
                          "Yoshikazu Sugiura" .
 
@@ -6140,42 +5749,36 @@ kh:AUTH_YOSUGI rdf:type owl:NamedIndividual ,
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_YOTANA
 kh:AUTH_YOTANA rdf:type owl:NamedIndividual ,
                         foaf:Person ;
-               foaf:member kh:ORG_00111 ;
                foaf:name "Yoshifumi Tanaka" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_YUDENG
 kh:AUTH_YUDENG rdf:type owl:NamedIndividual ,
                         foaf:Person ;
-               foaf:member kh:ORG_00044 ;
                foaf:name "Yunyuan Deng" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_YULU
 kh:AUTH_YULU rdf:type owl:NamedIndividual ,
                       foaf:Person ;
-             foaf:member kh:ORG_00147 ;
              foaf:name "Yusu Lu" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_YUSHIG
 kh:AUTH_YUSHIG rdf:type owl:NamedIndividual ,
                         foaf:Person ;
-               foaf:member kh:ORG_00076 ;
                foaf:name "Yutaka Shigeeda" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_YUTAKU
 kh:AUTH_YUTAKU rdf:type owl:NamedIndividual ,
                         foaf:Person ;
-               foaf:member kh:ORG_00147 ;
                foaf:name "Yukinori Takubo" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_ZHYE
 kh:AUTH_ZHYE rdf:type owl:NamedIndividual ,
                       foaf:Person ;
-             foaf:member kh:ORG_00161 ;
              foaf:name "Zhu Ye" .
 
 
@@ -16061,6 +15664,19 @@ kh:OBJ_00229 rdf:type owl:NamedIndividual ,
 kh:ORG_00001 rdf:type owl:NamedIndividual ,
                       foaf:Organization ;
              dct:spatial kh:Cambodia ;
+             foaf:member kh:AUTH_APSARA ,
+                         kh:AUTH_CHVISO ,
+                         kh:AUTH_DAEA ,
+                         kh:AUTH_HAPEOU ,
+                         kh:AUTH_HETHAN ,
+                         kh:AUTH_ICSHIM ,
+                         kh:AUTH_IMSOKR ,
+                         kh:AUTH_KHCHAN ,
+                         kh:AUTH_RACHHA ,
+                         kh:AUTH_RACHHE ,
+                         kh:AUTH_SAKIM ,
+                         kh:AUTH_TASUY ,
+                         kh:AUTH_TITIN ;
              foaf:name "APSARA National Authority"@en .
 
 
@@ -16068,6 +15684,7 @@ kh:ORG_00001 rdf:type owl:NamedIndividual ,
 kh:ORG_00002 rdf:type owl:NamedIndividual ,
                       foaf:Organization ;
              dct:spatial kh:Finland ;
+             foaf:member kh:AUTH_MAKUMM ;
              foaf:name "Aalto University"@en .
 
 
@@ -16075,6 +15692,7 @@ kh:ORG_00002 rdf:type owl:NamedIndividual ,
 kh:ORG_00003 rdf:type owl:NamedIndividual ,
                       foaf:Organization ;
              dct:spatial kh:France ;
+             foaf:member kh:AUTH_ERBOUR ;
              foaf:name "Academie des Inscriptions et Belles-Lettres"@fr .
 
 
@@ -16082,6 +15700,7 @@ kh:ORG_00003 rdf:type owl:NamedIndividual ,
 kh:ORG_00004 rdf:type owl:NamedIndividual ,
                       foaf:Organization ;
              dct:spatial kh:Poland ;
+             foaf:member kh:AUTH_KAHANU ;
              foaf:name "Adam Mickiewicz University"@en .
 
 
@@ -16089,6 +15708,7 @@ kh:ORG_00004 rdf:type owl:NamedIndividual ,
 kh:ORG_00005 rdf:type owl:NamedIndividual ,
                       foaf:Organization ;
              dct:spatial kh:Japan ;
+             foaf:member kh:AUTH_KYONIS ;
              foaf:name "Akita University"@en .
 
 
@@ -16096,6 +15716,9 @@ kh:ORG_00005 rdf:type owl:NamedIndividual ,
 kh:ORG_00006 rdf:type owl:NamedIndividual ,
                       foaf:Organization ;
              dct:spatial kh:UnitedKingdom ;
+             foaf:member kh:AUTH_JECHEV ,
+                         kh:AUTH_SASAKH ,
+                         kh:AUTH_STGREE ;
              foaf:name "Archaeology and Development Foundation"@en .
 
 
@@ -16103,6 +15726,9 @@ kh:ORG_00006 rdf:type owl:NamedIndividual ,
 kh:ORG_00007 rdf:type owl:NamedIndividual ,
                       foaf:Organization ;
              dct:spatial kh:UnitedStatesofAmerica ;
+             foaf:member kh:AUTH_JOLOBO ,
+                         kh:AUTH_LAMAYS ,
+                         kh:AUTH_SAKLAS ;
              foaf:name "Arizona State University"@en .
 
 
@@ -16110,6 +15736,8 @@ kh:ORG_00007 rdf:type owl:NamedIndividual ,
 kh:ORG_00008 rdf:type owl:NamedIndividual ,
                       foaf:Organization ;
              dct:spatial kh:Thailand ;
+             foaf:member kh:AUTH_SESAMA ,
+                         kh:AUTH_SOTHAU ;
              foaf:name "Asian Disaster Preparedness Center"@en .
 
 
@@ -16117,6 +15745,7 @@ kh:ORG_00008 rdf:type owl:NamedIndividual ,
 kh:ORG_00009 rdf:type owl:NamedIndividual ,
                       foaf:Organization ;
              dct:spatial kh:Thailand ;
+             foaf:member kh:AUTH_RABAST ;
              foaf:name "Asian Institute of Technology"@en .
 
 
@@ -16124,6 +15753,7 @@ kh:ORG_00009 rdf:type owl:NamedIndividual ,
 kh:ORG_00010 rdf:type owl:NamedIndividual ,
                       foaf:Organization ;
              dct:spatial kh:Australia ;
+             foaf:member kh:AUTH_DUCOOK ;
              foaf:name "Australian Catholic University"@en .
 
 
@@ -16131,6 +15761,7 @@ kh:ORG_00010 rdf:type owl:NamedIndividual ,
 kh:ORG_00011 rdf:type owl:NamedIndividual ,
                       foaf:Organization ;
              dct:spatial kh:Australia ;
+             foaf:member kh:AUTH_VEVAR ;
              foaf:name "Australian Defense Force Academy"@en .
 
 
@@ -16138,6 +15769,10 @@ kh:ORG_00011 rdf:type owl:NamedIndividual ,
 kh:ORG_00012 rdf:type owl:NamedIndividual ,
                       foaf:Organization ;
              dct:spatial kh:Australia ;
+             foaf:member kh:AUTH_DOOREI ,
+                         kh:AUTH_KINGOU ,
+                         kh:AUTH_NOTAN ,
+                         kh:AUTH_REHAMI ;
              foaf:name "Australian National University"@en .
 
 
@@ -16145,6 +15780,8 @@ kh:ORG_00012 rdf:type owl:NamedIndividual ,
 kh:ORG_00013 rdf:type owl:NamedIndividual ,
                       foaf:Organization ;
              dct:spatial kh:Australia ;
+             foaf:member kh:AUTH_DAFINK ,
+                         kh:AUTH_QUHUA ;
              foaf:name "Australian Nuclear Science and Technology Organisation"@en .
 
 
@@ -16152,6 +15789,7 @@ kh:ORG_00013 rdf:type owl:NamedIndividual ,
 kh:ORG_00014 rdf:type owl:NamedIndividual ,
                       foaf:Organization ;
              dct:spatial kh:India ;
+             foaf:member kh:AUTH_SWCHEM ;
              foaf:name "Benaras Hindu University"@en .
 
 
@@ -16159,6 +15797,8 @@ kh:ORG_00014 rdf:type owl:NamedIndividual ,
 kh:ORG_00015 rdf:type owl:NamedIndividual ,
                       foaf:Organization ;
              dct:spatial kh:Vietnam ;
+             foaf:member kh:AUTH_LENAM ,
+                         kh:AUTH_TOMINH ;
              foaf:name "Bidoup Nui Ba National Park"@en .
 
 
@@ -16166,6 +15806,11 @@ kh:ORG_00015 rdf:type owl:NamedIndividual ,
 kh:ORG_00016 rdf:type owl:NamedIndividual ,
                       foaf:Organization ;
              dct:spatial kh:France ;
+             foaf:member kh:AUTH_BRPHAL ,
+                         kh:AUTH_ERROUS ,
+                         kh:AUTH_FRVAUT ,
+                         kh:AUTH_OLVOLD ,
+                         kh:AUTH_SAETIE ;
              foaf:name "Blaise Pascal University"@en .
 
 
@@ -16173,6 +15818,7 @@ kh:ORG_00016 rdf:type owl:NamedIndividual ,
 kh:ORG_00017 rdf:type owl:NamedIndividual ,
                       foaf:Organization ;
              dct:spatial kh:Cambodia ;
+             foaf:member kh:AUTH_CHMENG ;
              foaf:name "Cambodian National Commission for UNESCO"@en .
 
 
@@ -16180,6 +15826,12 @@ kh:ORG_00017 rdf:type owl:NamedIndividual ,
 kh:ORG_00018 rdf:type owl:NamedIndividual ,
                       foaf:Organization ;
              dct:spatial kh:France ;
+             foaf:member kh:AUTH_ANGUIL ,
+                         kh:AUTH_CHGOLD ,
+                         kh:AUTH_MIBENI ,
+                         kh:AUTH_SOCHAN ,
+                         kh:AUTH_STLERO ,
+                         kh:AUTH_THPRYC ;
              foaf:name "Centre National de la Recherche Scientifique"@en .
 
 
@@ -16187,6 +15839,8 @@ kh:ORG_00018 rdf:type owl:NamedIndividual ,
 kh:ORG_00019 rdf:type owl:NamedIndividual ,
                       foaf:Organization ;
              dct:spatial kh:Thailand ;
+             foaf:member kh:AUTH_ARWICH ,
+                         kh:AUTH_LOLEBE ;
              foaf:name "Chiang Mai University"@en .
 
 
@@ -16194,6 +15848,8 @@ kh:ORG_00019 rdf:type owl:NamedIndividual ,
 kh:ORG_00020 rdf:type owl:NamedIndividual ,
                       foaf:Organization ;
              dct:spatial kh:Japan ;
+             foaf:member kh:AUTH_KEAZAM ,
+                         kh:AUTH_YAKATO ;
              foaf:name "Chiba Institute of Technology"@en .
 
 
@@ -16201,6 +15857,10 @@ kh:ORG_00020 rdf:type owl:NamedIndividual ,
 kh:ORG_00021 rdf:type owl:NamedIndividual ,
                       foaf:Organization ;
              dct:spatial kh:China ;
+             foaf:member kh:AUTH_FUCHEN ,
+                         kh:AUTH_JIYOU ,
+                         kh:AUTH_PATANG ,
+                         kh:AUTH_WEZHOU ;
              foaf:name "Chinese Academy of Sciences"@en .
 
 
@@ -16208,6 +15868,7 @@ kh:ORG_00021 rdf:type owl:NamedIndividual ,
 kh:ORG_00022 rdf:type owl:NamedIndividual ,
                       foaf:Organization ;
              dct:spatial kh:Thailand ;
+             foaf:member kh:AUTH_THPONG ;
              foaf:name "Chulalongkorn University"@en .
 
 
@@ -16215,6 +15876,7 @@ kh:ORG_00022 rdf:type owl:NamedIndividual ,
 kh:ORG_00023 rdf:type owl:NamedIndividual ,
                       foaf:Organization ;
              dct:spatial kh:China ;
+             foaf:member kh:AUTH_GUHUAN ;
              foaf:name "City University of Macau"@en .
 
 
@@ -16222,6 +15884,7 @@ kh:ORG_00023 rdf:type owl:NamedIndividual ,
 kh:ORG_00024 rdf:type owl:NamedIndividual ,
                       foaf:Organization ;
              dct:spatial kh:UnitedStatesofAmerica ;
+             foaf:member kh:AUTH_JOMONR ;
              foaf:name "Cleveland State University"@en .
 
 
@@ -16229,6 +15892,9 @@ kh:ORG_00024 rdf:type owl:NamedIndividual ,
 kh:ORG_00025 rdf:type owl:NamedIndividual ,
                       foaf:Organization ;
              dct:spatial kh:UnitedStatesofAmerica ;
+             foaf:member kh:AUTH_BRBUCK ,
+                         kh:AUTH_EDCOOK ,
+                         kh:AUTH_KEANCH ;
              foaf:name "Columbia University"@en .
 
 
@@ -16236,6 +15902,8 @@ kh:ORG_00025 rdf:type owl:NamedIndividual ,
 kh:ORG_00026 rdf:type owl:NamedIndividual ,
                       foaf:Organization ;
              dct:spatial kh:Italy ;
+             foaf:member kh:AUTH_NIMASI ,
+                         kh:AUTH_ROLASA ;
              foaf:name "Consiglio Nazionale delle Ricerche"@en .
 
 
@@ -16243,6 +15911,7 @@ kh:ORG_00026 rdf:type owl:NamedIndividual ,
 kh:ORG_00027 rdf:type owl:NamedIndividual ,
                       foaf:Organization ;
              dct:spatial kh:Italy ;
+             foaf:member kh:AUTH_LUSALV ;
              foaf:name "Consiglio per la Ricerca e la Sperimentazione in Agricoltura"@en .
 
 
@@ -16250,6 +15919,7 @@ kh:ORG_00027 rdf:type owl:NamedIndividual ,
 kh:ORG_00028 rdf:type owl:NamedIndividual ,
                       foaf:Organization ;
              dct:spatial kh:UnitedStatesofAmerica ;
+             foaf:member kh:AUTH_DAWYAT ;
              foaf:name "Cornell University"@en .
 
 
@@ -16257,6 +15927,7 @@ kh:ORG_00028 rdf:type owl:NamedIndividual ,
 kh:ORG_00029 rdf:type owl:NamedIndividual ,
                       foaf:Organization ;
              dct:spatial kh:Japan ;
+             foaf:member kh:AUTH_YOIWAS ;
              foaf:name "Cyber University"@en .
 
 
@@ -16264,6 +15935,7 @@ kh:ORG_00029 rdf:type owl:NamedIndividual ,
 kh:ORG_00030 rdf:type owl:NamedIndividual ,
                       foaf:Organization ;
              dct:spatial kh:Germany ;
+             foaf:member kh:AUTH_ANKULI ;
              foaf:name "Eberhard Karls University of Tubingen"@en .
 
 
@@ -16271,6 +15943,18 @@ kh:ORG_00030 rdf:type owl:NamedIndividual ,
 kh:ORG_00031 rdf:type owl:NamedIndividual ,
                       foaf:Organization ;
              dct:spatial kh:France ;
+             foaf:member kh:AUTH_BEPORT ,
+                         kh:AUTH_BRZOTT ,
+                         kh:AUTH_CHPOTT ,
+                         kh:AUTH_DAEVAN ,
+                         kh:AUTH_DOSOUT ,
+                         kh:AUTH_ERBOUR ,
+                         kh:AUTH_GECOED ,
+                         kh:AUTH_LEKONG ,
+                         kh:AUTH_NIHOFE ,
+                         kh:AUTH_SHALVA ,
+                         kh:AUTH_VIGOUL ,
+                         kh:AUTH_WASAST ;
              foaf:name "Ecole Francaise d'Extreme-Orient"@en .
 
 
@@ -16285,6 +15969,7 @@ kh:ORG_00032 rdf:type owl:NamedIndividual ,
 kh:ORG_00033 rdf:type owl:NamedIndividual ,
                       foaf:Organization ;
              dct:spatial kh:UnitedKingdom ;
+             foaf:member kh:AUTH_ANLEAS ;
              foaf:name "Edinburgh Napier University"@en .
 
 
@@ -16292,6 +15977,7 @@ kh:ORG_00033 rdf:type owl:NamedIndividual ,
 kh:ORG_00034 rdf:type owl:NamedIndividual ,
                       foaf:Organization ;
              dct:spatial kh:Japan ;
+             foaf:member kh:AUTH_MASANO ;
              foaf:name "Ehime University"@en .
 
 
@@ -16299,6 +15985,7 @@ kh:ORG_00034 rdf:type owl:NamedIndividual ,
 kh:ORG_00035 rdf:type owl:NamedIndividual ,
                       foaf:Organization ;
              dct:spatial kh:Italy ;
+             foaf:member kh:AUTH_GISTRO ;
              foaf:name "European Commission Joint Research Centre"@en .
 
 
@@ -16306,6 +15993,7 @@ kh:ORG_00035 rdf:type owl:NamedIndividual ,
 kh:ORG_00036 rdf:type owl:NamedIndividual ,
                       foaf:Organization ;
              dct:spatial kh:UnitedStatesofAmerica ;
+             foaf:member kh:AUTH_LADUSS ;
              foaf:name "Field Museum of Natural History"@en .
 
 
@@ -16313,6 +16001,9 @@ kh:ORG_00036 rdf:type owl:NamedIndividual ,
 kh:ORG_00037 rdf:type owl:NamedIndividual ,
                       foaf:Organization ;
              dct:spatial kh:Australia ;
+             foaf:member kh:AUTH_IAMOFF ,
+                         kh:AUTH_MAPOLK ,
+                         kh:AUTH_TIATTO ;
              foaf:name "Flinders University"@en .
 
 
@@ -16320,6 +16011,7 @@ kh:ORG_00037 rdf:type owl:NamedIndividual ,
 kh:ORG_00038 rdf:type owl:NamedIndividual ,
                       foaf:Organization ;
              dct:spatial kh:China ;
+             foaf:member kh:AUTH_LIGAO ;
              foaf:name "Guangdong Industry Polytechnic University"@en .
 
 
@@ -16327,6 +16019,10 @@ kh:ORG_00038 rdf:type owl:NamedIndividual ,
 kh:ORG_00039 rdf:type owl:NamedIndividual ,
                       foaf:Organization ;
              dct:spatial kh:China ;
+             foaf:member kh:AUTH_FAWU ,
+                         kh:AUTH_JIGU ,
+                         kh:AUTH_SHCHEN ,
+                         kh:AUTH_YOQIAN ;
              foaf:name "Guangdong Technion Israel Institute of Technology"@en .
 
 
@@ -16334,6 +16030,11 @@ kh:ORG_00039 rdf:type owl:NamedIndividual ,
 kh:ORG_00040 rdf:type owl:NamedIndividual ,
                       foaf:Organization ;
              dct:spatial kh:China ;
+             foaf:member kh:AUTH_CHDENG ,
+                         kh:AUTH_DIBURA ,
+                         kh:AUTH_DIBURA2 ,
+                         kh:AUTH_SUCHAU ,
+                         kh:AUTH_YAMENG ;
              foaf:name "Guangdong University of Petrochemical Technology"@en .
 
 
@@ -16341,6 +16042,8 @@ kh:ORG_00040 rdf:type owl:NamedIndividual ,
 kh:ORG_00041 rdf:type owl:NamedIndividual ,
                       foaf:Organization ;
              dct:spatial kh:China ;
+             foaf:member kh:AUTH_JIWU ,
+                         kh:AUTH_YIHONG ;
              foaf:name "Guangzhou University"@en .
 
 
@@ -16348,6 +16051,7 @@ kh:ORG_00041 rdf:type owl:NamedIndividual ,
 kh:ORG_00042 rdf:type owl:NamedIndividual ,
                       foaf:Organization ;
              dct:spatial kh:Greece ;
+             foaf:member kh:AUTH_ISPARC ;
              foaf:name "Harokopio University Athens"@en .
 
 
@@ -16355,6 +16059,7 @@ kh:ORG_00042 rdf:type owl:NamedIndividual ,
 kh:ORG_00043 rdf:type owl:NamedIndividual ,
                       foaf:Organization ;
              dct:spatial kh:China ;
+             foaf:member kh:AUTH_WEWANG ;
              foaf:name "Heilongjiang Bayi Agricultural University"@en .
 
 
@@ -16362,6 +16067,11 @@ kh:ORG_00043 rdf:type owl:NamedIndividual ,
 kh:ORG_00044 rdf:type owl:NamedIndividual ,
                       foaf:Organization ;
              dct:spatial kh:China ;
+             foaf:member kh:AUTH_FUCHEN ,
+                         kh:AUTH_HAXU ,
+                         kh:AUTH_WEZHEN ,
+                         kh:AUTH_WEZHOU ,
+                         kh:AUTH_YUDENG ;
              foaf:name "Hengyang Normal University"@en .
 
 
@@ -16369,6 +16079,8 @@ kh:ORG_00044 rdf:type owl:NamedIndividual ,
 kh:ORG_00045 rdf:type owl:NamedIndividual ,
                       foaf:Organization ;
              dct:spatial kh:China ;
+             foaf:member kh:AUTH_DICHEN ,
+                         kh:AUTH_SOBAI ;
              foaf:name "Hubei Minzu University"@en .
 
 
@@ -16376,12 +16088,16 @@ kh:ORG_00045 rdf:type owl:NamedIndividual ,
 kh:ORG_00046 rdf:type owl:NamedIndividual ,
                       foaf:Organization ;
              dct:spatial kh:Hungary ;
+             foaf:member kh:AUTH_ROKUSZ ;
              foaf:name "Hungarian Indochina Company"@en .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/ORG_00047
 kh:ORG_00047 rdf:type owl:NamedIndividual ,
                       foaf:Organization ;
+             foaf:member kh:AUTH_EILUST ,
+                         kh:AUTH_ROFREN ,
+                         kh:AUTH_TELUST ;
              foaf:name "Independent Researcher"@en .
 
 
@@ -16389,6 +16105,11 @@ kh:ORG_00047 rdf:type owl:NamedIndividual ,
 kh:ORG_00048 rdf:type owl:NamedIndividual ,
                       foaf:Organization ;
              dct:spatial kh:India ;
+             foaf:member kh:AUTH_ARBABU ,
+                         kh:AUTH_PRTHAK ,
+                         kh:AUTH_SHAGRA ,
+                         kh:AUTH_SHKUMA ,
+                         kh:AUTH_SVIGN ;
              foaf:name "Indian Space Research Organisation (ISRO)"@en .
 
 
@@ -16396,6 +16117,7 @@ kh:ORG_00048 rdf:type owl:NamedIndividual ,
 kh:ORG_00049 rdf:type owl:NamedIndividual ,
                       foaf:Organization ;
              dct:spatial kh:France ;
+             foaf:member kh:AUTH_PIBATY ;
              foaf:name "Institut National de Recherches Archeologiques Preventives"@en .
 
 
@@ -16403,6 +16125,7 @@ kh:ORG_00049 rdf:type owl:NamedIndividual ,
 kh:ORG_00050 rdf:type owl:NamedIndividual ,
                       foaf:Organization ;
              dct:spatial kh:Australia ;
+             foaf:member kh:AUTH_NABEAV ;
              foaf:name "Institute of Environmental Science and Research"@en .
 
 
@@ -16410,6 +16133,7 @@ kh:ORG_00050 rdf:type owl:NamedIndividual ,
 kh:ORG_00051 rdf:type owl:NamedIndividual ,
                       foaf:Organization ;
              dct:spatial kh:Poland ;
+             foaf:member kh:AUTH_KAHANU ;
              foaf:name "Jagiellonian University"@en .
 
 
@@ -16417,6 +16141,7 @@ kh:ORG_00051 rdf:type owl:NamedIndividual ,
 kh:ORG_00052 rdf:type owl:NamedIndividual ,
                       foaf:Organization ;
              dct:spatial kh:Australia ;
+             foaf:member kh:AUTH_KADOME ;
              foaf:name "James Cook University"@en .
 
 
@@ -16431,6 +16156,7 @@ kh:ORG_00053 rdf:type owl:NamedIndividual ,
 kh:ORG_00054 rdf:type owl:NamedIndividual ,
                       foaf:Organization ;
              dct:spatial kh:Sweden ;
+             foaf:member kh:AUTH_MOLILJ ;
              foaf:name "Karlstad University"@en .
 
 
@@ -16438,6 +16164,7 @@ kh:ORG_00054 rdf:type owl:NamedIndividual ,
 kh:ORG_00055 rdf:type owl:NamedIndividual ,
                       foaf:Organization ;
              dct:spatial kh:SaudiArabia ;
+             foaf:member kh:AUTH_MOMETW ;
              foaf:name "King Saud University"@en .
 
 
@@ -16445,6 +16172,8 @@ kh:ORG_00055 rdf:type owl:NamedIndividual ,
 kh:ORG_00056 rdf:type owl:NamedIndividual ,
                       foaf:Organization ;
              dct:spatial kh:Netherlands ;
+             foaf:member kh:AUTH_SAKLAS ,
+                         kh:AUTH_TISONN ;
              foaf:name "Leiden University"@en .
 
 
@@ -16452,6 +16181,7 @@ kh:ORG_00056 rdf:type owl:NamedIndividual ,
 kh:ORG_00057 rdf:type owl:NamedIndividual ,
                       foaf:Organization ;
              dct:spatial kh:Thailand ;
+             foaf:member kh:AUTH_FRBIAN ;
              foaf:name "Mahidol University"@en .
 
 
@@ -16459,6 +16189,9 @@ kh:ORG_00057 rdf:type owl:NamedIndividual ,
 kh:ORG_00058 rdf:type owl:NamedIndividual ,
                       foaf:Organization ;
              dct:spatial kh:Germany ;
+             foaf:member kh:AUTH_CHCARL ,
+                         kh:AUTH_HUGROU ,
+                         kh:AUTH_PAROBE ;
              foaf:name "Max Planck Society"@en .
 
 
@@ -16466,6 +16199,7 @@ kh:ORG_00058 rdf:type owl:NamedIndividual ,
 kh:ORG_00059 rdf:type owl:NamedIndividual ,
                       foaf:Organization ;
              dct:spatial kh:Indonesia ;
+             foaf:member kh:AUTH_CHCROM ;
              foaf:name "McElhanney Indonesia"@en .
 
 
@@ -16473,6 +16207,7 @@ kh:ORG_00059 rdf:type owl:NamedIndividual ,
 kh:ORG_00060 rdf:type owl:NamedIndividual ,
                       foaf:Organization ;
              dct:spatial kh:Japan ;
+             foaf:member kh:AUTH_AKMIZO ;
              foaf:name "Meijo University"@en .
 
 
@@ -16480,6 +16215,7 @@ kh:ORG_00060 rdf:type owl:NamedIndividual ,
 kh:ORG_00061 rdf:type owl:NamedIndividual ,
                       foaf:Organization ;
              dct:spatial kh:UnitedStatesofAmerica ;
+             foaf:member kh:AUTH_FECARO ;
              foaf:name "Metropolitan Museum of Art"@en .
 
 
@@ -16487,6 +16223,7 @@ kh:ORG_00061 rdf:type owl:NamedIndividual ,
 kh:ORG_00062 rdf:type owl:NamedIndividual ,
                       foaf:Organization ;
              dct:spatial kh:Cambodia ;
+             foaf:member kh:AUTH_CHPHOE ;
              foaf:name "Ministry of Culture and Fine Arts of Cambodia"@en .
 
 
@@ -16494,6 +16231,8 @@ kh:ORG_00062 rdf:type owl:NamedIndividual ,
 kh:ORG_00063 rdf:type owl:NamedIndividual ,
                       foaf:Organization ;
              dct:spatial kh:Cambodia ;
+             foaf:member kh:AUTH_HEBUN ,
+                         kh:AUTH_SASARU ;
              foaf:name "Ministry of Water Resources and Meteorology"@en .
 
 
@@ -16501,6 +16240,7 @@ kh:ORG_00063 rdf:type owl:NamedIndividual ,
 kh:ORG_00064 rdf:type owl:NamedIndividual ,
                       foaf:Organization ;
              dct:spatial kh:Australia ;
+             foaf:member kh:AUTH_ASROGE ;
              foaf:name "Monash University"@en .
 
 
@@ -16508,6 +16248,7 @@ kh:ORG_00064 rdf:type owl:NamedIndividual ,
 kh:ORG_00065 rdf:type owl:NamedIndividual ,
                       foaf:Organization ;
              dct:spatial kh:France ;
+             foaf:member kh:AUTH_THPRYC ;
              foaf:name "Museum National d'Histoire Naturelle"@en .
 
 
@@ -16515,6 +16256,7 @@ kh:ORG_00065 rdf:type owl:NamedIndividual ,
 kh:ORG_00066 rdf:type owl:NamedIndividual ,
                       foaf:Organization ;
              dct:spatial kh:France ;
+             foaf:member kh:AUTH_DEMERC ;
              foaf:name "Nantes University"@en .
 
 
@@ -16522,6 +16264,7 @@ kh:ORG_00066 rdf:type owl:NamedIndividual ,
 kh:ORG_00067 rdf:type owl:NamedIndividual ,
                       foaf:Organization ;
              dct:spatial kh:UnitedStatesofAmerica ;
+             foaf:member kh:AUTH_SCHENS ;
              foaf:name "National Aeronautics and Space Administration (NASA)"@en .
 
 
@@ -16529,6 +16272,8 @@ kh:ORG_00067 rdf:type owl:NamedIndividual ,
 kh:ORG_00068 rdf:type owl:NamedIndividual ,
                       foaf:Organization ;
              dct:spatial kh:Cambodia ;
+             foaf:member kh:AUTH_CHVITH ,
+                         kh:AUTH_VICHAN ;
              foaf:name "National Authority for Sambor Prei Kuk"@en .
 
 
@@ -16536,6 +16281,7 @@ kh:ORG_00068 rdf:type owl:NamedIndividual ,
 kh:ORG_00069 rdf:type owl:NamedIndividual ,
                       foaf:Organization ;
              dct:spatial kh:Taiwan ;
+             foaf:member kh:AUTH_CHCHEN ;
              foaf:name "National Cheng Kung University"@en .
 
 
@@ -16543,6 +16289,7 @@ kh:ORG_00069 rdf:type owl:NamedIndividual ,
 kh:ORG_00070 rdf:type owl:NamedIndividual ,
                       foaf:Organization ;
              dct:spatial kh:SouthKorea ;
+             foaf:member kh:AUTH_KWMOON ;
              foaf:name "National Institute of Biological Resources"@en .
 
 
@@ -16550,6 +16297,7 @@ kh:ORG_00070 rdf:type owl:NamedIndividual ,
 kh:ORG_00071 rdf:type owl:NamedIndividual ,
                       foaf:Organization ;
              dct:spatial kh:Japan ;
+             foaf:member kh:AUTH_HIKASH ;
              foaf:name "National Museum of Nature and Science"@en .
 
 
@@ -16557,6 +16305,7 @@ kh:ORG_00071 rdf:type owl:NamedIndividual ,
 kh:ORG_00072 rdf:type owl:NamedIndividual ,
                       foaf:Organization ;
              dct:spatial kh:Taiwan ;
+             foaf:member kh:AUTH_SUYEN ;
              foaf:name "National Palace Museum"@en .
 
 
@@ -16564,6 +16313,8 @@ kh:ORG_00072 rdf:type owl:NamedIndividual ,
 kh:ORG_00073 rdf:type owl:NamedIndividual ,
                       foaf:Organization ;
              dct:spatial kh:Japan ;
+             foaf:member kh:AUTH_YOFUTA ,
+                         kh:AUTH_YOKATA ;
              foaf:name "National Research Institute for Cultural Properties"@en .
 
 
@@ -16571,6 +16322,7 @@ kh:ORG_00073 rdf:type owl:NamedIndividual ,
 kh:ORG_00074 rdf:type owl:NamedIndividual ,
                       foaf:Organization ;
              dct:spatial kh:Cambodia ;
+             foaf:member kh:AUTH_VIPEUO ;
              foaf:name "National University of Battambang"@en .
 
 
@@ -16578,6 +16330,8 @@ kh:ORG_00074 rdf:type owl:NamedIndividual ,
 kh:ORG_00075 rdf:type owl:NamedIndividual ,
                       foaf:Organization ;
              dct:spatial kh:UnitedStatesofAmerica ;
+             foaf:member kh:AUTH_JOWEED ,
+                         kh:AUTH_XUTAY ;
              foaf:name "New York University"@en .
 
 
@@ -16585,6 +16339,13 @@ kh:ORG_00075 rdf:type owl:NamedIndividual ,
 kh:ORG_00076 rdf:type owl:NamedIndividual ,
                       foaf:Organization ;
              dct:spatial kh:Japan ;
+             foaf:member kh:AUTH_ASHADA ,
+                         kh:AUTH_HIAGAT ,
+                         kh:AUTH_HISHIO ,
+                         kh:AUTH_KOMIKA ,
+                         kh:AUTH_TEWARA ,
+                         kh:AUTH_YOKOJI ,
+                         kh:AUTH_YUSHIG ;
              foaf:name "Nihon University"@en .
 
 
@@ -16592,6 +16353,7 @@ kh:ORG_00076 rdf:type owl:NamedIndividual ,
 kh:ORG_00077 rdf:type owl:NamedIndividual ,
                       foaf:Organization ;
              dct:spatial kh:China ;
+             foaf:member kh:AUTH_PEHU ;
              foaf:name "Ningbo University"@en .
 
 
@@ -16599,6 +16361,7 @@ kh:ORG_00077 rdf:type owl:NamedIndividual ,
 kh:ORG_00078 rdf:type owl:NamedIndividual ,
                       foaf:Organization ;
              dct:spatial kh:Vietnam ;
+             foaf:member kh:AUTH_TRHONG ;
              foaf:name "Nong Lam University"@en .
 
 
@@ -16606,6 +16369,7 @@ kh:ORG_00078 rdf:type owl:NamedIndividual ,
 kh:ORG_00079 rdf:type owl:NamedIndividual ,
                       foaf:Organization ;
              dct:spatial kh:Cambodia ;
+             foaf:member kh:AUTH_SOSO ;
              foaf:name "Norton University"@en .
 
 
@@ -16613,6 +16377,7 @@ kh:ORG_00079 rdf:type owl:NamedIndividual ,
 kh:ORG_00080 rdf:type owl:NamedIndividual ,
                       foaf:Organization ;
              dct:spatial kh:India ;
+             foaf:member kh:AUTH_PRSING ;
              foaf:name "O. P. Jindal Global University"@en .
 
 
@@ -16620,6 +16385,13 @@ kh:ORG_00080 rdf:type owl:NamedIndividual ,
 kh:ORG_00081 rdf:type owl:NamedIndividual ,
                       foaf:Organization ;
              dct:spatial kh:France ;
+             foaf:member kh:AUTH_ALDISS ,
+                         kh:AUTH_EMKOLI ,
+                         kh:AUTH_ENVEGA ,
+                         kh:AUTH_PHDILL ,
+                         kh:AUTH_STLERO ,
+                         kh:AUTH_SYBAUV ,
+                         kh:AUTH_THBLAN ;
              foaf:name "Paris Saclay University"@en .
 
 
@@ -16627,6 +16399,7 @@ kh:ORG_00081 rdf:type owl:NamedIndividual ,
 kh:ORG_00082 rdf:type owl:NamedIndividual ,
                       foaf:Organization ;
              dct:spatial kh:Poland ;
+             foaf:member kh:AUTH_KAHANU ;
              foaf:name "Polish Academy of Sciences"@en .
 
 
@@ -16634,6 +16407,7 @@ kh:ORG_00082 rdf:type owl:NamedIndividual ,
 kh:ORG_00083 rdf:type owl:NamedIndividual ,
                       foaf:Organization ;
              dct:spatial kh:Thailand ;
+             foaf:member kh:AUTH_MOPAKD ;
              foaf:name "Ramkhamhaeng University"@en .
 
 
@@ -16641,6 +16415,15 @@ kh:ORG_00083 rdf:type owl:NamedIndividual ,
 kh:ORG_00084 rdf:type owl:NamedIndividual ,
                       foaf:Organization ;
              dct:spatial kh:Italy ;
+             foaf:member kh:AUTH_ANMUNI ,
+                         kh:AUTH_ARSODO ,
+                         kh:AUTH_FLBART ,
+                         kh:AUTH_GICANE ,
+                         kh:AUTH_GIVENT ,
+                         kh:AUTH_MARICC ,
+                         kh:AUTH_SIBERN ,
+                         kh:AUTH_SICESC ,
+                         kh:AUTH_VASAVO ;
              foaf:name "Roma Tre University"@en .
 
 
@@ -16648,6 +16431,8 @@ kh:ORG_00084 rdf:type owl:NamedIndividual ,
 kh:ORG_00085 rdf:type owl:NamedIndividual ,
                       foaf:Organization ;
              dct:spatial kh:Cambodia ;
+             foaf:member kh:AUTH_KAPHON ,
+                         kh:AUTH_PHKASE ;
              foaf:name "Royal Academy of Cambodia"@en .
 
 
@@ -16655,6 +16440,8 @@ kh:ORG_00085 rdf:type owl:NamedIndividual ,
 kh:ORG_00086 rdf:type owl:NamedIndividual ,
                       foaf:Organization ;
              dct:spatial kh:Cambodia ;
+             foaf:member kh:AUTH_NIREVI ,
+                         kh:AUTH_SOTEP ;
              foaf:name "Royal University of Fine Arts"@en .
 
 
@@ -16662,6 +16449,11 @@ kh:ORG_00086 rdf:type owl:NamedIndividual ,
 kh:ORG_00087 rdf:type owl:NamedIndividual ,
                       foaf:Organization ;
              dct:spatial kh:Cambodia ;
+             foaf:member kh:AUTH_HELOCA ,
+                         kh:AUTH_KAPHON ,
+                         kh:AUTH_KINGOU ,
+                         kh:AUTH_SAPHOU ,
+                         kh:AUTH_SESOK ;
              foaf:name "Royal University of Phnom Penh"@en .
 
 
@@ -16669,6 +16461,7 @@ kh:ORG_00087 rdf:type owl:NamedIndividual ,
 kh:ORG_00088 rdf:type owl:NamedIndividual ,
                       foaf:Organization ;
              dct:spatial kh:Germany ;
+             foaf:member kh:AUTH_MIFALS ;
              foaf:name "Ruprecht Karls University Heidelberg"@en .
 
 
@@ -16676,6 +16469,7 @@ kh:ORG_00088 rdf:type owl:NamedIndividual ,
 kh:ORG_00089 rdf:type owl:NamedIndividual ,
                       foaf:Organization ;
              dct:spatial kh:UnitedStatesofAmerica ;
+             foaf:member kh:AUTH_LIKEAL ;
              foaf:name "Santa Clara University"@en .
 
 
@@ -16683,6 +16477,7 @@ kh:ORG_00089 rdf:type owl:NamedIndividual ,
 kh:ORG_00090 rdf:type owl:NamedIndividual ,
                       foaf:Organization ;
              dct:spatial kh:UnitedKingdom ;
+             foaf:member kh:AUTH_DASAND ;
              foaf:name "Scottish Universities Research and Reactor Center"@en .
 
 
@@ -16690,6 +16485,7 @@ kh:ORG_00090 rdf:type owl:NamedIndividual ,
 kh:ORG_00091 rdf:type owl:NamedIndividual ,
                       foaf:Organization ;
              dct:spatial kh:China ;
+             foaf:member kh:AUTH_WELAN ;
              foaf:name "Shenzhen Academy of Inspection and Quarantine"@en .
 
 
@@ -16697,6 +16493,9 @@ kh:ORG_00091 rdf:type owl:NamedIndividual ,
 kh:ORG_00092 rdf:type owl:NamedIndividual ,
                       foaf:Organization ;
              dct:spatial kh:Thailand ;
+             foaf:member kh:AUTH_PANGER ,
+                         kh:AUTH_RASHOO ,
+                         kh:AUTH_SAKHUN ;
              foaf:name "Silpakorn University"@en .
 
 
@@ -16704,6 +16503,8 @@ kh:ORG_00092 rdf:type owl:NamedIndividual ,
 kh:ORG_00093 rdf:type owl:NamedIndividual ,
                       foaf:Organization ;
              dct:spatial kh:UnitedStatesofAmerica ;
+             foaf:member kh:AUTH_JADOUG ,
+                         kh:AUTH_ROKOES ;
              foaf:name "Smithsonian Institution"@en .
 
 
@@ -16711,6 +16512,7 @@ kh:ORG_00093 rdf:type owl:NamedIndividual ,
 kh:ORG_00094 rdf:type owl:NamedIndividual ,
                       foaf:Organization ;
              dct:spatial kh:Italy ;
+             foaf:member kh:AUTH_ORSALV ;
              foaf:name "Soprintendenza Speciale Polo Museale Veneziano"@en .
 
 
@@ -16718,6 +16520,7 @@ kh:ORG_00094 rdf:type owl:NamedIndividual ,
 kh:ORG_00095 rdf:type owl:NamedIndividual ,
                       foaf:Organization ;
              dct:spatial kh:UnitedStatesofAmerica ;
+             foaf:member kh:AUTH_LYMESK ;
              foaf:name "Stanford University"@en .
 
 
@@ -16725,6 +16528,7 @@ kh:ORG_00095 rdf:type owl:NamedIndividual ,
 kh:ORG_00096 rdf:type owl:NamedIndividual ,
                       foaf:Organization ;
              dct:spatial kh:Australia ;
+             foaf:member kh:AUTH_BOTOUC ;
              foaf:name "Supreme Court of State of New South Wales"@en .
 
 
@@ -16732,6 +16536,7 @@ kh:ORG_00096 rdf:type owl:NamedIndividual ,
 kh:ORG_00097 rdf:type owl:NamedIndividual ,
                       foaf:Organization ;
              dct:spatial kh:UnitedStatesofAmerica ;
+             foaf:member kh:AUTH_TEDAVI ;
              foaf:name "The Antiquities Coalition"@en .
 
 
@@ -16739,6 +16544,7 @@ kh:ORG_00097 rdf:type owl:NamedIndividual ,
 kh:ORG_00098 rdf:type owl:NamedIndividual ,
                       foaf:Organization ;
              dct:spatial kh:Japan ;
+             foaf:member kh:AUTH_YOKATA ;
              foaf:name "Tokyo National Research Institute for Cultural Properties"@en .
 
 
@@ -16746,6 +16552,7 @@ kh:ORG_00098 rdf:type owl:NamedIndividual ,
 kh:ORG_00099 rdf:type owl:NamedIndividual ,
                       foaf:Organization ;
              dct:spatial kh:China ;
+             foaf:member kh:AUTH_PHPHAL ;
              foaf:name "Tongren Polytechnic University"@en .
 
 
@@ -16753,6 +16560,9 @@ kh:ORG_00099 rdf:type owl:NamedIndividual ,
 kh:ORG_00100 rdf:type owl:NamedIndividual ,
                       foaf:Organization ;
              dct:spatial kh:UnitedKingdom ;
+             foaf:member kh:AUTH_AZBESC ,
+                         kh:AUTH_JOWAGE ,
+                         kh:AUTH_KOVIRE ;
              foaf:name "UNESCO"@en .
 
 
@@ -16760,6 +16570,7 @@ kh:ORG_00100 rdf:type owl:NamedIndividual ,
 kh:ORG_00101 rdf:type owl:NamedIndividual ,
                       foaf:Organization ;
              dct:spatial kh:Thailand ;
+             foaf:member kh:AUTH_THWISA ;
              foaf:name "Ubon Ratchathani University"@en .
 
 
@@ -16767,6 +16578,7 @@ kh:ORG_00101 rdf:type owl:NamedIndividual ,
 kh:ORG_00102 rdf:type owl:NamedIndividual ,
                       foaf:Organization ;
              dct:spatial kh:Mexico ;
+             foaf:member kh:AUTH_JOZAMO ;
              foaf:name "Universidad Nacional Autonoma de Mexico"@en .
 
 
@@ -16774,6 +16586,7 @@ kh:ORG_00102 rdf:type owl:NamedIndividual ,
 kh:ORG_00103 rdf:type owl:NamedIndividual ,
                       foaf:Organization ;
              dct:spatial kh:Indonesia ;
+             foaf:member kh:AUTH_THPRAB ;
              foaf:name "Universitas Islam Negeri Sunan Kalijaga"@en .
 
 
@@ -16781,6 +16594,7 @@ kh:ORG_00103 rdf:type owl:NamedIndividual ,
 kh:ORG_00104 rdf:type owl:NamedIndividual ,
                       foaf:Organization ;
              dct:spatial kh:Malaysia ;
+             foaf:member kh:AUTH_MIVICK ;
              foaf:name "Universiti Sains Malaysia"@en .
 
 
@@ -16788,6 +16602,10 @@ kh:ORG_00104 rdf:type owl:NamedIndividual ,
 kh:ORG_00105 rdf:type owl:NamedIndividual ,
                       foaf:Organization ;
              dct:spatial kh:UnitedKingdom ;
+             foaf:member kh:AUTH_COSTER ,
+                         kh:AUTH_CRCAST ,
+                         kh:AUTH_MICHAR ,
+                         kh:AUTH_YIZHUA ;
              foaf:name "University College London"@en .
 
 
@@ -16795,6 +16613,9 @@ kh:ORG_00105 rdf:type owl:NamedIndividual ,
 kh:ORG_00106 rdf:type owl:NamedIndividual ,
                       foaf:Organization ;
              dct:spatial kh:NewZealand ;
+             foaf:member kh:AUTH_ASSHAM ,
+                         kh:AUTH_JOTUNN ,
+                         kh:AUTH_KOCHIM ;
              foaf:name "University of Auckland"@en .
 
 
@@ -16802,6 +16623,7 @@ kh:ORG_00106 rdf:type owl:NamedIndividual ,
 kh:ORG_00107 rdf:type owl:NamedIndividual ,
                       foaf:Organization ;
              dct:spatial kh:Canada ;
+             foaf:member kh:AUTH_SAKLAS ;
              foaf:name "University of British Columbia"@en .
 
 
@@ -16809,6 +16631,10 @@ kh:ORG_00107 rdf:type owl:NamedIndividual ,
 kh:ORG_00108 rdf:type owl:NamedIndividual ,
                       foaf:Organization ;
              dct:spatial kh:UnitedStatesofAmerica ;
+             foaf:member kh:AUTH_CHFISC ,
+                         kh:AUTH_FECARO ,
+                         kh:AUTH_MAPOLK ,
+                         kh:AUTH_PIHENG ;
              foaf:name "University of California"@en .
 
 
@@ -16816,6 +16642,13 @@ kh:ORG_00108 rdf:type owl:NamedIndividual ,
 kh:ORG_00109 rdf:type owl:NamedIndividual ,
                       foaf:Organization ;
              dct:spatial kh:Germany ;
+             foaf:member kh:AUTH_ARKIES ,
+                         kh:AUTH_ESLEIS ,
+                         kh:AUTH_HALEIS ,
+                         kh:AUTH_RAKLEI ,
+                         kh:AUTH_ROFUCH ,
+                         kh:AUTH_ROREUC ,
+                         kh:AUTH_SURUNK ;
              foaf:name "University of Cologne"@en .
 
 
@@ -16823,6 +16656,7 @@ kh:ORG_00109 rdf:type owl:NamedIndividual ,
 kh:ORG_00110 rdf:type owl:NamedIndividual ,
                       foaf:Organization ;
              dct:spatial kh:UnitedStatesofAmerica ;
+             foaf:member kh:AUTH_SCORTM ;
              foaf:name "University of Colorado Boulder"@en .
 
 
@@ -16830,6 +16664,7 @@ kh:ORG_00110 rdf:type owl:NamedIndividual ,
 kh:ORG_00111 rdf:type owl:NamedIndividual ,
                       foaf:Organization ;
              dct:spatial kh:Denmark ;
+             foaf:member kh:AUTH_YOTANA ;
              foaf:name "University of Copenhagen"@en .
 
 
@@ -16837,6 +16672,10 @@ kh:ORG_00111 rdf:type owl:NamedIndividual ,
 kh:ORG_00112 rdf:type owl:NamedIndividual ,
                       foaf:Organization ;
              dct:spatial kh:Germany ;
+             foaf:member kh:AUTH_ESLEIS ,
+                         kh:AUTH_HALEIS ,
+                         kh:AUTH_HESIED ,
+                         kh:AUTH_STPFEF ;
              foaf:name "University of Dresden"@en .
 
 
@@ -16844,6 +16683,9 @@ kh:ORG_00112 rdf:type owl:NamedIndividual ,
 kh:ORG_00113 rdf:type owl:NamedIndividual ,
                       foaf:Organization ;
              dct:spatial kh:UnitedStatesofAmerica ;
+             foaf:member kh:AUTH_ANGAUG ,
+                         kh:AUTH_JASOUT ,
+                         kh:AUTH_MIBINF ;
              foaf:name "University of Florida"@en .
 
 
@@ -16851,6 +16693,7 @@ kh:ORG_00113 rdf:type owl:NamedIndividual ,
 kh:ORG_00114 rdf:type owl:NamedIndividual ,
                       foaf:Organization ;
              dct:spatial kh:Germany ;
+             foaf:member kh:AUTH_JOKAMM ;
              foaf:name "University of Freiburg"@en .
 
 
@@ -16858,6 +16701,8 @@ kh:ORG_00114 rdf:type owl:NamedIndividual ,
 kh:ORG_00115 rdf:type owl:NamedIndividual ,
                       foaf:Organization ;
              dct:spatial kh:Switzerland ;
+             foaf:member kh:AUTH_ALCHEC ,
+                         kh:AUTH_UESALZ ;
              foaf:name "University of Geneva"@en .
 
 
@@ -16865,6 +16710,10 @@ kh:ORG_00115 rdf:type owl:NamedIndividual ,
 kh:ORG_00116 rdf:type owl:NamedIndividual ,
                       foaf:Organization ;
              dct:spatial kh:UnitedKingdom ;
+             foaf:member kh:AUTH_ESSALI ,
+                         kh:AUTH_PABISH ,
+                         kh:AUTH_SIMACK ,
+                         kh:AUTH_TEDAVI ;
              foaf:name "University of Glasgow"@en .
 
 
@@ -16872,6 +16721,9 @@ kh:ORG_00116 rdf:type owl:NamedIndividual ,
 kh:ORG_00117 rdf:type owl:NamedIndividual ,
                       foaf:Organization ;
              dct:spatial kh:Sweden ;
+             foaf:member kh:AUTH_KAGABE ,
+                         kh:AUTH_MIBAAZ ,
+                         kh:AUTH_MOLILJ ;
              foaf:name "University of Gothenburg"@en .
 
 
@@ -16879,6 +16731,11 @@ kh:ORG_00117 rdf:type owl:NamedIndividual ,
 kh:ORG_00118 rdf:type owl:NamedIndividual ,
                       foaf:Organization ;
              dct:spatial kh:Sweden ;
+             foaf:member kh:AUTH_ANHOFF ,
+                         kh:AUTH_BRSCHA ,
+                         kh:AUTH_CHGROS ,
+                         kh:AUTH_SISIEG ,
+                         kh:AUTH_WAWEDE ;
              foaf:name "University of Gottingen"@en .
 
 
@@ -16886,6 +16743,8 @@ kh:ORG_00118 rdf:type owl:NamedIndividual ,
 kh:ORG_00119 rdf:type owl:NamedIndividual ,
                       foaf:Organization ;
              dct:spatial kh:UnitedStatesofAmerica ;
+             foaf:member kh:AUTH_MISTAR ,
+                         kh:AUTH_PIHENG ;
              foaf:name "University of Hawaii"@en .
 
 
@@ -16893,6 +16752,7 @@ kh:ORG_00119 rdf:type owl:NamedIndividual ,
 kh:ORG_00120 rdf:type owl:NamedIndividual ,
                       foaf:Organization ;
              dct:spatial kh:Germany ;
+             foaf:member kh:AUTH_MIFALS ;
              foaf:name "University of Heidelberg"@en .
 
 
@@ -16900,6 +16760,16 @@ kh:ORG_00120 rdf:type owl:NamedIndividual ,
 kh:ORG_00121 rdf:type owl:NamedIndividual ,
                       foaf:Organization ;
              dct:spatial kh:China ;
+             foaf:member kh:AUTH_HULI ,
+                         kh:AUTH_JIGU ,
+                         kh:AUTH_JILI ,
+                         kh:AUTH_MADENG ,
+                         kh:AUTH_QIGE ,
+                         kh:AUTH_THWARS ,
+                         kh:AUTH_WELAN ,
+                         kh:AUTH_XIDING ,
+                         kh:AUTH_XILIU ,
+                         kh:AUTH_YILI ;
              foaf:name "University of Hong Kong"@en .
 
 
@@ -16907,6 +16777,8 @@ kh:ORG_00121 rdf:type owl:NamedIndividual ,
 kh:ORG_00122 rdf:type owl:NamedIndividual ,
                       foaf:Organization ;
              dct:spatial kh:UnitedStatesofAmerica ;
+             foaf:member kh:AUTH_HESILV ,
+                         kh:AUTH_MIHEND ;
              foaf:name "University of Illinois"@en .
 
 
@@ -16914,6 +16786,8 @@ kh:ORG_00122 rdf:type owl:NamedIndividual ,
 kh:ORG_00123 rdf:type owl:NamedIndividual ,
                       foaf:Organization ;
              dct:spatial kh:UnitedKingdom ;
+             foaf:member kh:AUTH_PESHAR ,
+                         kh:AUTH_STWHIT ;
              foaf:name "University of London"@en .
 
 
@@ -16928,6 +16802,8 @@ kh:ORG_00124 rdf:type owl:NamedIndividual ,
 kh:ORG_00125 rdf:type owl:NamedIndividual ,
                       foaf:Organization ;
              dct:spatial kh:UnitedStatesofAmerica ;
+             foaf:member kh:AUTH_JOCIOR ,
+                         kh:AUTH_VILIEB ;
              foaf:name "University of Michigan"@en .
 
 
@@ -16935,6 +16811,10 @@ kh:ORG_00125 rdf:type owl:NamedIndividual ,
 kh:ORG_00126 rdf:type owl:NamedIndividual ,
                       foaf:Organization ;
              dct:spatial kh:Germany ;
+             foaf:member kh:AUTH_AABUFE ,
+                         kh:AUTH_FADELLE ,
+                         kh:AUTH_IUSLEP ,
+                         kh:AUTH_MEKALI ;
              foaf:name "University of Munich"@en .
 
 
@@ -16942,6 +16822,8 @@ kh:ORG_00126 rdf:type owl:NamedIndividual ,
 kh:ORG_00127 rdf:type owl:NamedIndividual ,
                       foaf:Organization ;
              dct:spatial kh:Australia ;
+             foaf:member kh:AUTH_GAMARR ,
+                         kh:AUTH_PEGRAV ;
              foaf:name "University of New England"@en .
 
 
@@ -16949,6 +16831,8 @@ kh:ORG_00127 rdf:type owl:NamedIndividual ,
 kh:ORG_00128 rdf:type owl:NamedIndividual ,
                       foaf:Organization ;
              dct:spatial kh:Australia ;
+             foaf:member kh:AUTH_ANMILN ,
+                         kh:AUTH_IATAPL ;
              foaf:name "University of New South Wales Sydney"@en .
 
 
@@ -16956,6 +16840,7 @@ kh:ORG_00128 rdf:type owl:NamedIndividual ,
 kh:ORG_00129 rdf:type owl:NamedIndividual ,
                       foaf:Organization ;
              dct:spatial kh:Cambodia ;
+             foaf:member kh:AUTH_ALCART ;
              foaf:name "University of Oregon"@en .
 
 
@@ -16963,6 +16848,10 @@ kh:ORG_00129 rdf:type owl:NamedIndividual ,
 kh:ORG_00130 rdf:type owl:NamedIndividual ,
                       foaf:Organization ;
              dct:spatial kh:NewZealand ;
+             foaf:member kh:AUTH_CHHIGH ,
+                         kh:AUTH_HABUCK ,
+                         kh:AUTH_HACAWT ,
+                         kh:AUTH_RATHOS ;
              foaf:name "University of Otago"@en .
 
 
@@ -16970,6 +16859,7 @@ kh:ORG_00130 rdf:type owl:NamedIndividual ,
 kh:ORG_00131 rdf:type owl:NamedIndividual ,
                       foaf:Organization ;
              dct:spatial kh:Canada ;
+             foaf:member kh:AUTH_ANBUSS ;
              foaf:name "University of Ottawa"@en .
 
 
@@ -16977,6 +16867,7 @@ kh:ORG_00131 rdf:type owl:NamedIndividual ,
 kh:ORG_00132 rdf:type owl:NamedIndividual ,
                       foaf:Organization ;
              dct:spatial kh:UnitedStatesofAmerica ;
+             foaf:member kh:AUTH_MILEAD ;
              foaf:name "University of Oxford"@en .
 
 
@@ -16984,6 +16875,7 @@ kh:ORG_00132 rdf:type owl:NamedIndividual ,
 kh:ORG_00133 rdf:type owl:NamedIndividual ,
                       foaf:Organization ;
              dct:spatial kh:Germany ;
+             foaf:member kh:AUTH_JEFOHL ;
              foaf:name "University of Potsdam"@en .
 
 
@@ -16991,6 +16883,7 @@ kh:ORG_00133 rdf:type owl:NamedIndividual ,
 kh:ORG_00134 rdf:type owl:NamedIndividual ,
                       foaf:Organization ;
              dct:spatial kh:Australia ;
+             foaf:member kh:AUTH_MIBARB ;
              foaf:name "University of Queensland"@en .
 
 
@@ -16998,6 +16891,9 @@ kh:ORG_00134 rdf:type owl:NamedIndividual ,
 kh:ORG_00135 rdf:type owl:NamedIndividual ,
                       foaf:Organization ;
              dct:spatial kh:Singapore ;
+             foaf:member kh:AUTH_HAPHAN ,
+                         kh:AUTH_SICHES ,
+                         kh:AUTH_VIKATT ;
              foaf:name "University of Singapore"@en .
 
 
@@ -17005,6 +16901,24 @@ kh:ORG_00135 rdf:type owl:NamedIndividual ,
 kh:ORG_00136 rdf:type owl:NamedIndividual ,
                       foaf:Organization ;
              dct:spatial kh:Australia ;
+             foaf:member kh:AUTH_CHPOTT ,
+                         kh:AUTH_DAEVAN ,
+                         kh:AUTH_DAPENN ,
+                         kh:AUTH_DATANG ,
+                         kh:AUTH_DOOREI ,
+                         kh:AUTH_EILUST ,
+                         kh:AUTH_ELBRUC ,
+                         kh:AUTH_GIGREE ,
+                         kh:AUTH_JOGILL ,
+                         kh:AUTH_MAPOLK ,
+                         kh:AUTH_MIBARB ,
+                         kh:AUTH_MIHEND ,
+                         kh:AUTH_NGRICH ,
+                         kh:AUTH_RIMURP ,
+                         kh:AUTH_ROFLET ,
+                         kh:AUTH_TEHALL ,
+                         kh:AUTH_TELUST ,
+                         kh:AUTH_TIWINT ;
              foaf:name "University of Sydney"@en .
 
 
@@ -17012,6 +16926,29 @@ kh:ORG_00136 rdf:type owl:NamedIndividual ,
 kh:ORG_00137 rdf:type owl:NamedIndividual ,
                       foaf:Organization ;
              dct:spatial kh:Japan ;
+             foaf:member kh:AUTH_ATBANN ,
+                         kh:AUTH_BOZHEN ,
+                         kh:AUTH_HIIKUT ,
+                         kh:AUTH_ICSHIM ,
+                         kh:AUTH_KAIKEU ,
+                         kh:AUTH_KAMOGI ,
+                         kh:AUTH_KASEZA ,
+                         kh:AUTH_KONAKA ,
+                         kh:AUTH_MAKAGE ,
+                         kh:AUTH_MAKAMA ,
+                         kh:AUTH_MIFUKU ,
+                         kh:AUTH_NANAGU ,
+                         kh:AUTH_NAYAMA ,
+                         kh:AUTH_TAMASU ,
+                         kh:AUTH_TANAKA2 ,
+                         kh:AUTH_TAOISH ,
+                         kh:AUTH_TOSUGA ,
+                         kh:AUTH_TOTOKU ,
+                         kh:AUTH_YAAKAZ ,
+                         kh:AUTH_YOIWAS ,
+                         kh:AUTH_YOKATA ,
+                         kh:AUTH_YOSATO ,
+                         kh:AUTH_YOSUGI ;
              foaf:name "University of Tokyo"@en .
 
 
@@ -17019,6 +16956,10 @@ kh:ORG_00137 rdf:type owl:NamedIndividual ,
 kh:ORG_00138 rdf:type owl:NamedIndividual ,
                       foaf:Organization ;
              dct:spatial kh:Canada ;
+             foaf:member kh:AUTH_AAGLAS ,
+                         kh:AUTH_EDSWEN ,
+                         kh:AUTH_RUHAYH ,
+                         kh:AUTH_SAKLAS ;
              foaf:name "University of Toronto"@en .
 
 
@@ -17026,6 +16967,7 @@ kh:ORG_00138 rdf:type owl:NamedIndividual ,
 kh:ORG_00139 rdf:type owl:NamedIndividual ,
                       foaf:Organization ;
              dct:spatial kh:Japan ;
+             foaf:member kh:AUTH_ICSHIM ;
              foaf:name "University of Tsukuba"@en .
 
 
@@ -17033,6 +16975,7 @@ kh:ORG_00139 rdf:type owl:NamedIndividual ,
 kh:ORG_00140 rdf:type owl:NamedIndividual ,
                       foaf:Organization ;
              dct:spatial kh:UnitedStatesofAmerica ;
+             foaf:member kh:AUTH_PECUAS ;
              foaf:name "University of Washington"@en .
 
 
@@ -17040,6 +16983,7 @@ kh:ORG_00140 rdf:type owl:NamedIndividual ,
 kh:ORG_00141 rdf:type owl:NamedIndividual ,
                       foaf:Organization ;
              dct:spatial kh:Australia ;
+             foaf:member kh:AUTH_KEGERA ;
              foaf:name "University of Western Australia"@en .
 
 
@@ -17047,6 +16991,7 @@ kh:ORG_00141 rdf:type owl:NamedIndividual ,
 kh:ORG_00142 rdf:type owl:NamedIndividual ,
                       foaf:Organization ;
              dct:spatial kh:UnitedStatesofAmerica ;
+             foaf:member kh:AUTH_TAEASU ;
              foaf:name "University of Wisconsin"@en .
 
 
@@ -17054,6 +16999,7 @@ kh:ORG_00142 rdf:type owl:NamedIndividual ,
 kh:ORG_00143 rdf:type owl:NamedIndividual ,
                       foaf:Organization ;
              dct:spatial kh:Australia ;
+             foaf:member kh:AUTH_SOBUCK ;
              foaf:name "University of Wollongong"@en .
 
 
@@ -17068,6 +17014,7 @@ kh:ORG_00144 rdf:type owl:NamedIndividual ,
 kh:ORG_00145 rdf:type owl:NamedIndividual ,
                       foaf:Organization ;
              dct:spatial kh:UnitedStatesofAmerica ;
+             foaf:member kh:AUTH_SHWANG ;
              foaf:name "Utah State University"@en .
 
 
@@ -17075,6 +17022,11 @@ kh:ORG_00145 rdf:type owl:NamedIndividual ,
 kh:ORG_00146 rdf:type owl:NamedIndividual ,
                       foaf:Organization ;
              dct:spatial kh:Australia ;
+             foaf:member kh:AUTH_DACHAN ,
+                         kh:AUTH_HEGRUN ,
+                         kh:AUTH_NAMAO ,
+                         kh:AUTH_SIMACK ,
+                         kh:AUTH_TEDELA ;
              foaf:name "Victoria University"@en .
 
 
@@ -17082,6 +17034,40 @@ kh:ORG_00146 rdf:type owl:NamedIndividual ,
 kh:ORG_00147 rdf:type owl:NamedIndividual ,
                       foaf:Organization ;
              dct:spatial kh:Japan ;
+             foaf:member kh:AUTH_AKMIZO ,
+                         kh:AUTH_AOMIZU ,
+                         kh:AUTH_CHMENG ,
+                         kh:AUTH_ETUCHI ,
+                         kh:AUTH_HISATO ,
+                         kh:AUTH_ICSHIM ,
+                         kh:AUTH_KAKURI ,
+                         kh:AUTH_KASATO ,
+                         kh:AUTH_KEITO ,
+                         kh:AUTH_KEMIUR ,
+                         kh:AUTH_KOTSUD ,
+                         kh:AUTH_LUDU ,
+                         kh:AUTH_MAARAY ,
+                         kh:AUTH_MAKOIW ,
+                         kh:AUTH_MIFUKU ,
+                         kh:AUTH_NANAGU ,
+                         kh:AUTH_NOSHIM ,
+                         kh:AUTH_OLCUNI ,
+                         kh:AUTH_RYWATA ,
+                         kh:AUTH_SASHIM ,
+                         kh:AUTH_SATACH ,
+                         kh:AUTH_SHSAKU ,
+                         kh:AUTH_SHYAMA ,
+                         kh:AUTH_SUKUBO ,
+                         kh:AUTH_TANAKA ,
+                         kh:AUTH_TOHIRA ,
+                         kh:AUTH_TOMAED ,
+                         kh:AUTH_TOSUGA ,
+                         kh:AUTH_YAAKAZ ,
+                         kh:AUTH_YOIWAS ,
+                         kh:AUTH_YOKOBA ,
+                         kh:AUTH_YOSUGI ,
+                         kh:AUTH_YULU ,
+                         kh:AUTH_YUTAKU ;
              foaf:name "Waseda University"@en .
 
 
@@ -17089,6 +17075,7 @@ kh:ORG_00147 rdf:type owl:NamedIndividual ,
 kh:ORG_00148 rdf:type owl:NamedIndividual ,
                       foaf:Organization ;
              dct:spatial kh:UnitedStatesofAmerica ;
+             foaf:member kh:AUTH_SHSTRA ;
              foaf:name "Wayne State College"@en .
 
 
@@ -17096,6 +17083,7 @@ kh:ORG_00148 rdf:type owl:NamedIndividual ,
 kh:ORG_00149 rdf:type owl:NamedIndividual ,
                       foaf:Organization ;
              dct:spatial kh:UnitedStatesofAmerica ;
+             foaf:member kh:AUTH_GLBOOR ;
              foaf:name "World Monuments Fund"@en .
 
 
@@ -17103,6 +17091,7 @@ kh:ORG_00149 rdf:type owl:NamedIndividual ,
 kh:ORG_00150 rdf:type owl:NamedIndividual ,
                       foaf:Organization ;
              dct:spatial kh:SouthKorea ;
+             foaf:member kh:AUTH_SALEE ;
              foaf:name "Yonsei University"@en .
 
 
@@ -17110,6 +17099,8 @@ kh:ORG_00150 rdf:type owl:NamedIndividual ,
 kh:ORG_00151 rdf:type owl:NamedIndividual ,
                       foaf:Organization ;
              dct:spatial kh:Israel ;
+             foaf:member kh:AUTH_ARZELL ,
+                         kh:AUTH_DABROW ;
              foaf:name "Bar Ilan University"@en .
 
 
@@ -17124,7 +17115,8 @@ kh:ORG_00152 rdf:type owl:NamedIndividual ,
 kh:ORG_00153 rdf:type owl:NamedIndividual ,
                       foaf:Organization ;
              dct:spatial kh:Hungary ;
-             foaf:member kh:ORG_00001 ;
+             foaf:member kh:AUTH_JAJELE ,
+                         kh:ORG_00001 ;
              foaf:name "Hungarian Southeast Asian Research Institute"@en .
 
 
@@ -17146,6 +17138,7 @@ kh:ORG_00155 rdf:type owl:NamedIndividual ,
 kh:ORG_00156 rdf:type owl:NamedIndividual ,
                       foaf:Organization ;
              dct:spatial kh:Italy ;
+             foaf:member kh:AUTH_SIWARR ;
              foaf:name "ICCROM - Italy" .
 
 
@@ -17153,6 +17146,7 @@ kh:ORG_00156 rdf:type owl:NamedIndividual ,
 kh:ORG_00157 rdf:type owl:NamedIndividual ,
                       foaf:Organization ;
              dct:spatial kh:Germany ;
+             foaf:member kh:AUTH_THMAXW ;
              foaf:name "University of Bonn"@en .
 
 
@@ -17160,6 +17154,7 @@ kh:ORG_00157 rdf:type owl:NamedIndividual ,
 kh:ORG_00158 rdf:type owl:NamedIndividual ,
                       foaf:Organization ;
              dct:spatial kh:Hungary ;
+             foaf:member kh:AUTH_JAJELE ;
              foaf:name "Royal Angkor Foundation"@en .
 
 
@@ -17181,6 +17176,7 @@ kh:ORG_00160 rdf:type owl:NamedIndividual ,
 kh:ORG_00161 rdf:type owl:NamedIndividual ,
                       foaf:Organization ;
              dct:spatial kh:China ;
+             foaf:member kh:AUTH_ZHYE ;
              foaf:name "China Academy for Cultural Heritage"@en .
 
 
@@ -17188,6 +17184,8 @@ kh:ORG_00161 rdf:type owl:NamedIndividual ,
 kh:ORG_00162 rdf:type owl:NamedIndividual ,
                       foaf:Organization ;
              dct:spatial kh:India ;
+             foaf:member kh:AUTH_DEKHOB ,
+                         kh:AUTH_SISOOD ;
              foaf:name "Archaeological Survey of India"@en .
 
 
@@ -17694,6 +17692,15 @@ kh:PUB_00007 rdf:type owl:NamedIndividual ,
 kh:PUB_00008 rdf:type owl:NamedIndividual ,
                       bibo:Proceedings ;
              dct:accessRights coar:c_16ec ;
+             dct:creator kh:AUTH_BOZHEN ,
+                         kh:AUTH_HIIKUT ,
+                         kh:AUTH_KAIKEU ,
+                         kh:AUTH_KASEZA ,
+                         kh:AUTH_MAKAGE ,
+                         kh:AUTH_MAKAMA ,
+                         kh:AUTH_TANAKA ,
+                         kh:AUTH_TAOISH ,
+                         kh:AUTH_YOSATO ;
              dct:language <http://id.loc.gov/vocabulary/iso639-2/eng> ;
              dct:publisher kh:PBSH_00006 ;
              dct:subject <http://vocab.getty.edu/aat/300054388> ,
@@ -17744,6 +17751,7 @@ kh:PUB_00009 rdf:type owl:NamedIndividual ,
 kh:PUB_00010 rdf:type owl:NamedIndividual ,
                       bibo:Proceedings ;
              dct:accessRights coar:c_16ec ;
+             dct:creator kh:AUTH_DAEVAN ;
              dct:language <http://id.loc.gov/vocabulary/iso639-2/eng> ;
              dct:publisher kh:PBSH_00008 ;
              dct:subject <http://vocab.getty.edu/aat/300054328> ,
@@ -20204,6 +20212,8 @@ kh:PUB_00114 rdf:type owl:NamedIndividual ,
 kh:PUB_00115 rdf:type owl:NamedIndividual ,
                       bibo:Proceedings ;
              dct:accessRights coar:c_abf2 ;
+             dct:creator kh:AUTH_CHMENG ,
+                         kh:AUTH_TANAKA ;
              dct:language <http://id.loc.gov/vocabulary/iso639-2/eng> ;
              dct:publisher kh:PBSH_00032 ;
              dct:subject <http://vocab.getty.edu/aat/300054328> ,
@@ -21463,6 +21473,8 @@ kh:PUB_00167 rdf:type owl:NamedIndividual ,
 kh:PUB_00168 rdf:type owl:NamedIndividual ,
                       bibo:Proceedings ;
              dct:accessRights coar:c_16ec ;
+             dct:creator kh:AUTH_NANAGU ,
+                         kh:AUTH_TOSUGA ;
              dct:language <http://id.loc.gov/vocabulary/iso639-2/jpn> ;
              dct:publisher kh:PBSH_00036 ;
              dct:subject <http://vocab.getty.edu/aat/300054328> ,
@@ -25698,7 +25710,6 @@ kh:SITE_00171 rdf:type owl:NamedIndividual ,
               skos:altLabel "West Baray" ,
                             "Western Baray" .
 
-
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/SITE_00172
 kh:SITE_00172 rdf:type owl:NamedIndividual ,
                        crm:E27_Site ;
@@ -25706,6 +25717,27 @@ kh:SITE_00172 rdf:type owl:NamedIndividual ,
               crm:P156_occupies kh:NokorThom ;
               crm:P2_has_type <http://vocab.getty.edu/aat/300006191> ;
               crm:P44_has_condition kh:STATUS_00172 ;
+              crm:P45_consists_of <http://vocab.getty.edu/aat/300014334> ,
+                                  <http://vocab.getty.edu/aat/300404382> ;
+              crm:P46i_forms_part_of kh:UNESCO_01 ;
+              rdfs:label "Veal Reach Dak"@en ,
+                         "វាលរាជដាក"@km ;
+              wgs84:lat 13.46352 ;
+              wgs84:long 103.90575 ;
+              skos:altLabel "Baray Jayatataka" ,
+                            " Kutitataka" ,
+                            "Baray Neak Pean" .
+
+
+
+
+###  http://www.semanticweb.org/ontologies/2026/khmerLOD/SITE_00173
+kh:SITE_00173 rdf:type owl:NamedIndividual ,
+                       crm:E27_Site ;
+              crm:P103_was_intended_for unesco:concept2347 ;
+              crm:P156_occupies kh:NokorThom ;
+              crm:P2_has_type <http://vocab.getty.edu/aat/300006191> ;
+              crm:P44_has_condition kh:STATUS_00173 ;
               crm:P45_consists_of <http://vocab.getty.edu/aat/300014334> ,
                                   <http://vocab.getty.edu/aat/300404382> ;
               crm:P46i_forms_part_of kh:UNESCO_01 ;
@@ -25717,11 +25749,6 @@ kh:SITE_00172 rdf:type owl:NamedIndividual ,
                         13.46352 ;
               wgs84:long 103.90575 ,
                          103.97861 .
-
-
-###  http://www.semanticweb.org/ontologies/2026/khmerLOD/SITE_00173
-kh:SITE_00173 rdf:type owl:NamedIndividual ,
-                       crm:E27_Site .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/STATUS_00001
@@ -26909,18 +26936,27 @@ kh:STATUS_00169 rdf:type owl:NamedIndividual ,
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/STATUS_00170
 kh:STATUS_00170 rdf:type owl:NamedIndividual ,
-                         crm:E3_Condition_State .
-
+                         crm:E3_Condition_State ;
+                crm:P2_has_type kh:Good ;
+                rdfs:label "Status Thnal Baray" .
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/STATUS_00171
 kh:STATUS_00171 rdf:type owl:NamedIndividual ,
-                         crm:E3_Condition_State .
-
+                         crm:E3_Condition_State ;
+                crm:P2_has_type kh:Good ;
+                rdfs:label "Status Toek Thla Baray " .
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/STATUS_00172
 kh:STATUS_00172 rdf:type owl:NamedIndividual ,
-                         crm:E3_Condition_State .
+                         crm:E3_Condition_State ;
+                crm:P2_has_type kh:Good ;
+                rdfs:label "Status Veal Reach Dak" .
 
+###  http://www.semanticweb.org/ontologies/2026/khmerLOD/STATUS_00173
+kh:STATUS_00173 rdf:type owl:NamedIndividual ,
+                         crm:E3_Condition_State ;
+                crm:P2_has_type kh:Ruin ;
+                rdfs:label "Status Indratataka Baray" .
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/Sambor
 kh:Sambor rdf:type owl:NamedIndividual ,
