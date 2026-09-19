@@ -348,8 +348,8 @@ skos:inScheme rdf:type owl:ObjectProperty .
 
 ###  http://xmlns.com/foaf/0.1/member
 foaf:member rdf:type owl:ObjectProperty ;
-            rdfs:domain foaf:Person ;
-            rdfs:range foaf:Organization .
+            rdfs:domain foaf:Organization ;
+            rdfs:range foaf:Person .
 
 
 #################################################################
@@ -9953,7 +9953,7 @@ kh:KING_INDR_III rdf:type owl:NamedIndividual ,
 kh:KING_ISAN_I rdf:type owl:NamedIndividual ,
                         foaf:Person ;
                owl:sameAs wd:Q130771 ;
-               foaf:name "Isanavarman II" .
+               foaf:name "Isanavarman I" .
 
 
 ###  http://www.wikidata.org/entity/Q130771
@@ -9962,7 +9962,7 @@ kh:KING_ISAN_I rdf:type owl:NamedIndividual ,
 kh:KING_ISAN_II rdf:type owl:NamedIndividual ,
                          foaf:Person ;
                 owl:sameAs wd:Q4205535 ;
-                foaf:name "Isanavarman I" .
+                foaf:name "Isanavarman II" .
 
 
 ###  http://www.wikidata.org/entity/Q4205535
@@ -10016,7 +10016,7 @@ kh:KING_JAYA_IV rdf:type owl:NamedIndividual ,
 kh:KING_JAYA_IX rdf:type owl:NamedIndividual ,
                          foaf:Person ;
                 owl:sameAs wd:Q3163289 ;
-                foaf:name "Jayavarman VIII" .
+                foaf:name "Jayavarman IX" .
 
 
 ###  http://www.wikidata.org/entity/Q3163289
@@ -10070,7 +10070,7 @@ kh:KING_RAJE_II rdf:type owl:NamedIndividual ,
 kh:KING_SURY_I rdf:type owl:NamedIndividual ,
                         foaf:Person ;
                owl:sameAs wd:Q313298 ;
-               foaf:name "Suryavarman II" .
+               foaf:name "Suryavarman I" .
 
 
 ###  http://www.wikidata.org/entity/Q313298
@@ -10079,7 +10079,7 @@ kh:KING_SURY_I rdf:type owl:NamedIndividual ,
 kh:KING_SURY_II rdf:type owl:NamedIndividual ,
                          foaf:Person ;
                 owl:sameAs wd:Q501356 ;
-                foaf:name "Suryavarman I" .
+                foaf:name "Suryavarman II" .
 
 
 ###  http://www.wikidata.org/entity/Q501356
@@ -10097,7 +10097,7 @@ kh:KING_TRIB rdf:type owl:NamedIndividual ,
 kh:KING_UDAY_I rdf:type owl:NamedIndividual ,
                         foaf:Person ;
                owl:sameAs wd:Q130806 ;
-               foaf:name "Udayadityavarman II" .
+               foaf:name "Udayadityavarman I" .
 
 
 ###  http://www.wikidata.org/entity/Q130806
@@ -10106,7 +10106,7 @@ kh:KING_UDAY_I rdf:type owl:NamedIndividual ,
 kh:KING_UDAY_II rdf:type owl:NamedIndividual ,
                          foaf:Person ;
                 owl:sameAs wd:Q130264 ;
-                foaf:name "Udayadityavarman I" .
+                foaf:name "Udayadityavarman II" .
 
 
 ###  http://www.wikidata.org/entity/Q130264
@@ -27183,7 +27183,7 @@ kh:TSOB_00009 rdf:type owl:NamedIndividual ,
                        crm:E52_Time-Span ;
               schema:endDate "1295"^^xsd:gYear ;
               schema:startDate "1243"^^xsd:gYear ;
-              crm:P82_at_some_time_within "Early 13th century"@en .
+              crm:P82_at_some_time_within "13th century"@en .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/TSOB_00010
