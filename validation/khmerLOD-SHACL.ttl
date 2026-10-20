@@ -74,22 +74,9 @@ kh-sh:Site_TypeLocation
 
 # 07 All non-umbrella sites must belong to one of the four UNESCO properties.
 # The four UNESCO umbrella records are excluded because they are the parent entities.
-kh-sh:Site_ToUnesco
-    rdf:type sh:NodeShape ;
-  sh:target kh-sh:NonUmbrellaSite ;
-  sh:property [
-    sh:path crm:P46i_forms_part_of ;
-    sh:minCount 1 ;
-    sh:maxCount 1 ;
-    sh:in ( kh:UNESCO_01 kh:UNESCO_02 kh:UNESCO_03 kh:UNESCO_04 ) ;
-    sh:message "07: Site must belong to one of the four UNESCO properties." ;
-  ] .
-
 ex:SiteToUnesco
     rdf:type sh:NodeShape ;
     sh:targetClass crm:E27_Site ;
- 
-# (IV) All sites must belong to one UNESCO property   
     sh:property [
         sh:path crm:P46i_forms_part_of ;
         sh:or (
@@ -101,18 +88,18 @@ ex:SiteToUnesco
         ) ;
     ] .
 
-# 07 Condition state: needs a type from the controlled vocabulary + a label
+# 08 Condition state: needs a type from the controlled vocabulary + a label
 kh-sh:Condition_State
     rdf:type sh:NodeShape ; sh:targetClass crm:E3_Condition_State ;
   sh:property [ sh:path crm:P2_has_type ; sh:minCount 1 ; sh:maxCount 1 ; sh:nodeKind sh:IRI ;
-    sh:message "07: Condition state needs exactly one P2_has_type." ] ;
+    sh:message "08: Condition state needs exactly one P2_has_type." ] ;
   sh:property [ sh:path rdfs:label ; sh:minCount 1 ;
-    sh:message "07: Condition state needs a label." ] .
+    sh:message "08: Condition state needs a label." ] .
 
 
 ############ PLACES (E53) ############
 
-# 08 Place: validate labels only for locally described KhmerLOD places.
+# 09 Place: validate labels only for locally described KhmerLOD places.
 # External controlled-vocabulary/alignment URIs (e.g. GeoNames) are not required
 # to duplicate labels from the external source in this dataset.
 kh-sh:LocalPlaceTarget a sh:SPARQLTarget ;
@@ -132,26 +119,26 @@ kh-sh:Place
 
 ############ PRODUCTION & TIME (E12, E52) ############
 
-# 09 Production: one time-span, correctly typed
+# 10 Production: one time-span, correctly typed
 kh-sh:Production_TimeSpan
     rdf:type sh:NodeShape ; sh:targetClass crm:E12_Production ;
   sh:property [ sh:path crm:P4_has_time-span ; sh:minCount 1 ; sh:maxCount 1 ; sh:class crm:E52_Time-Span ;
     sh:message "10: Production needs exactly one P4_has_time-span (E52_Time-Span)." ] .
 
-# 10 Production: at least one agent
+# 11 Production: at least one agent
 kh-sh:Production_Agent
     rdf:type sh:NodeShape ; sh:targetClass crm:E12_Production ;
   sh:property [ sh:path crm:P14_carried_out_by ; sh:minCount 1 ; sh:nodeKind sh:IRI ;
     sh:message "11: Production needs at least one P14_carried_out_by." ] .
 
-# 11 Production: located via site OR place
+# 12 Production: located via site OR place
 kh-sh:Production_Location
     rdf:type sh:NodeShape ; sh:targetClass crm:E12_Production ;
   sh:or ( [ sh:path crm:P8_took_place_on_or_within ; sh:minCount 1 ]
           [ sh:path crm:P7_took_place_at ; sh:minCount 1 ] ) ;
   sh:message "12: Production needs P8_took_place_on_or_within or P7_took_place_at." .
 
-# 12 Time-span: startDate is optional but, when present, must be one four-digit year.
+# 13 Time-span: startDate is optional but, when present, must be one four-digit year.
 # endDate is OPTIONAL for ongoing projects; when present, it must be one four-digit year.
 # Validate lexical years with SPARQL to avoid validator-specific xsd:gYear handling.
 kh-sh:TimeSpan_Datatypes
@@ -177,7 +164,7 @@ kh-sh:TimeSpan_Datatypes
       }"""
   ] .
 
-# 13 Time-span: compare dates only when BOTH startDate and endDate exist; ongoing spans without endDate are valid.
+# 14 Time-span: compare dates only when BOTH startDate and endDate exist; ongoing spans without endDate are valid.
 kh-sh:TimeSpan_Order
     rdf:type sh:NodeShape ; sh:targetClass crm:E52_Time-Span ;
   sh:sparql [ a sh:SPARQLConstraint ;
@@ -191,7 +178,7 @@ kh-sh:TimeSpan_Order
         FILTER (xsd:integer(STR(?start)) > xsd:integer(STR(?end)))
       }""" ] .
 
-# 14 Time-span: some temporal information (dates OR textual period)
+# 15 Time-span: some temporal information (dates OR textual period)
 kh-sh:TimeSpan_NotEmpty
     rdf:type sh:NodeShape ; sh:targetClass crm:E52_Time-Span ;
   sh:or ( [ sh:path schema:startDate ; sh:minCount 1 ]
@@ -200,14 +187,14 @@ kh-sh:TimeSpan_NotEmpty
 
 ############ OBJECTS (E22, E36) ############
 
-# 15 Object: core identification
+# 16 Object: core identification
 kh-sh:Object_Core
     rdf:type sh:NodeShape ; sh:targetClass crm:E22_Human-Made_Object ;
   sh:property [ sh:path rdfs:label ; sh:minCount 1 ; sh:message "16: Object needs a label." ] ;
   sh:property [ sh:path crm:P1_is_identified_by ; sh:minCount 1 ; sh:message "16: Object needs an identifier (P1)." ] ;
   sh:property [ sh:path dct:description ; sh:minCount 1 ; sh:minLength 1 ; sh:message "16: Object needs a non-empty description." ] .
 
-# 16 Object: provenance chain (production, keeper, location)
+# 17 Object: provenance chain (production, keeper, location)
 kh-sh:Object_Links
     rdf:type sh:NodeShape ; sh:targetClass crm:E22_Human-Made_Object ;
   sh:property [ sh:path crm:P108i_was_produced_by ; sh:minCount 1 ; sh:class crm:E12_Production ;
@@ -217,7 +204,7 @@ kh-sh:Object_Links
   sh:property [ sh:path crm:P55_has_current_location ; sh:minCount 1 ; sh:nodeKind sh:IRI ;
     sh:message "17: Object needs a current location." ] .
 
-# 17 Object: representation is a Visual Item; type and material present
+# 18 Object: representation is a Visual Item; type and material present
 kh-sh:Object_Representation
     rdf:type sh:NodeShape ; sh:targetClass crm:E22_Human-Made_Object ;
   sh:property [ sh:path crm:P138i_has_representation ; sh:minCount 1 ; sh:class crm:E36_Visual_Item ;
@@ -226,7 +213,7 @@ kh-sh:Object_Representation
   sh:property [ sh:path crm:P45_consists_of ; sh:minCount 1 ; sh:severity sh:Warning ;
     sh:message "18: Object has no material (P45_consists_of)." ] .
 
-# 18 Visual item: image URL is an https?:// anyURI
+# 19 Visual item: image URL is an https?:// anyURI
 kh-sh:VisualItem
     rdf:type sh:NodeShape ; sh:targetClass crm:E36_Visual_Item ;
   sh:property [ sh:path schema:contentUrl ; sh:minCount 1 ; sh:datatype xsd:anyURI ;
@@ -244,9 +231,7 @@ kh-sh:NonStubPublication a sh:SPARQLTarget ;
       FILTER (!CONTAINS(STR(?this), "BOOK_000"))
     }""" .
 
-# Reports and BOOK_0000X title-only stubs do not need dct:subject.
-# Use ordinary SHACL class targets here instead of a custom SPARQL target,
-# and put the exclusion inside the constraint itself.
+# 20 Reports and BOOK_XXXXX title-only stubs do not need dct:subject.
 kh-sh:BookStubPublication a sh:SPARQLTarget ;
   sh:prefixes <http://www.semanticweb.org/ontologies/2026/khmerLOD/shapes/> ;
   sh:select """
@@ -267,19 +252,19 @@ ex:PublicationShape
     rdf:type sh:NodeShape ;
     sh:targetClass bibo:Article, bibo:Report, bibo:Chapter, bibo:Thesis, bibo:Proceedings ;
 
-# (I) Publication must have at least one author   
+# 21 Publication must have at least one author   
     sh:property [
         sh:path dct:creator;
         sh:minCount 1 ;
     ] ;
 
-# (II) Publication must have at least one title
+# 22 Publication must have at least one title
     sh:property [
         sh:path dct:title ;
         sh:minCount 1 ;
     ] ;
  
-# (III) P70_documents values must be Site, Activity, or Object
+# 23 P70_documents values must be Site, Activity, or Object
     sh:property [
         sh:path crm:P70_documents ;
         sh:or (
@@ -290,17 +275,17 @@ ex:PublicationShape
     ] .
 
 
-# 19 Core bibliographic metadata (all publication types)
+# 24 Core bibliographic metadata (all publication types)
 kh-sh:Biblio_Core
     rdf:type sh:NodeShape ;
   sh:target kh-sh:NonStubPublication ;
-  sh:property [ sh:path dct:title ; sh:minCount 1 ; sh:minLength 1 ; sh:message "20: Publication needs a non-empty title." ] ;
-  sh:property [ sh:path dct:creator ; sh:minCount 1 ; sh:class foaf:Person ; sh:message "20: Publication needs at least one dct:creator (foaf:Person)." ] ;
-  sh:property [ sh:path dct:date ; sh:minCount 1 ; sh:maxCount 1 ; sh:datatype xsd:gYear ; sh:message "20: Publication needs exactly one dct:date (xsd:gYear)." ] ;
-  sh:property [ sh:path dct:language ; sh:minCount 1 ; sh:nodeKind sh:IRI ; sh:message "20: Publication needs a dct:language IRI." ] ;
-  sh:property [ sh:path dct:publisher ; sh:minCount 1 ; sh:class foaf:Organization ; sh:message "20: Publication needs a publisher (foaf:Organization)." ] .
+  sh:property [ sh:path dct:title ; sh:minCount 1 ; sh:minLength 1 ; sh:message "24: Publication needs a non-empty title." ] ;
+  sh:property [ sh:path dct:creator ; sh:minCount 1 ; sh:class foaf:Person ; sh:message "24: Publication needs at least one dct:creator (foaf:Person)." ] ;
+  sh:property [ sh:path dct:date ; sh:minCount 1 ; sh:maxCount 1 ; sh:datatype xsd:gYear ; sh:message "24: Publication needs exactly one dct:date (xsd:gYear)." ] ;
+  sh:property [ sh:path dct:language ; sh:minCount 1 ; sh:nodeKind sh:IRI ; sh:message "24: Publication needs a dct:language IRI." ] ;
+  sh:property [ sh:path dct:publisher ; sh:minCount 1 ; sh:class foaf:Organization ; sh:message "24: Publication needs a publisher (foaf:Organization)." ] .
 
-# 20 Publication links to the heritage entity it documents
+# 25 Publication links to the heritage entity it documents
 kh-sh:Biblio_Documents
     rdf:type sh:NodeShape ;
   sh:target kh-sh:NonStubPublication ;
@@ -313,7 +298,7 @@ kh-sh:Biblio_Documents
       [ sh:class crm:E7_Activity ]
       [ sh:class crm:E22_Human-Made_Object ]
     ) ;
-    sh:message "21: Publication must document at least one Site, Activity, or Human-Made Object (P70_documents)." ;
+    sh:message "25: Publication must document at least one Site, Activity, or Human-Made Object (P70_documents)." ;
   ] .
 
 kh-sh:Biblio_Subject
@@ -322,7 +307,7 @@ kh-sh:Biblio_Subject
   sh:sparql [
     a sh:SPARQLConstraint ;
     sh:severity sh:Warning ;
-    sh:message "21: Publication has no dct:subject (not required for reports or BOOK_0000X stubs)." ;
+    sh:message "26: Publication has no dct:subject (not required for reports or BOOK_0000X stubs)." ;
     sh:select """
       PREFIX dct: <http://purl.org/dc/terms/>
       SELECT $this WHERE {
@@ -331,16 +316,16 @@ kh-sh:Biblio_Subject
       }"""
   ] .
 
-# 21 Access rights: exactly one IRI, either a COAR URI directly or a URI
+# 27 Access rights: exactly one IRI, either a COAR URI directly or a URI
 # explicitly aligned to a COAR concept with owl:sameAs. SHACL does not infer
 # owl:sameAs automatically, so the alignment is checked explicitly here.
 kh-sh:Biblio_Access
     rdf:type sh:NodeShape ;
   sh:target kh-sh:NonStubPublication ;
   sh:property [ sh:path dct:accessRights ; sh:minCount 1 ; sh:maxCount 1 ; sh:nodeKind sh:IRI ;
-    sh:message "22: Publication needs exactly one dct:accessRights IRI." ] ;
+    sh:message "27: Publication needs exactly one dct:accessRights IRI." ] ;
   sh:sparql [ a sh:SPARQLConstraint ;
-    sh:message "22: dct:accessRights must be a COAR access-right URI or be linked to one with owl:sameAs." ;
+    sh:message "27: dct:accessRights must be a COAR access-right URI or be linked to one with owl:sameAs." ;
     sh:select """
       PREFIX dct: <http://purl.org/dc/terms/>
       PREFIX owl: <http://www.w3.org/2002/07/owl#>
@@ -363,7 +348,7 @@ kh-sh:Biblio_Access
         }
       }""" ] .
 
-# 22 Identifier and abstract quality
+# 28 Identifier and abstract quality
 # DOI URLs must be literals typed xsd:anyURI. Non-DOI identifiers may be literals
 # (for example ISBNs); resource IRIs are not valid dct:identifier values.
 kh-sh:Biblio_Identifier
@@ -371,7 +356,7 @@ kh-sh:Biblio_Identifier
   sh:target kh-sh:NonStubPublication ;
   sh:sparql [ a sh:SPARQLConstraint ;
     sh:severity sh:Warning ;
-    sh:message "23: DOI identifiers must be DOI URL literals typed xsd:anyURI; non-DOI identifiers must be literals." ;
+    sh:message "28: DOI identifiers must be DOI URL literals typed xsd:anyURI; non-DOI identifiers must be literals." ;
     sh:select """
       PREFIX dct: <http://purl.org/dc/terms/>
       PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
@@ -383,24 +368,24 @@ kh-sh:Biblio_Identifier
         )
       }""" ] ;
   sh:property [ sh:path dct:abstract ; sh:minLength 1 ; sh:severity sh:Warning ;
-    sh:message "23: dct:abstract is present but empty." ] .
+    sh:message "28: dct:abstract is present but empty." ] .
 
-# 23 Article → Issue → Journal hierarchy, with numeric volume/issue
+# 29 Article → Issue → Journal hierarchy, with numeric volume/issue
 kh-sh:Article_Issue
     rdf:type sh:NodeShape ; sh:targetClass bibo:Article ;
   sh:property [ sh:path dct:isPartOf ; sh:minCount 1 ; sh:maxCount 1 ; sh:class bibo:Issue ;
-    sh:message "24: Article must belong to exactly one bibo:Issue." ] .
+    sh:message "29: Article must belong to exactly one bibo:Issue." ] .
 kh-sh:Issue_Journal
     rdf:type sh:NodeShape ; sh:targetClass bibo:Issue ;
   sh:property [ sh:path dct:isPartOf ; sh:minCount 1 ; sh:maxCount 1 ; sh:class bibo:Journal ;
-    sh:message "24: Issue must belong to exactly one bibo:Journal." ] ;
-  sh:property [ sh:path bibo:volume ; sh:datatype xsd:integer ; sh:minInclusive 1 ; sh:message "24: volume must be a positive xsd:integer." ] ;
-  sh:property [ sh:path bibo:issue  ; sh:datatype xsd:integer ; sh:minInclusive 1 ; sh:message "24: issue must be a positive xsd:integer." ] ;
-  sh:property [ sh:path bibo:number ; sh:datatype xsd:integer ; sh:minInclusive 1 ; sh:message "24: number must be a positive xsd:integer." ] .
+    sh:message "29: Issue must belong to exactly one bibo:Journal." ] ;
+  sh:property [ sh:path bibo:volume ; sh:datatype xsd:integer ; sh:minInclusive 1 ; sh:message "29: volume must be a positive xsd:integer." ] ;
+  sh:property [ sh:path bibo:issue  ; sh:datatype xsd:integer ; sh:minInclusive 1 ; sh:message "29: issue must be a positive xsd:integer." ] ;
+  sh:property [ sh:path bibo:number ; sh:datatype xsd:integer ; sh:minInclusive 1 ; sh:message "29: number must be a positive xsd:integer." ] .
 
 ############ AGENTS (Person, Organization, Journal) ############
 
-# 24 Person / Organization / Journal naming
+# 30 Person / Organization / Journal naming
 # Only require names on locally described KhmerLOD people. External authority
 # records and controlled-vocabulary URIs are not expected to repeat labels/names.
 kh-sh:LocalPersonTarget a sh:SPARQLTarget ;
@@ -416,15 +401,15 @@ kh-sh:Person_Name
     rdf:type sh:NodeShape ; sh:target kh-sh:LocalPersonTarget ;
   sh:property [ sh:path foaf:name ; sh:minCount 1 ; sh:minLength 1 ;
     sh:severity sh:Warning ;
-    sh:message "25: Locally described person should have a non-empty foaf:name when known." ] ;
-  sh:property [ sh:path owl:sameAs ; sh:nodeKind sh:IRI ; sh:message "25: owl:sameAs must be an IRI." ] .
+    sh:message "30: Locally described person should have a non-empty foaf:name when known." ] ;
+  sh:property [ sh:path owl:sameAs ; sh:nodeKind sh:IRI ; sh:message "30: owl:sameAs must be an IRI." ] .
 kh-sh:Org_Name
     rdf:type sh:NodeShape ; sh:targetClass foaf:Organization ;
-  sh:property [ sh:path foaf:name ; sh:minCount 1 ; sh:minLength 1 ; sh:message "25: Organization needs a non-empty foaf:name." ] ;
-  sh:property [ sh:path foaf:member ; sh:class foaf:Person ; sh:message "25: foaf:member must be a foaf:Person." ] .
+  sh:property [ sh:path foaf:name ; sh:minCount 1 ; sh:minLength 1 ; sh:message "30: Organization needs a non-empty foaf:name." ] ;
+  sh:property [ sh:path foaf:member ; sh:class foaf:Person ; sh:message "30: foaf:member must be a foaf:Person." ] .
 kh-sh:Journal_Title
     rdf:type sh:NodeShape ; sh:targetClass bibo:Journal ;
-  sh:property [ sh:path dct:title ; sh:minCount 1 ; sh:message "25: Journal needs a dct:title." ] .
+  sh:property [ sh:path dct:title ; sh:minCount 1 ; sh:message "30: Journal needs a dct:title." ] .
 
 <http://www.semanticweb.org/ontologies/2026/khmerLOD/shapes/> a owl:Ontology ;
   sh:declare [ sh:prefix "schema" ; sh:namespace "http://schema.org/"^^xsd:anyURI ] ,
