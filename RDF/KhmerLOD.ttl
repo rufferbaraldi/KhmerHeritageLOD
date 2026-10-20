@@ -3765,8 +3765,8 @@ kh:AUTH_ATBANN rdf:type owl:NamedIndividual ,
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_AZBESC
 kh:AUTH_AZBESC rdf:type owl:NamedIndividual ,
-                        foaf:Person .
-
+                        foaf:Person ;
+               foaf:name "Azedine Beschaouch" .
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_BEPORT
 kh:AUTH_BEPORT rdf:type owl:NamedIndividual ,
@@ -3874,12 +3874,6 @@ kh:AUTH_CHPHOE rdf:type owl:NamedIndividual ,
 kh:AUTH_CHPOTT rdf:type owl:NamedIndividual ,
                         foaf:Person ;
                foaf:name "Christophe Pottier" .
-
-
-###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_CHSCHM
-kh:AUTH_CHSCHM rdf:type owl:NamedIndividual ,
-                        foaf:Person ;
-               rdfs:comment "GACP Team (Student)" .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_CHVISO
@@ -5852,7 +5846,6 @@ kh:BOOK_00009 rdf:type owl:NamedIndividual ,
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/BOOK_00010
 kh:BOOK_00010 rdf:type owl:NamedIndividual ,
                        bibo:Book ;
-              dct:isPartOf kh:BOOK_00010 ;
               dct:title "Cultural Heritage as Civilizing Mission: From Decay to Recovery"@en .
 
 
@@ -5940,6 +5933,7 @@ kh:DounKaev rdf:type owl:NamedIndividual ,
 kh:FOUN_00001 rdf:type owl:NamedIndividual ,
                        crm:E12_Production ;
               crm:P14_carried_out_by kh:KING_YASO_I ;
+              crm:P4_has_time-span kh:TSSI_00001 ;
               crm:P8_took_place_on_or_within kh:SITE_00001 .
 
 
@@ -7374,7 +7368,7 @@ kh:FOUN_00170 rdf:type owl:NamedIndividual ,
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/FOUN_00171
 kh:FOUN_00171 rdf:type owl:NamedIndividual ,
                        crm:E12_Production ;
-              crm:P14_carried_out_by kh:KING_SURY_II ,
+              crm:P14_carried_out_by kh:KING_SURY_I ,
                                      kh:KING_UDAY_II ;
               crm:P4_has_time-span kh:TSSI_00171 ;
               crm:P8_took_place_on_or_within kh:SITE_00171 .
@@ -8162,11 +8156,11 @@ kh:J54_V47 rdf:type owl:NamedIndividual ,
            bibo:volume 47 .
 
 
-###  http://www.semanticweb.org/ontologies/2026/khmerLOD/J55_V0
-kh:J55_V0 rdf:type owl:NamedIndividual ,
+###  http://www.semanticweb.org/ontologies/2026/khmerLOD/J55_V1
+kh:J55_V1 rdf:type owl:NamedIndividual ,
                    bibo:Issue ;
           dct:isPartOf kh:JNL_00055 ;
-          bibo:volume 0 .
+          bibo:volume 1 .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/J56_V56_I2
@@ -9405,7 +9399,8 @@ kh:JNL_00093 rdf:type owl:NamedIndividual ,
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/JNL_00094
 kh:JNL_00094 rdf:type owl:NamedIndividual ,
-                      bibo:Journal .
+                      bibo:Journal ;
+             dct:title "Asian Anthropology"@en .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/JNL_00095
@@ -11217,12 +11212,14 @@ kh:OBJPR_00158 rdf:type owl:NamedIndividual ,
 kh:OBJPR_00159 rdf:type owl:NamedIndividual ,
                         crm:E12_Production ;
                crm:P4_has_time-span kh:TSOB_00159 ;
+               crm:P14_carried_out_by kh:KING_BHAV_I ;
                crm:P7_took_place_at kh:Cambodia .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/OBJPR_00160
 kh:OBJPR_00160 rdf:type owl:NamedIndividual ,
                         crm:E12_Production ;
+               crm:P14_carried_out_by kh:KING_BHAV_I ;
                crm:P4_has_time-span kh:TSOB_00160 ;
                crm:P7_took_place_at kh:Cambodia .
 
@@ -12885,6 +12882,7 @@ kh:OBJ_00065 rdf:type owl:NamedIndividual ,
              crm:P108i_was_produced_by kh:OBJPR_00065 ;
              crm:P138i_has_representation kh:URL_00065 ;
              crm:P2_has_type <http://vocab.getty.edu/aat/300015336> ;
+             crm:P45_consists_of <http://vocab.getty.edu/aat/300010957> ;
              crm:P50_has_current_keeper kh:MUS_00001 ;
              crm:P55_has_current_location kh:PhnomPenh ;
              dct:description "Triade brahmanic"@en ;
@@ -12969,6 +12967,7 @@ kh:OBJ_00070 rdf:type owl:NamedIndividual ,
              crm:P108i_was_produced_by kh:OBJPR_00070 ;
              crm:P138i_has_representation kh:URL_00070 ;
              crm:P2_has_type <http://vocab.getty.edu/aat/300015336> ;
+             crm:P45_consists_of <http://vocab.getty.edu/aat/300010957> ;
              crm:P50_has_current_keeper kh:MUS_00004 ;
              crm:P55_has_current_location kh:London ;
              dct:description "Figure (Asura). Holding a rosary.Made of gilded, cast Bronze.,"@en ;
@@ -12985,6 +12984,7 @@ kh:OBJ_00071 rdf:type owl:NamedIndividual ,
              crm:P108i_was_produced_by kh:OBJPR_00071 ;
              crm:P138i_has_representation kh:URL_00071 ;
              crm:P2_has_type <http://vocab.getty.edu/aat/300015336> ;
+             crm:P45_consists_of <http://vocab.getty.edu/aat/300010957> ;
              crm:P50_has_current_keeper kh:MUS_00004 ;
              crm:P55_has_current_location kh:London ;
              dct:description "Figure of a two-armed deity. The hands are empty but the figure may originally have held objects. Made of gilded and cast Bronze.,"@en ;
@@ -17759,9 +17759,8 @@ kh:PUB_00010 rdf:type owl:NamedIndividual ,
              crm:P70_documents kh:SITE_00081 ,
                                kh:SITE_00082 ,
                                kh:UNESCO_04 ;
-             dct:abstract "" ;
              dct:date "2010"^^xsd:gYear ;
-             dct:identifier "ISBN 978 1 4073 0659 9"^^xsd:anyURI ;
+             dct:identifier "ISBN 978 1 4073 0659 9" ;
              dct:title "Applications of archaeological remote sensing in Cambodia: an overview of Angkor and beyond"@en ;
              schema:keywords "Angkor"@en ,
                              "Cambodia" ,
@@ -17803,7 +17802,6 @@ kh:PUB_00012 rdf:type owl:NamedIndividual ,
                          <http://vocab.getty.edu/aat/300054356> ;
              crm:P70_documents kh:SITE_00088 ,
                                kh:UNESCO_03 ;
-             dct:abstract "" ;
              dct:date "2015"^^xsd:gYear ;
              dct:identifier "http://doi.org/10.1163/9789004280540_016"^^xsd:anyURI ;
              dct:title "Crime and Conflict: Temple Looting in Cambodia"@en .
@@ -18731,7 +18729,7 @@ kh:PUB_00055 rdf:type owl:NamedIndividual ,
                          <http://vocab.getty.edu/aat/300054453> ;
              crm:P70_documents kh:UNESCO_03 ;
              dct:date "1996"^^xsd:gYear ;
-             dct:identifier "http://www.jstor.org/stable/20062750"^^xsd:anyURI ;
+             dct:identifier "http://www.jstor.org/stable/20062750" ;
              dct:title "What to Do about \"The Khmers\"" .
 
 
@@ -18774,6 +18772,7 @@ kh:PUB_00058 rdf:type owl:NamedIndividual ,
                       bibo:Thesis ;
              dct:accessRights coar:c_abf2 ;
              dct:creator kh:AUTH_MAGUER ;
+             crm:P70_documents kh:UNESCO_03 ;
              dct:language <http://id.loc.gov/vocabulary/iso639-2/fra> ;
              dct:publisher kh:PBSH_00012 ;
              dct:subject <http://vocab.getty.edu/aat/300054394> ,
@@ -19205,6 +19204,7 @@ kh:PUB_00074 rdf:type owl:NamedIndividual ,
 kh:PUB_00075 rdf:type owl:NamedIndividual ,
                       bibo:Report ;
              dct:accessRights coar:c_abf2 ;
+             dct:publisher kh:PBSH_00004 ;
              dct:creator kh:AUTH_DAKRAU ,
                          kh:AUTH_ESLEIS ,
                          kh:AUTH_HALEIS ,
@@ -19409,7 +19409,7 @@ kh:PUB_00083 rdf:type owl:NamedIndividual ,
                       bibo:Article ;
              dct:accessRights coar:c_abf2 ;
              dct:creator kh:AUTH_THWISA ;
-             dct:isPartOf kh:J55_V0 ;
+             dct:isPartOf kh:J55_V1 ;
              dct:language <http://id.loc.gov/vocabulary/iso639-2/eng> ;
              dct:publisher kh:PBSH_00015 ;
              dct:subject <http://vocab.getty.edu/aat/300054412> ,
@@ -20040,6 +20040,7 @@ kh:PUB_00107 rdf:type owl:NamedIndividual ,
 kh:PUB_00108 rdf:type owl:NamedIndividual ,
                       bibo:Article ;
              dct:accessRights coar:c_abf2 ;
+             dct:isPartOf kh:J69_V36 ;
              dct:creator kh:AUTH_CHGOLD ;
              dct:language <http://id.loc.gov/vocabulary/iso639-2/fra> ;
              dct:publisher kh:PBSH_00026 ;
@@ -20216,6 +20217,7 @@ kh:PUB_00115 rdf:type owl:NamedIndividual ,
                          kh:AUTH_TANAKA ;
              dct:language <http://id.loc.gov/vocabulary/iso639-2/eng> ;
              dct:publisher kh:PBSH_00032 ;
+             crm:P70_documents kh:UNESCO_03 ;
              dct:subject <http://vocab.getty.edu/aat/300054328> ,
                          <http://vocab.getty.edu/aat/300122729> ;
              dct:abstract "Isanapura in Sambor Preikuk complex is considered as a metropolitain city of Chenla kingdom during early 7th century. In where the main city area have divided into two main blocks of human occupation kown as a temple or worship zone and city zone. So far, the period of untilization within these two both zones is doughtful even the first contruction of the city moat. Based on AMS C14 and analizing on ceramics types existing in both zones, through this paper, it is providing a new data for interpreating on the date of Īsanapura city as fellowing: (a) Via AMS C14 dating, the moat of Īsanapura city, has more possibility to build during AD 6th century, (b) Human occupation in Īsanapura could be interpreted in two different ways: firstly, form the view of AMS C14 sampling from both zones, it gave the same date range from AD 6th century to Angkor period. Secondly, the exsiting of ceramic types shows a diversity of time span of human occupation within these two zones. In which the city zone is rich of ceramic types dated in pre-Angkor period rathen then Angkor period. But for the temple or whorship zone, it was found a long span of human occupation or cultural layer starting from pre-Angkor to Angkor period."@en ;
@@ -21476,6 +21478,7 @@ kh:PUB_00168 rdf:type owl:NamedIndividual ,
              dct:creator kh:AUTH_NANAGU ,
                          kh:AUTH_TOSUGA ;
              dct:language <http://id.loc.gov/vocabulary/iso639-2/jpn> ;
+             crm:P70_documents kh:UNESCO_01 ;
              dct:publisher kh:PBSH_00036 ;
              dct:subject <http://vocab.getty.edu/aat/300054328> ,
                          <http://vocab.getty.edu/aat/300054394> ;
@@ -21506,7 +21509,7 @@ kh:PUB_00169 rdf:type owl:NamedIndividual ,
                                kh:SITE_00102 ,
                                kh:UNESCO_03 ;
              dct:date "2009"^^xsd:gYear ;
-             dct:identifier "http://www.jstor.org/stable/40588564"^^xsd:anyURI ;
+             dct:identifier "http://www.jstor.org/stable/40588564" ;
              dct:title "Khmer Stone Sculptures: A Collection Seen from a Material Point of View"@en .
 
 
@@ -21602,9 +21605,8 @@ kh:PUB_00173 rdf:type owl:NamedIndividual ,
              dct:publisher kh:PBSH_00039 ;
              dct:subject <http://vocab.getty.edu/aat/300417282> ;
              crm:P70_documents kh:UNESCO_03 ;
-             dct:abstract "" ;
              dct:date "2018"^^xsd:gYear ;
-             dct:identifier "Catalog 0000263351"^^xsd:anyURI ;
+             dct:identifier "Catalog 0000263351" ;
              dct:title "Camboya: Los casos de restitucion de Koh Ker"@es .
 
 
@@ -21923,6 +21925,7 @@ kh:PUB_00185 rdf:type owl:NamedIndividual ,
              dct:accessRights coar:c_abf2 ;
              dct:creator kh:AUTH_CHMENG ;
              dct:publisher kh:PBSH_00043 ;
+             dct:language <http://id.loc.gov/vocabulary/iso639-2/eng> ;
              dct:subject <http://vocab.getty.edu/aat/300054328> ,
                          <http://vocab.getty.edu/aat/300054404> ,
                          <http://vocab.getty.edu/aat/300054543> ,
@@ -22151,8 +22154,7 @@ kh:PUB_00194 rdf:type owl:NamedIndividual ,
                          kh:AUTH_PABISH ,
                          kh:AUTH_QUHUA ,
                          kh:AUTH_SOBUCK ;
-             dct:isPartOf kh:J77_V59_I6 ,
-                          kh:J95_V3_I3 ;
+             dct:isPartOf kh:J95_V3_I3 ;
              dct:language <http://id.loc.gov/vocabulary/iso639-2/eng> ;
              dct:publisher kh:PBSH_00002 ;
              dct:subject <http://vocab.getty.edu/aat/300137339> ;
@@ -22280,6 +22282,7 @@ kh:PUB_00199 rdf:type owl:NamedIndividual ,
 kh:PUB_00200 rdf:type owl:NamedIndividual ,
                       bibo:Article ;
              dct:creator kh:AUTH_HALEIS ;
+             dct:accessRights coar:c_16ec ;
              dct:isPartOf kh:J98_V54_I1 ;
              dct:language <http://id.loc.gov/vocabulary/iso639-2/eng> ;
              dct:publisher kh:PBSH_00035 ;
@@ -22419,6 +22422,7 @@ kh:PUB_00209 rdf:type owl:NamedIndividual ,
                          <http://vocab.getty.edu/aat/300054394> ;
              crm:P70_documents kh:SITE_00038 ,
                                kh:UNESCO_01 ;
+             dct:date "2013"^^xsd:gYear ;
              dct:title "Ta Prohm Temple" .
 
 
@@ -22481,6 +22485,7 @@ kh:PUB_00212 rdf:type owl:NamedIndividual ,
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/PUB_00213
 kh:PUB_00213 rdf:type owl:NamedIndividual ,
                       bibo:Article ;
+             dct:accessRights coar:c_abf2 ;
              dct:creator kh:AUTH_ALCART ,
                          kh:AUTH_MISTAR ;
              dct:isPartOf kh:J100_V116_N25 ;
@@ -22503,6 +22508,7 @@ kh:PUB_00214 rdf:type owl:NamedIndividual ,
                       bibo:Article ;
              dct:creator kh:AUTH_IMSOKR ,
                          kh:AUTH_SULERT ;
+             dct:accessRights coar:c_abf2 ;
              dct:isPartOf kh:J101_N71 ;
              dct:language <http://id.loc.gov/vocabulary/iso639-2/eng> ;
              dct:publisher kh:PBSH_00045 ;
@@ -22561,6 +22567,7 @@ kh:PUB_00217 rdf:type owl:NamedIndividual ,
 kh:PUB_00218 rdf:type owl:NamedIndividual ,
                       bibo:Article ;
              dct:creator kh:AUTH_SUKUBO ;
+             dct:accessRights coar:c_abf2 ;
              dct:isPartOf kh:J102_N66 ;
              dct:language <http://id.loc.gov/vocabulary/iso639-2/eng> ;
              dct:publisher kh:PBSH_00046 ;
@@ -25745,10 +25752,8 @@ kh:SITE_00173 rdf:type owl:NamedIndividual ,
                          "Veal Reach Dak"@en ,
                          "វាលរាជដាក"@km ,
                          "ឥន្ទ្រតដាក"@km ;
-              wgs84:lat 13.35227 ,
-                        13.46352 ;
-              wgs84:long 103.90575 ,
-                         103.97861 .
+              wgs84:lat 13.35227  ;
+              wgs84:long 103.97861 .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/STATUS_00001
@@ -28981,8 +28986,8 @@ kh:TSOB_00229 rdf:type owl:NamedIndividual ,
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/TSSI_00001
 kh:TSSI_00001 rdf:type owl:NamedIndividual ,
                        crm:E52_Time-Span ;
-              schema:endDate "910"^^xsd:gYear ;
-              schema:startDate "889"^^xsd:gYear ;
+              schema:endDate "0910"^^xsd:gYear ;
+              schema:startDate "0889"^^xsd:gYear ;
               crm:P82_at_some_time_within "Late 9th century to 10th century"@en .
 
 
@@ -29150,15 +29155,15 @@ kh:TSSI_00021 rdf:type owl:NamedIndividual ,
 kh:TSSI_00022 rdf:type owl:NamedIndividual ,
                        crm:E52_Time-Span ;
               schema:endDate "1150"^^xsd:gYear ;
-              schema:startDate "8501"^^xsd:gYear ;
+              schema:startDate "0850"^^xsd:gYear ;
               crm:P82_at_some_time_within "9th, retored 12th century"@en .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/TSSI_00023
 kh:TSSI_00023 rdf:type owl:NamedIndividual ,
                        crm:E52_Time-Span ;
-              schema:endDate "9201"^^xsd:gYear ;
-              schema:startDate "9101"^^xsd:gYear ;
+              schema:endDate "0923"^^xsd:gYear ;
+              schema:startDate "0910"^^xsd:gYear ;
               crm:P82_at_some_time_within "Early 10th century"@en .
 
 
@@ -29181,8 +29186,8 @@ kh:TSSI_00025 rdf:type owl:NamedIndividual ,
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/TSSI_00026
 kh:TSSI_00026 rdf:type owl:NamedIndividual ,
                        crm:E52_Time-Span ;
-              schema:endDate "9201"^^xsd:gYear ;
-              schema:startDate "9101"^^xsd:gYear ;
+              schema:endDate "0923"^^xsd:gYear ;
+              schema:startDate "0910"^^xsd:gYear ;
               crm:P82_at_some_time_within "Early 10th century"@en .
 
 
@@ -30333,32 +30338,32 @@ kh:TSSI_00169 rdf:type owl:NamedIndividual ,
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/TSSI_00170
 kh:TSSI_00170 rdf:type owl:NamedIndividual ,
                        crm:E52_Time-Span ;
-              schema:endDate "0889"^^xsd:gYear ;
-              schema:startDate "0910"^^xsd:gYear ;
+              schema:endDate "0910"^^xsd:gYear ;
+              schema:startDate "0889"^^xsd:gYear ;
               crm:P82_at_some_time_within "Late 9th century to 10th century"@en .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/TSSI_00171
 kh:TSSI_00171 rdf:type owl:NamedIndividual ,
                        crm:E52_Time-Span ;
-              schema:endDate "1002"^^xsd:gYear ;
-              schema:startDate "1066"^^xsd:gYear ;
+              schema:endDate "1066"^^xsd:gYear ;
+              schema:startDate "1002"^^xsd:gYear ;
               crm:P82_at_some_time_within "11th century"@en .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/TSSI_00172
 kh:TSSI_00172 rdf:type owl:NamedIndividual ,
                        crm:E52_Time-Span ;
-              schema:endDate "1181"^^xsd:gYear ;
-              schema:startDate "1218"^^xsd:gYear ;
+              schema:endDate "1218"^^xsd:gYear ;
+              schema:startDate "1181"^^xsd:gYear ;
               crm:P82_at_some_time_within "Late 12th century to 13th century"@en .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/TSSI_00173
 kh:TSSI_00173 rdf:type owl:NamedIndividual ,
                        crm:E52_Time-Span ;
-              schema:endDate "0877"^^xsd:gYear ;
-              schema:startDate "0910"^^xsd:gYear ;
+              schema:endDate "0910"^^xsd:gYear ;
+              schema:startDate "0877"^^xsd:gYear ;
               crm:P82_at_some_time_within "Late 9th century"@en .
 
 
@@ -31817,7 +31822,9 @@ kh:URL_00200 rdf:type owl:NamedIndividual ,
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/URL_00201
 kh:URL_00201 rdf:type owl:NamedIndividual ,
-                      crm:E36_Visual_Item .
+                      crm:E36_Visual_Item ;
+             crm:P2_has_type <http://vocab.getty.edu/aat/300265431> ;
+             schema:contentUrl "https://www.guimet.fr/en/our-collections/southeast-asia/giants-causeway"^^xsd:anyURI .
 
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/URL_00202
