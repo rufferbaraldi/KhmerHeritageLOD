@@ -5013,7 +5013,7 @@ kh:AUTH_RACHHA rdf:type owl:NamedIndividual ,
                foaf:name "Rachna Chhay" .
 
 ###  http://www.semanticweb.org/ontologies/2026/khmerLOD/AUTH_RUBARA
-kh:AUTH_RACHHA rdf:type owl:NamedIndividual ,
+kh:AUTH_RUBARA rdf:type owl:NamedIndividual ,
                         foaf:Person ;
                foaf:name "Rubens Baraldi Fernandes" .
 
